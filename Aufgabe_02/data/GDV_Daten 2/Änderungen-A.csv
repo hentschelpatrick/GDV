@@ -1,0 +1,18 @@
+Änderungsort;Originial;Änderung;;;;;
+A (#);Spalte vorhanden;Spalte gelöscht;;;;;
+K (Network ID);Spalte vorhanden;Spalte gelöscht;;;;;
+B1;Wie alt sind Sie?;Alter;;;;;
+C1;Sind Sie ...?;Geschlecht;;;;;
+D1;Ihre KÃ¶rpergrÃ¶ÃŸe in cm?;Körpergröße (cm);;;;;
+E1;Ihr Studiengang?;Studiengang;;;;;
+F1;Welches OS haben Sie auf Ihrem Handy?;Handy OS;;;;;
+G;Other;Spalte gelöscht;;;;;
+H1;Wie gefÃ¤llt Ihnen das heutige Wetter?;Wie gefällt Ihnen das heutige Wetter;;;;;
+K;Network ID;Spalte gelöscht;;;;;
+B;männlich/weiblich;M/W;;;;;
+E;Informatik;IB;;;;;
+E;Unternehmens- und Wirtschaftsinformatik;UIB;;;;;
+E;(*.);toUpperCase();;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
