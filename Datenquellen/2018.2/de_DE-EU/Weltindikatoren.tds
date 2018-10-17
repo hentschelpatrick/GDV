@@ -1,0 +1,713 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build near.18.0220.2210                                -->
+<datasource formatted-name='Weltindikatoren' inline='true' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection class='federated'>
+    <named-connections>
+      <named-connection caption='Weltindikatoren' name='hyper.0d20atp1t4e7wr1er996508yxvrs'>
+        <connection authentication='auth-none' author-locale='en_US' class='hyper' dbname='Weltindikatoren.hyper' default-settings='yes' sslmode='' username='tableau_internal_user' />
+      </named-connection>
+    </named-connections>
+    <relation connection='hyper.0d20atp1t4e7wr1er996508yxvrs' name='Extract' table='[Extract].[Extract]' type='table' />
+    <metadata-records>
+      <metadata-record class='column'>
+        <remote-name>Ausreiseverkehr</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Ausreiseverkehr]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Ausreiseverkehr</remote-alias>
+        <ordinal>0</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>783</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>BIP</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[BIP]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>BIP</remote-alias>
+        <ordinal>1</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>2704</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Bevölkerung 0–14</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Bevölkerung 0–14]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Bevölkerung 0–14</remote-alias>
+        <ordinal>2</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>287</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Bevölkerung 15–64</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Bevölkerung 15–64]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Bevölkerung 15–64</remote-alias>
+        <ordinal>3</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>227</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Bevölkerung 65+</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Bevölkerung 65+]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Bevölkerung 65+</remote-alias>
+        <ordinal>4</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>150</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Bevölkerung in Städten</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Bevölkerung in Städten]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Bevölkerung in Städten</remote-alias>
+        <ordinal>5</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>584</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>CO2-Emissionen</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[CO2-Emissionen]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>CO2-Emissionen</remote-alias>
+        <ordinal>6</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>1127</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Einreiseverkehr</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Einreiseverkehr]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Einreiseverkehr</remote-alias>
+        <ordinal>7</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>1099</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Energienutzung</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Energienutzung]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Energienutzung</remote-alias>
+        <ordinal>8</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>779</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Geburtenrate</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Geburtenrate]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Geburtenrate</remote-alias>
+        <ordinal>9</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>42</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Gesamtbevölkerung</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Gesamtbevölkerung]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Gesamtbevölkerung</remote-alias>
+        <ordinal>10</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>2704</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Geschäftsfreundlichkeit</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Geschäftsfreundlichkeit]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Geschäftsfreundlichkeit</remote-alias>
+        <ordinal>11</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>42</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Gesundheitsausgaben in % BIP</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Gesundheitsausgaben in % BIP]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Gesundheitsausgaben in % BIP</remote-alias>
+        <ordinal>12</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>104</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Gesundheitsausgaben pro Kopf</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Gesundheitsausgaben pro Kopf]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Gesundheitsausgaben pro Kopf</remote-alias>
+        <ordinal>13</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>587</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Gewerbesteuersatz</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Gewerbesteuersatz]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Gewerbesteuersatz</remote-alias>
+        <ordinal>14</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>210</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Internetnutzung</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Internetnutzung]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Internetnutzung</remote-alias>
+        <ordinal>15</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>342</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Jahr</remote-name>
+        <remote-type>133</remote-type>
+        <local-name>[Jahr]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Jahr</remote-alias>
+        <ordinal>16</ordinal>
+        <local-type>date</local-type>
+        <aggregation>Year</aggregation>
+        <approx-count>13</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Kreditzinsen</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Kreditzinsen]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Kreditzinsen</remote-alias>
+        <ordinal>17</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>186</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Land</remote-name>
+        <remote-type>129</remote-type>
+        <local-name>[Land]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Land</remote-alias>
+        <ordinal>18</ordinal>
+        <local-type>string</local-type>
+        <aggregation>Count</aggregation>
+        <approx-count>210</approx-count>
+        <contains-null>true</contains-null>
+        <collation flag='0' name='LEN_RUS' />
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Lebenserwartung Frauen</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Lebenserwartung Frauen]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Lebenserwartung Frauen</remote-alias>
+        <ordinal>19</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>47</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Lebenserwartung Männer</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Lebenserwartung Männer]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Lebenserwartung Männer</remote-alias>
+        <ordinal>20</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>43</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Mobiltelefonnutzung</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Mobiltelefonnutzung]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Mobiltelefonnutzung</remote-alias>
+        <ordinal>21</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>732</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Number of Records</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Number of Records]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Number of Records</remote-alias>
+        <ordinal>22</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>1</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Region</remote-name>
+        <remote-type>129</remote-type>
+        <local-name>[Region]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Region</remote-alias>
+        <ordinal>23</ordinal>
+        <local-type>string</local-type>
+        <aggregation>Count</aggregation>
+        <approx-count>6</approx-count>
+        <contains-null>true</contains-null>
+        <collation flag='0' name='LEN_RUS' />
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Steueraufwand in Stunden</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Steueraufwand in Stunden]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Steueraufwand in Stunden</remote-alias>
+        <ordinal>24</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>176</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Säuglingssterblichkeit</remote-name>
+        <remote-type>5</remote-type>
+        <local-name>[Säuglingssterblichkeit]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Säuglingssterblichkeit</remote-alias>
+        <ordinal>25</ordinal>
+        <local-type>real</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>98</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+      <metadata-record class='column'>
+        <remote-name>Tage bis Geschäftsgründung</remote-name>
+        <remote-type>20</remote-type>
+        <local-name>[Tage bis Geschäftsgründung]</local-name>
+        <parent-name>[Extract]</parent-name>
+        <remote-alias>Tage bis Geschäftsgründung</remote-alias>
+        <ordinal>26</ordinal>
+        <local-type>integer</local-type>
+        <aggregation>Sum</aggregation>
+        <approx-count>94</approx-count>
+        <contains-null>true</contains-null>
+      </metadata-record>
+    </metadata-records>
+  </connection>
+  <column datatype='string' name='[Land]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+  <folder name='Bevölkerung' role='measures'>
+    <folder-item name='[Bevölkerung 0–14]' type='field' />
+    <folder-item name='[Bevölkerung 15–64]' type='field' />
+    <folder-item name='[Bevölkerung 65+]' type='field' />
+    <folder-item name='[Bevölkerung in Städten]' type='field' />
+    <folder-item name='[Geburtenrate]' type='field' />
+    <folder-item name='[Gesamtbevölkerung]' type='field' />
+  </folder>
+  <folder name='Entwicklung' role='measures'>
+    <folder-item name='[Ausreiseverkehr]' type='field' />
+    <folder-item name='[BIP]' type='field' />
+    <folder-item name='[CO2-Emissionen]' type='field' />
+    <folder-item name='[Einreiseverkehr]' type='field' />
+    <folder-item name='[Energienutzung]' type='field' />
+    <folder-item name='[Internetnutzung]' type='field' />
+    <folder-item name='[Mobiltelefonnutzung]' type='field' />
+  </folder>
+  <folder name='Gesundheit' role='measures'>
+    <folder-item name='[Gesundheitsausgaben in % BIP]' type='field' />
+    <folder-item name='[Gesundheitsausgaben pro Kopf]' type='field' />
+    <folder-item name='[Lebenserwartung Frauen]' type='field' />
+    <folder-item name='[Lebenserwartung Männer]' type='field' />
+    <folder-item name='[Säuglingssterblichkeit]' type='field' />
+  </folder>
+  <folder name='Unternehmen' role='measures'>
+    <folder-item name='[Geschäftsfreundlichkeit]' type='field' />
+    <folder-item name='[Gewerbesteuersatz]' type='field' />
+    <folder-item name='[Kreditzinsen]' type='field' />
+    <folder-item name='[Steueraufwand in Stunden]' type='field' />
+    <folder-item name='[Tage bis Geschäftsgründung]' type='field' />
+  </folder>
+  <extract count='-1' enabled='false' units='records'>
+    <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='C:/Users/kmason/Dropbox (Tableau Software)/In-Product Samples/Data Sources/de_DE-EU/Weltindikatoren.hyper' default-settings='yes' schema='Extract' sslmode='' tablename='Extract' update-time='09/26/2017 11:24:09 PM' username='tableau_internal_user'>
+      <relation name='Extract' table='[Extract].[Extract]' type='table' />
+      <refresh>
+        <refresh-event add-from-file-path='' increment-value='%null%' refresh-type='create' rows-inserted='2704' timestamp-start='2017-09-26 23:24:09.953' />
+      </refresh>
+      <metadata-records>
+        <metadata-record class='column'>
+          <remote-name>Ausreiseverkehr</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Ausreiseverkehr]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Ausreiseverkehr</remote-alias>
+          <ordinal>0</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>783</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>BIP</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[BIP]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>BIP</remote-alias>
+          <ordinal>1</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>2704</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Bevölkerung 0–14</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Bevölkerung 0–14]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Bevölkerung 0–14</remote-alias>
+          <ordinal>2</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>287</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Bevölkerung 15–64</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Bevölkerung 15–64]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Bevölkerung 15–64</remote-alias>
+          <ordinal>3</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>227</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Bevölkerung 65+</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Bevölkerung 65+]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Bevölkerung 65+</remote-alias>
+          <ordinal>4</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>150</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Bevölkerung in Städten</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Bevölkerung in Städten]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Bevölkerung in Städten</remote-alias>
+          <ordinal>5</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>584</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>CO2-Emissionen</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[CO2-Emissionen]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>CO2-Emissionen</remote-alias>
+          <ordinal>6</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>1127</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Einreiseverkehr</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Einreiseverkehr]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Einreiseverkehr</remote-alias>
+          <ordinal>7</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>1099</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Energienutzung</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Energienutzung]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Energienutzung</remote-alias>
+          <ordinal>8</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>779</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Geburtenrate</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Geburtenrate]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Geburtenrate</remote-alias>
+          <ordinal>9</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>42</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Gesamtbevölkerung</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Gesamtbevölkerung]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Gesamtbevölkerung</remote-alias>
+          <ordinal>10</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>2704</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Geschäftsfreundlichkeit</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Geschäftsfreundlichkeit]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Geschäftsfreundlichkeit</remote-alias>
+          <ordinal>11</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>42</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Gesundheitsausgaben in % BIP</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Gesundheitsausgaben in % BIP]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Gesundheitsausgaben in % BIP</remote-alias>
+          <ordinal>12</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>104</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Gesundheitsausgaben pro Kopf</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Gesundheitsausgaben pro Kopf]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Gesundheitsausgaben pro Kopf</remote-alias>
+          <ordinal>13</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>587</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Gewerbesteuersatz</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Gewerbesteuersatz]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Gewerbesteuersatz</remote-alias>
+          <ordinal>14</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>210</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Internetnutzung</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Internetnutzung]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Internetnutzung</remote-alias>
+          <ordinal>15</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>342</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Jahr</remote-name>
+          <remote-type>133</remote-type>
+          <local-name>[Jahr]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Jahr</remote-alias>
+          <ordinal>16</ordinal>
+          <local-type>date</local-type>
+          <aggregation>Year</aggregation>
+          <approx-count>13</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Kreditzinsen</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Kreditzinsen]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Kreditzinsen</remote-alias>
+          <ordinal>17</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>186</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Land</remote-name>
+          <remote-type>129</remote-type>
+          <local-name>[Land]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Land</remote-alias>
+          <ordinal>18</ordinal>
+          <local-type>string</local-type>
+          <aggregation>Count</aggregation>
+          <approx-count>210</approx-count>
+          <contains-null>true</contains-null>
+          <collation flag='0' name='LEN_RUS' />
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Lebenserwartung Frauen</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Lebenserwartung Frauen]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Lebenserwartung Frauen</remote-alias>
+          <ordinal>19</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>47</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Lebenserwartung Männer</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Lebenserwartung Männer]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Lebenserwartung Männer</remote-alias>
+          <ordinal>20</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>43</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Mobiltelefonnutzung</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Mobiltelefonnutzung]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Mobiltelefonnutzung</remote-alias>
+          <ordinal>21</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>732</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Number of Records</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Number of Records]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Number of Records</remote-alias>
+          <ordinal>22</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>1</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Region</remote-name>
+          <remote-type>129</remote-type>
+          <local-name>[Region]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Region</remote-alias>
+          <ordinal>23</ordinal>
+          <local-type>string</local-type>
+          <aggregation>Count</aggregation>
+          <approx-count>6</approx-count>
+          <contains-null>true</contains-null>
+          <collation flag='0' name='LEN_RUS' />
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Steueraufwand in Stunden</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Steueraufwand in Stunden]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Steueraufwand in Stunden</remote-alias>
+          <ordinal>24</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>176</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Säuglingssterblichkeit</remote-name>
+          <remote-type>5</remote-type>
+          <local-name>[Säuglingssterblichkeit]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Säuglingssterblichkeit</remote-alias>
+          <ordinal>25</ordinal>
+          <local-type>real</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>98</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+        <metadata-record class='column'>
+          <remote-name>Tage bis Geschäftsgründung</remote-name>
+          <remote-type>20</remote-type>
+          <local-name>[Tage bis Geschäftsgründung]</local-name>
+          <parent-name>[Extract]</parent-name>
+          <remote-alias>Tage bis Geschäftsgründung</remote-alias>
+          <ordinal>26</ordinal>
+          <local-type>integer</local-type>
+          <aggregation>Sum</aggregation>
+          <approx-count>94</approx-count>
+          <contains-null>true</contains-null>
+        </metadata-record>
+      </metadata-records>
+    </connection>
+  </extract>
+  <layout dim-ordering='alphabetic' dim-percentage='0.130194' measure-ordering='alphabetic' measure-percentage='0.819945' parameter-percentage='0.0498615' show-hidden-fields='true' show-structure='false' user-set-layout='true' />
+  <semantic-values>
+    <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+  </semantic-values>
+</datasource>
