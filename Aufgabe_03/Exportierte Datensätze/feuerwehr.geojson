@@ -1,0 +1,1549 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-10T10:40:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25416787",
+        "addr:city": "Viernheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "68519",
+        "addr:street": "Robert-Bosch-Straße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Viernheim",
+        "source": "https://www.ffw-viernheim.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5894787,
+              49.55267
+            ],
+            [
+              8.5895887,
+              49.5527904
+            ],
+            [
+              8.5893804,
+              49.5528761
+            ],
+            [
+              8.5893961,
+              49.5528937
+            ],
+            [
+              8.5893805,
+              49.5528998
+            ],
+            [
+              8.5893877,
+              49.5529072
+            ],
+            [
+              8.5893671,
+              49.5529153
+            ],
+            [
+              8.5893596,
+              49.5529072
+            ],
+            [
+              8.5892796,
+              49.5529381
+            ],
+            [
+              8.5892906,
+              49.5529492
+            ],
+            [
+              8.5890043,
+              49.5530654
+            ],
+            [
+              8.5890002,
+              49.5530613
+            ],
+            [
+              8.5889413,
+              49.5530837
+            ],
+            [
+              8.5891127,
+              49.5532682
+            ],
+            [
+              8.5891841,
+              49.5532396
+            ],
+            [
+              8.5892286,
+              49.5532861
+            ],
+            [
+              8.5890849,
+              49.5533439
+            ],
+            [
+              8.5890703,
+              49.5533287
+            ],
+            [
+              8.5890424,
+              49.5532995
+            ],
+            [
+              8.5890531,
+              49.5532951
+            ],
+            [
+              8.588841,
+              49.5530666
+            ],
+            [
+              8.5887028,
+              49.5531207
+            ],
+            [
+              8.5886137,
+              49.5531555
+            ],
+            [
+              8.5885171,
+              49.5530531
+            ],
+            [
+              8.5891645,
+              49.5527929
+            ],
+            [
+              8.5892021,
+              49.5527778
+            ],
+            [
+              8.5891769,
+              49.5527734
+            ],
+            [
+              8.5891635,
+              49.5527625
+            ],
+            [
+              8.5891588,
+              49.5527505
+            ],
+            [
+              8.5891626,
+              49.5527369
+            ],
+            [
+              8.589174,
+              49.5527246
+            ],
+            [
+              8.5891912,
+              49.5527173
+            ],
+            [
+              8.5892096,
+              49.552711
+            ],
+            [
+              8.5892306,
+              49.5527086
+            ],
+            [
+              8.5892516,
+              49.5527108
+            ],
+            [
+              8.589271,
+              49.5527178
+            ],
+            [
+              8.5892785,
+              49.5527336
+            ],
+            [
+              8.5892785,
+              49.5527473
+            ],
+            [
+              8.5893121,
+              49.5527343
+            ],
+            [
+              8.5894787,
+              49.55267
+            ]
+          ]
+        ]
+      },
+      "id": "way/25416787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51037839",
+        "addr:city": "Ilvesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "68549",
+        "addr:street": "Mühlenweg",
+        "amenity": "fire_station",
+        "building": "yes",
+        "email": "gemeinde@ilvesheim.de",
+        "name": "Freiwillige Feuerwehr Ilvesheim",
+        "phone": "+49 621 49660-0",
+        "website": "www.feuerwehr-ilvesheim.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.559989,
+              49.4768288
+            ],
+            [
+              8.5598474,
+              49.47677
+            ],
+            [
+              8.5598578,
+              49.4767593
+            ],
+            [
+              8.5596249,
+              49.4766627
+            ],
+            [
+              8.5597784,
+              49.4765066
+            ],
+            [
+              8.5600106,
+              49.476603
+            ],
+            [
+              8.5600215,
+              49.476592
+            ],
+            [
+              8.5601399,
+              49.4766411
+            ],
+            [
+              8.5601024,
+              49.4766792
+            ],
+            [
+              8.5601403,
+              49.4766949
+            ],
+            [
+              8.5601125,
+              49.4767232
+            ],
+            [
+              8.5600746,
+              49.4767075
+            ],
+            [
+              8.5600338,
+              49.476749
+            ],
+            [
+              8.5600577,
+              49.4767589
+            ],
+            [
+              8.559989,
+              49.4768288
+            ]
+          ]
+        ]
+      },
+      "id": "way/51037839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/73293963",
+        "addr:city": "Ladenburg",
+        "addr:housenumber": "53",
+        "addr:postcode": "68526",
+        "addr:street": "Wallstadter Straße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Feuerwache",
+        "operator": "Freiwillige Feuerwehr Ladenburg",
+        "website": "http://www.feuerwehr-ladenburg.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6055233,
+              49.4769783
+            ],
+            [
+              8.6051576,
+              49.4765518
+            ],
+            [
+              8.6058853,
+              49.4762844
+            ],
+            [
+              8.6059727,
+              49.4763843
+            ],
+            [
+              8.605491,
+              49.4765617
+            ],
+            [
+              8.6057765,
+              49.4768831
+            ],
+            [
+              8.6055233,
+              49.4769783
+            ]
+          ]
+        ]
+      },
+      "id": "way/73293963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/73560659",
+        "amenity": "fire_station",
+        "name": "Berufsfeuerwehr Ludwigshafen Feuerwache 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.433869,
+              49.4621178
+            ],
+            [
+              8.4346265,
+              49.4618339
+            ],
+            [
+              8.4347854,
+              49.4621222
+            ],
+            [
+              8.4349269,
+              49.4620754
+            ],
+            [
+              8.4355596,
+              49.4619434
+            ],
+            [
+              8.4359979,
+              49.4619941
+            ],
+            [
+              8.4360359,
+              49.4620899
+            ],
+            [
+              8.4361938,
+              49.4624256
+            ],
+            [
+              8.4362976,
+              49.4627024
+            ],
+            [
+              8.4362646,
+              49.4629631
+            ],
+            [
+              8.4351176,
+              49.463087
+            ],
+            [
+              8.4344376,
+              49.4626759
+            ],
+            [
+              8.4345619,
+              49.46259
+            ],
+            [
+              8.433869,
+              49.4621178
+            ]
+          ]
+        ]
+      },
+      "id": "way/73560659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/73562594",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Ludwigshafen Stadtmitte",
+        "operator": "Stadt Ludwigshafen am Rhein",
+        "short_name:de": "FF LU-Stadtmitte",
+        "website": "http://www.fflu-stadtmitte.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4549923,
+              49.4672279
+            ],
+            [
+              8.4551705,
+              49.4671391
+            ],
+            [
+              8.4552119,
+              49.4671496
+            ],
+            [
+              8.4551848,
+              49.4673515
+            ],
+            [
+              8.4551147,
+              49.4677416
+            ],
+            [
+              8.455073,
+              49.4677633
+            ],
+            [
+              8.4549755,
+              49.4677544
+            ],
+            [
+              8.4549041,
+              49.4677459
+            ],
+            [
+              8.4545475,
+              49.4674625
+            ],
+            [
+              8.4547356,
+              49.4673641
+            ],
+            [
+              8.4547971,
+              49.4673239
+            ],
+            [
+              8.4549923,
+              49.4672279
+            ]
+          ]
+        ]
+      },
+      "id": "way/73562594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95531076",
+        "amenity": "fire_station",
+        "building": "yes",
+        "email": "presse@feuerwehr-edingen-neckarhausen.de",
+        "name": "Feuerwehr Edingen-Neckarhausen",
+        "website": "http://www.feuerwehr-edingen-neckarhausen.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6020455,
+              49.4640608
+            ],
+            [
+              8.6021715,
+              49.4640939
+            ],
+            [
+              8.6020772,
+              49.4642526
+            ],
+            [
+              8.601929,
+              49.4642537
+            ],
+            [
+              8.6019686,
+              49.4641882
+            ],
+            [
+              8.6020455,
+              49.4640608
+            ]
+          ]
+        ]
+      },
+      "id": "way/95531076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116935735",
+        "addr:city": "Heddesheim",
+        "addr:housenumber": "3",
+        "addr:postcode": "68542",
+        "addr:street": "Unterdorfstraße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Heddesheim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6021698,
+              49.5044879
+            ],
+            [
+              8.6024419,
+              49.5044911
+            ],
+            [
+              8.6024395,
+              49.5045843
+            ],
+            [
+              8.6021674,
+              49.5045811
+            ],
+            [
+              8.6021698,
+              49.5044879
+            ]
+          ]
+        ]
+      },
+      "id": "way/116935735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117148397",
+        "addr:housenumber": "158",
+        "addr:street": "Seckenheimer Hauptstraße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "email": "kommandant@ff-seckenheim.de",
+        "name": "Freiwillige Feuerwehr Seckenheim",
+        "phone": "+49 621 382888-454",
+        "source:geometry": "LGL, www.lgl-bw.de",
+        "website": "http://www.ff-seckenheim.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5575394,
+              49.470957
+            ],
+            [
+              8.5574626,
+              49.4710226
+            ],
+            [
+              8.5574468,
+              49.4710148
+            ],
+            [
+              8.5573775,
+              49.4709805
+            ],
+            [
+              8.5573613,
+              49.4709725
+            ],
+            [
+              8.5574895,
+              49.4708631
+            ],
+            [
+              8.557509,
+              49.4708727
+            ],
+            [
+              8.5575608,
+              49.4708285
+            ],
+            [
+              8.5576544,
+              49.4708748
+            ],
+            [
+              8.5575512,
+              49.4709629
+            ],
+            [
+              8.5575394,
+              49.470957
+            ]
+          ]
+        ]
+      },
+      "id": "way/117148397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122576036",
+        "addr:housenumber": "87-89",
+        "addr:postcode": "68309",
+        "addr:street": "Auf dem Sand",
+        "amenity": "fire_station",
+        "landuse": "industrial",
+        "name": "Feuerwache Nord"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5099193,
+              49.5187123
+            ],
+            [
+              8.5098573,
+              49.5187059
+            ],
+            [
+              8.508618,
+              49.517495
+            ],
+            [
+              8.5089443,
+              49.5173688
+            ],
+            [
+              8.5090732,
+              49.5173508
+            ],
+            [
+              8.5098188,
+              49.5171306
+            ],
+            [
+              8.5099816,
+              49.5171632
+            ],
+            [
+              8.510237,
+              49.5175382
+            ],
+            [
+              8.5106979,
+              49.5181984
+            ],
+            [
+              8.5105687,
+              49.5182401
+            ],
+            [
+              8.5106793,
+              49.5183907
+            ],
+            [
+              8.5099193,
+              49.5187123
+            ]
+          ]
+        ]
+      },
+      "id": "way/122576036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130107489",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "124",
+        "addr:postcode": "68259",
+        "addr:street": "Theodor-Storm-Straße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:Freiwillige_Feuerwehr_Mannheim-Feudenheim.jpg",
+        "name": "Freiwillige Feuerwehr Feudenheim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5462319,
+              49.4897303
+            ],
+            [
+              8.5461747,
+              49.4896186
+            ],
+            [
+              8.5464056,
+              49.4895687
+            ],
+            [
+              8.5464628,
+              49.4896805
+            ],
+            [
+              8.5463602,
+              49.4897026
+            ],
+            [
+              8.5462319,
+              49.4897303
+            ]
+          ]
+        ]
+      },
+      "id": "way/130107489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163989778",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Flughafenfeuerwehr City-Airport Mannheim",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5222593,
+              49.4749403
+            ],
+            [
+              8.5220489,
+              49.4749778
+            ],
+            [
+              8.5219829,
+              49.4748211
+            ],
+            [
+              8.5221934,
+              49.4747837
+            ],
+            [
+              8.5222382,
+              49.4748901
+            ],
+            [
+              8.5222593,
+              49.4749403
+            ]
+          ]
+        ]
+      },
+      "id": "way/163989778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164855082",
+        "amenity": "fire_station",
+        "building": "industrial",
+        "contact:fax": "+49 621 60-42525",
+        "contact:phone": "+49 621 60-0",
+        "emergency": "ambulance_station",
+        "name": "Werkfeuerwehr BASF Ludwigshafen",
+        "short_name": "WF BASF Ludwigshafen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4120014,
+              49.5257405
+            ],
+            [
+              8.4124266,
+              49.5261258
+            ],
+            [
+              8.4124407,
+              49.5261192
+            ],
+            [
+              8.412474,
+              49.5261238
+            ],
+            [
+              8.4125032,
+              49.5261503
+            ],
+            [
+              8.4124997,
+              49.5261688
+            ],
+            [
+              8.4124853,
+              49.5261755
+            ],
+            [
+              8.412544,
+              49.5262287
+            ],
+            [
+              8.4124719,
+              49.5262622
+            ],
+            [
+              8.4124823,
+              49.5262717
+            ],
+            [
+              8.4123956,
+              49.526312
+            ],
+            [
+              8.4123888,
+              49.5263058
+            ],
+            [
+              8.412324,
+              49.5263359
+            ],
+            [
+              8.412317,
+              49.5263296
+            ],
+            [
+              8.4122781,
+              49.5263477
+            ],
+            [
+              8.4121697,
+              49.5262494
+            ],
+            [
+              8.4122075,
+              49.5262318
+            ],
+            [
+              8.4118191,
+              49.5258799
+            ],
+            [
+              8.4118087,
+              49.5258848
+            ],
+            [
+              8.4117689,
+              49.5258487
+            ],
+            [
+              8.4120014,
+              49.5257405
+            ]
+          ]
+        ]
+      },
+      "id": "way/164855082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171083134",
+        "addr:city": "Altrip",
+        "addr:housenumber": "62A",
+        "addr:postcode": "67122",
+        "addr:street": "Moltkestraße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr VG Rheinauen - WE Altrip",
+        "operator": "Verbandsgemeinde Rheinauen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4920167,
+              49.4359173
+            ],
+            [
+              8.4928114,
+              49.4358312
+            ],
+            [
+              8.4928683,
+              49.4360532
+            ],
+            [
+              8.4926002,
+              49.4360822
+            ],
+            [
+              8.492577,
+              49.4359917
+            ],
+            [
+              8.4922429,
+              49.4360279
+            ],
+            [
+              8.4922621,
+              49.4361027
+            ],
+            [
+              8.4920696,
+              49.4361236
+            ],
+            [
+              8.4920167,
+              49.4359173
+            ]
+          ]
+        ]
+      },
+      "id": "way/171083134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181251947",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "5-9",
+        "addr:postcode": "68259",
+        "addr:street": "Mudauer Ring",
+        "amenity": "fire_station",
+        "name": "Freiwillige Feuerwehr Wallstadt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.540878,
+              49.4979934
+            ],
+            [
+              8.5408708,
+              49.4979832
+            ],
+            [
+              8.5410999,
+              49.497887
+            ],
+            [
+              8.5412957,
+              49.498078
+            ],
+            [
+              8.5413718,
+              49.4981394
+            ],
+            [
+              8.5413396,
+              49.4981565
+            ],
+            [
+              8.5413113,
+              49.4981714
+            ],
+            [
+              8.5411001,
+              49.4982825
+            ],
+            [
+              8.5409817,
+              49.4983451
+            ],
+            [
+              8.5409405,
+              49.4983659
+            ],
+            [
+              8.5407603,
+              49.4982241
+            ],
+            [
+              8.5407332,
+              49.4981987
+            ],
+            [
+              8.5406872,
+              49.4981574
+            ],
+            [
+              8.5407846,
+              49.4981168
+            ],
+            [
+              8.5409371,
+              49.4980561
+            ],
+            [
+              8.540878,
+              49.4979934
+            ]
+          ]
+        ]
+      },
+      "id": "way/181251947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210631148",
+        "addr:housename": "Rettungszentrum Friedrichsfeld",
+        "addr:housenumber": "57, 59",
+        "addr:postcode": "68229",
+        "addr:street": "Saarburger Ring",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Feuerwehr Friedrichsfeld",
+        "note": "frei gezeichnet",
+        "operator": "Stadt Mannheim",
+        "url": "http://www.ff-friedrichsfeld.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5710965,
+              49.4423179
+            ],
+            [
+              8.5709066,
+              49.4423045
+            ],
+            [
+              8.5709278,
+              49.442178
+            ],
+            [
+              8.5709383,
+              49.4421122
+            ],
+            [
+              8.571131,
+              49.4421262
+            ],
+            [
+              8.5710965,
+              49.4423179
+            ]
+          ]
+        ]
+      },
+      "id": "way/210631148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/322417378",
+        "alt_name": "Freiwillige Feuerwehr Oppau",
+        "amenity": "fire_station",
+        "name": "Berufsfeuerwehr Ludwigshafen Feuerwache 2",
+        "short_name": "BF LU Fw 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4058996,
+              49.51346
+            ],
+            [
+              8.4059358,
+              49.5135784
+            ],
+            [
+              8.4061047,
+              49.5135584
+            ],
+            [
+              8.4061745,
+              49.5140904
+            ],
+            [
+              8.4062536,
+              49.5146007
+            ],
+            [
+              8.4045397,
+              49.5148445
+            ],
+            [
+              8.4041455,
+              49.51379
+            ],
+            [
+              8.4047824,
+              49.5136464
+            ],
+            [
+              8.4057802,
+              49.5133991
+            ],
+            [
+              8.405803,
+              49.5134722
+            ],
+            [
+              8.4058996,
+              49.51346
+            ]
+          ]
+        ]
+      },
+      "id": "way/322417378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389346624",
+        "addr:city": "Frankenthal (Pfalz)",
+        "addr:housenumber": "3",
+        "addr:postcode": "67227",
+        "addr:street": "Nordring",
+        "amenity": "fire_station",
+        "building": "public",
+        "name": "Freiwillige Feuerwehr Frankenthal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3618107,
+              49.5426559
+            ],
+            [
+              8.3622532,
+              49.5423787
+            ],
+            [
+              8.3620159,
+              49.5422116
+            ],
+            [
+              8.3615679,
+              49.5424918
+            ],
+            [
+              8.3613749,
+              49.5423617
+            ],
+            [
+              8.3618,
+              49.5420946
+            ],
+            [
+              8.361808,
+              49.5420993
+            ],
+            [
+              8.3619864,
+              49.5419871
+            ],
+            [
+              8.3622265,
+              49.5421529
+            ],
+            [
+              8.3622345,
+              49.5421459
+            ],
+            [
+              8.3623686,
+              49.5422342
+            ],
+            [
+              8.3623593,
+              49.5422399
+            ],
+            [
+              8.362437,
+              49.5422908
+            ],
+            [
+              8.3625188,
+              49.5422347
+            ],
+            [
+              8.3626704,
+              49.5423374
+            ],
+            [
+              8.362492,
+              49.5424514
+            ],
+            [
+              8.3625282,
+              49.542477
+            ],
+            [
+              8.3624411,
+              49.5425297
+            ],
+            [
+              8.3624276,
+              49.5425219
+            ],
+            [
+              8.3620025,
+              49.5427873
+            ],
+            [
+              8.3619904,
+              49.5427789
+            ],
+            [
+              8.3618107,
+              49.5426559
+            ]
+          ]
+        ]
+      },
+      "id": "way/389346624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438595856",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "68163",
+        "addr:street": "Gert-Magnus-Platz",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "name": "Hauptfeuerwache Mannheim",
+        "operator": "Stadt Mannheim",
+        "roof:shape": "flat",
+        "start_date": "2017-03"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4855525,
+              49.4675731
+            ],
+            [
+              8.4862156,
+              49.4667453
+            ],
+            [
+              8.4867615,
+              49.46693
+            ],
+            [
+              8.4866493,
+              49.4670702
+            ],
+            [
+              8.4863808,
+              49.4669793
+            ],
+            [
+              8.4859284,
+              49.4675439
+            ],
+            [
+              8.486499,
+              49.467737
+            ],
+            [
+              8.4865554,
+              49.4676666
+            ],
+            [
+              8.486894,
+              49.4677812
+            ],
+            [
+              8.4867391,
+              49.4679745
+            ],
+            [
+              8.4855525,
+              49.4675731
+            ]
+          ]
+        ]
+      },
+      "id": "way/438595856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482268282",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "68163",
+        "addr:street": "Gert-Magnus-Platz",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Freiwillige Feuerwehr Neckarau und Innenstadt",
+        "operator": "Stadt Mannheim",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4868386,
+              49.4679972
+            ],
+            [
+              8.4871651,
+              49.4675873
+            ],
+            [
+              8.4873891,
+              49.4676626
+            ],
+            [
+              8.4870626,
+              49.4680726
+            ],
+            [
+              8.4868386,
+              49.4679972
+            ]
+          ]
+        ]
+      },
+      "id": "way/482268282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/447833171",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4542282,
+          49.4460953
+        ]
+      },
+      "id": "node/447833171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/462686570",
+        "addr:city": "Edingen-Neckarhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "68535",
+        "addr:street": "Gartenstraße",
+        "addr:suburb": "Edingen",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6088509,
+          49.4464999
+        ]
+      },
+      "id": "node/462686570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615522394",
+        "amenity": "fire_station",
+        "name": "Werkfeuerwehr Daimler AG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4894518,
+          49.5157539
+        ]
+      },
+      "id": "node/1615522394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615523838",
+        "amenity": "fire_station",
+        "name": "Werkfeuerwehr Bunge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4517995,
+          49.5060099
+        ]
+      },
+      "id": "node/1615523838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615525531",
+        "amenity": "fire_station",
+        "name": "US-Army Feuerwehr Mannheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4658694,
+          49.5614352
+        ]
+      },
+      "id": "node/1615525531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615529199",
+        "amenity": "fire_station",
+        "name": "Werkfeuerwehr GKM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4905058,
+          49.4466492
+        ]
+      },
+      "id": "node/1615529199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615535929",
+        "amenity": "fire_station",
+        "name": "Werkfeuerwehr Roche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4732735,
+          49.5300272
+        ]
+      },
+      "id": "node/1615535929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615537177",
+        "amenity": "fire_station",
+        "name": "Werkfeuerwehr BASF Feuerwache Ost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4471756,
+          49.522593
+        ]
+      },
+      "id": "node/1615537177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623593766",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3803269,
+          49.5495045
+        ]
+      },
+      "id": "node/1623593766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1934246076",
+        "amenity": "fire_station",
+        "name": "John Deere Werksfeuerwehr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4759258,
+          49.4707641
+        ]
+      },
+      "id": "node/1934246076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1939547932",
+        "amenity": "fire_station",
+        "description:de": "Feuer- und Rettungswache Süd der Werkfeuerwehr BASF SE",
+        "emergency": "ambulance_station",
+        "name": "Werkfeuer- und Rettungswache BASF Ludwigshafen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4283467,
+          49.495644
+        ]
+      },
+      "id": "node/1939547932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2756011966",
+        "amenity": "fire_station",
+        "designation": "Werkfeuerwehr Abbvie",
+        "name": "Werkfeuerwehr Abbvie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4359104,
+          49.4743242
+        ]
+      },
+      "id": "node/2756011966"
+    }
+  ]
+}

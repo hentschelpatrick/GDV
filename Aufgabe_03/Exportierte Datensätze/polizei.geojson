@@ -1,0 +1,1628 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-10T10:39:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/101973192",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "67061",
+        "addr:street": "Wittelsbachstraße",
+        "amenity": "police",
+        "building": "government",
+        "contact:email": "pdludwigshafen.presse@polizei.rlp.de",
+        "contact:fax": "+49 621 963-2049",
+        "contact:phone": "+49 621 963-0",
+        "contact:website": "http://polizei.rlp.de",
+        "name": "Polizeidirektion Ludwigshafen",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4520152,
+              49.4712004
+            ],
+            [
+              8.4518861,
+              49.4710923
+            ],
+            [
+              8.4519037,
+              49.4710835
+            ],
+            [
+              8.4519237,
+              49.4710736
+            ],
+            [
+              8.4519435,
+              49.4710645
+            ],
+            [
+              8.4519375,
+              49.4710596
+            ],
+            [
+              8.4522099,
+              49.4709169
+            ],
+            [
+              8.4521851,
+              49.4708956
+            ],
+            [
+              8.452215,
+              49.4708794
+            ],
+            [
+              8.4522434,
+              49.4709003
+            ],
+            [
+              8.4522844,
+              49.4708801
+            ],
+            [
+              8.4519986,
+              49.4706454
+            ],
+            [
+              8.4519686,
+              49.470659
+            ],
+            [
+              8.4518662,
+              49.4705731
+            ],
+            [
+              8.451976,
+              49.4705147
+            ],
+            [
+              8.4520611,
+              49.4704695
+            ],
+            [
+              8.4521688,
+              49.4705524
+            ],
+            [
+              8.4521517,
+              49.4705613
+            ],
+            [
+              8.4524501,
+              49.4708022
+            ],
+            [
+              8.4524635,
+              49.4707955
+            ],
+            [
+              8.4526037,
+              49.4709056
+            ],
+            [
+              8.4524741,
+              49.4709709
+            ],
+            [
+              8.4520799,
+              49.4711755
+            ],
+            [
+              8.4520743,
+              49.4711701
+            ],
+            [
+              8.4520152,
+              49.4712004
+            ]
+          ]
+        ]
+      },
+      "id": "way/101973192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130077919",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68165",
+        "addr:street": "Stolzestraße",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Polizeiposten Schwetzingerstadt",
+        "opening_hours": "Mo, Tu, We, Fr 07:30-15:45; Th 08:10-17:30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4786949,
+              49.4794373
+            ],
+            [
+              8.4787739,
+              49.4793747
+            ],
+            [
+              8.4789219,
+              49.4794536
+            ],
+            [
+              8.478843,
+              49.4795161
+            ],
+            [
+              8.4786949,
+              49.4794373
+            ]
+          ]
+        ]
+      },
+      "id": "way/130077919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145168286",
+        "addr:city": "Heddesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "68542",
+        "addr:state": "BW",
+        "addr:street": "Beindstraße",
+        "amenity": "police",
+        "building": "yes",
+        "email": "HEDDESHEIM.PW@polizei.bwl.de",
+        "fax": "+49 6203 494480",
+        "name": "Polizeiposten Heddesheim",
+        "phone": "+49 6203 41443",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.603211,
+              49.5063338
+            ],
+            [
+              8.6034161,
+              49.5063189
+            ],
+            [
+              8.6034537,
+              49.506537
+            ],
+            [
+              8.6032487,
+              49.5065519
+            ],
+            [
+              8.6032359,
+              49.5064781
+            ],
+            [
+              8.6032214,
+              49.5064792
+            ],
+            [
+              8.6032091,
+              49.5064075
+            ],
+            [
+              8.6032235,
+              49.5064065
+            ],
+            [
+              8.603211,
+              49.5063338
+            ]
+          ]
+        ]
+      },
+      "id": "way/145168286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145587214",
+        "addr:housenumber": "3",
+        "addr:street": "Ladenburger Straße",
+        "amenity": "police",
+        "building": "yes",
+        "contact:phone": "+49 621 71849-0",
+        "name": "Polizeirevier Mannheim-Käfertal",
+        "roof:shape": "gabled",
+        "source:address": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5183025,
+              49.5124301
+            ],
+            [
+              8.5185806,
+              49.5124073
+            ],
+            [
+              8.5186016,
+              49.5125155
+            ],
+            [
+              8.5183937,
+              49.5125325
+            ],
+            [
+              8.5183963,
+              49.512546
+            ],
+            [
+              8.5183261,
+              49.5125518
+            ],
+            [
+              8.5183025,
+              49.5124301
+            ]
+          ]
+        ]
+      },
+      "id": "way/145587214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154913371",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:place": "L10",
+        "addr:postcode": "68161",
+        "addr:street": "L10",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Staatsanwaltschaft Mannheim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4692548,
+              49.4824633
+            ],
+            [
+              8.469148,
+              49.4823474
+            ],
+            [
+              8.4690759,
+              49.4823755
+            ],
+            [
+              8.4690947,
+              49.4823958
+            ],
+            [
+              8.4690173,
+              49.4824259
+            ],
+            [
+              8.4689609,
+              49.4823646
+            ],
+            [
+              8.4689389,
+              49.4823732
+            ],
+            [
+              8.4689096,
+              49.4823413
+            ],
+            [
+              8.4689281,
+              49.4823341
+            ],
+            [
+              8.4688945,
+              49.4822977
+            ],
+            [
+              8.4691717,
+              49.4821899
+            ],
+            [
+              8.4693791,
+              49.4824149
+            ],
+            [
+              8.4692548,
+              49.4824633
+            ]
+          ]
+        ]
+      },
+      "id": "way/154913371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154916400",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:place": "L8",
+        "addr:postcode": "68161",
+        "addr:street": "L8",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Kriminalpolizei Mannheim",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4681616,
+              49.4825773
+            ],
+            [
+              8.4682899,
+              49.4825282
+            ],
+            [
+              8.468442,
+              49.4826961
+            ],
+            [
+              8.4683523,
+              49.4827304
+            ],
+            [
+              8.4682923,
+              49.4826641
+            ],
+            [
+              8.4682537,
+              49.4826788
+            ],
+            [
+              8.4681616,
+              49.4825773
+            ]
+          ]
+        ]
+      },
+      "id": "way/154916400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154921729",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Erweiterung des Polizeipräsidiums"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4670134,
+              49.48363
+            ],
+            [
+              8.4671569,
+              49.4835745
+            ],
+            [
+              8.4672717,
+              49.4836999
+            ],
+            [
+              8.4675357,
+              49.4835978
+            ],
+            [
+              8.4676294,
+              49.4837002
+            ],
+            [
+              8.4672219,
+              49.4838577
+            ],
+            [
+              8.4670134,
+              49.48363
+            ]
+          ]
+        ]
+      },
+      "id": "way/154921729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154921740",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:place": "L6",
+        "addr:postcode": "68161",
+        "addr:street": "L6",
+        "amenity": "police",
+        "building": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4675739,
+              49.4834096
+            ],
+            [
+              8.4677145,
+              49.4833553
+            ],
+            [
+              8.4678161,
+              49.4834663
+            ],
+            [
+              8.4676755,
+              49.4835206
+            ],
+            [
+              8.4675739,
+              49.4834096
+            ]
+          ]
+        ]
+      },
+      "id": "way/154921740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154921748",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:place": "L6",
+        "addr:postcode": "68161",
+        "addr:street": "L6",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Kriminalpolizei Mannheim - EG Eigentum/ EG-Rauschgift"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4676971,
+              49.4835354
+            ],
+            [
+              8.4677909,
+              49.4836378
+            ],
+            [
+              8.4676294,
+              49.4837002
+            ],
+            [
+              8.4675357,
+              49.4835978
+            ],
+            [
+              8.4676971,
+              49.4835354
+            ]
+          ]
+        ]
+      },
+      "id": "way/154921748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154921766",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:place": "L6",
+        "addr:postcode": "68161",
+        "addr:street": "L6",
+        "amenity": "police",
+        "building": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:Kriminalpr%C3%A4vention_und_Kriminalpolizeiliche_Beratungsstelle_Mannheim_L6.jpg",
+        "name": "Kriminalprävention und Kriminalpolizeiliche Beratungsstelle",
+        "opening_hours": "Mo-Fr 08:00-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4677525,
+              49.4835389
+            ],
+            [
+              8.4678486,
+              49.4835017
+            ],
+            [
+              8.4679255,
+              49.4835857
+            ],
+            [
+              8.4677909,
+              49.4836378
+            ],
+            [
+              8.4677493,
+              49.4835923
+            ],
+            [
+              8.4677878,
+              49.4835774
+            ],
+            [
+              8.4677525,
+              49.4835389
+            ]
+          ]
+        ]
+      },
+      "id": "way/154921766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154921772",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "L6",
+        "addr:postcode": "68161",
+        "addr:street": "L6",
+        "amenity": "police",
+        "building": "yes",
+        "fax": "+49 621 174-2185",
+        "image": "https://commons.wikimedia.org/wiki/File:Mannheim_L6-1.jpg",
+        "name": "Polizeipräsidium Mannheim",
+        "phone": "+49 621 174-0",
+        "source": "LGL, www.lgl-bw.de",
+        "website": "http://www.polizei-bw.de/Dienststellen/PPMannheim",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4671841,
+              49.4833642
+            ],
+            [
+              8.467009,
+              49.4831731
+            ],
+            [
+              8.4669448,
+              49.4831979
+            ],
+            [
+              8.4669612,
+              49.4832158
+            ],
+            [
+              8.4669495,
+              49.4832571
+            ],
+            [
+              8.4669171,
+              49.4832696
+            ],
+            [
+              8.467186,
+              49.4835633
+            ],
+            [
+              8.4671569,
+              49.4835745
+            ],
+            [
+              8.4670134,
+              49.48363
+            ],
+            [
+              8.4666207,
+              49.4832012
+            ],
+            [
+              8.4666305,
+              49.4831793
+            ],
+            [
+              8.4672912,
+              49.4829239
+            ],
+            [
+              8.4673225,
+              49.4829273
+            ],
+            [
+              8.4677145,
+              49.4833553
+            ],
+            [
+              8.4675739,
+              49.4834096
+            ],
+            [
+              8.467546,
+              49.4834204
+            ],
+            [
+              8.4672795,
+              49.4831295
+            ],
+            [
+              8.4672531,
+              49.4831397
+            ],
+            [
+              8.4671929,
+              49.4831333
+            ],
+            [
+              8.4671715,
+              49.48311
+            ],
+            [
+              8.4671074,
+              49.4831348
+            ],
+            [
+              8.4672827,
+              49.4833261
+            ],
+            [
+              8.4673767,
+              49.4832898
+            ],
+            [
+              8.4674603,
+              49.4833811
+            ],
+            [
+              8.4671754,
+              49.4834913
+            ],
+            [
+              8.4670917,
+              49.4833999
+            ],
+            [
+              8.4671841,
+              49.4833642
+            ]
+          ]
+        ]
+      },
+      "id": "way/154921772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155942350",
+        "addr:housenumber": "8",
+        "addr:street": "Kronenburgstraße",
+        "amenity": "police",
+        "building": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:Polizei_Mannheim-Casterfeld.jpg",
+        "name": "Polizeiposten Mannheim-Rheinau",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5193925,
+              49.4419015
+            ],
+            [
+              8.5193825,
+              49.4418927
+            ],
+            [
+              8.5195722,
+              49.4418014
+            ],
+            [
+              8.5196544,
+              49.4418736
+            ],
+            [
+              8.5194783,
+              49.4419583
+            ],
+            [
+              8.5194836,
+              49.441963
+            ],
+            [
+              8.5193792,
+              49.4420132
+            ],
+            [
+              8.5193018,
+              49.4419452
+            ],
+            [
+              8.5193925,
+              49.4419015
+            ]
+          ]
+        ]
+      },
+      "id": "way/155942350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156287398",
+        "addr:housenumber": "52",
+        "addr:street": "Am Dünenrand",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Autobahnpolizeirevier Mannheim",
+        "source:addr": "LGL, www.lgl-bw.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5685669,
+              49.4518429
+            ],
+            [
+              8.5686189,
+              49.4517485
+            ],
+            [
+              8.568799,
+              49.4517905
+            ],
+            [
+              8.568747,
+              49.4518849
+            ],
+            [
+              8.5685669,
+              49.4518429
+            ]
+          ]
+        ]
+      },
+      "id": "way/156287398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156921284",
+        "addr:housenumber": "42-46",
+        "addr:street": "Meersburger Straße",
+        "amenity": "police",
+        "building": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:Polizei_Mannheim-Seckenheim.jpg",
+        "name": "Polizeiposten Seckenheim",
+        "opening_hours": "Mo,Tu,We,Fr 07:00-16:00; Th 07:00-18:00",
+        "source:address": "survey",
+        "source:geometry": "LGL, www.lgl-bw.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5645369,
+              49.4621512
+            ],
+            [
+              8.5646569,
+              49.4622056
+            ],
+            [
+              8.5644824,
+              49.4623682
+            ],
+            [
+              8.5643812,
+              49.4623224
+            ],
+            [
+              8.5644856,
+              49.4622251
+            ],
+            [
+              8.5644668,
+              49.4622166
+            ],
+            [
+              8.5645369,
+              49.4621512
+            ]
+          ]
+        ]
+      },
+      "id": "way/156921284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159285347",
+        "addr:housenumber": "41",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Wasserschutzpolizeidirektion Baden-Württemberg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4407768,
+              49.5058739
+            ],
+            [
+              8.4406527,
+              49.5058336
+            ],
+            [
+              8.4406886,
+              49.505788
+            ],
+            [
+              8.4406524,
+              49.5056991
+            ],
+            [
+              8.4407724,
+              49.5056783
+            ],
+            [
+              8.4408964,
+              49.5057185
+            ],
+            [
+              8.4407768,
+              49.5058739
+            ]
+          ]
+        ]
+      },
+      "id": "way/159285347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166031392",
+        "addr:city": "Frankenthal (Pfalz)",
+        "addr:housenumber": "2",
+        "addr:postcode": "67227",
+        "addr:street": "Friedrich-Ebert-Straße",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3535776,
+              49.5389856
+            ],
+            [
+              8.3535705,
+              49.5388383
+            ],
+            [
+              8.3535673,
+              49.5387715
+            ],
+            [
+              8.3535671,
+              49.5387675
+            ],
+            [
+              8.3537401,
+              49.5387645
+            ],
+            [
+              8.3537488,
+              49.5389836
+            ],
+            [
+              8.3535822,
+              49.5389856
+            ],
+            [
+              8.3535776,
+              49.5389856
+            ]
+          ]
+        ]
+      },
+      "id": "way/166031392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176060303",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "68526",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "police",
+        "building": "yes",
+        "email": "LADENBURG.PREV@polizei.bwl.de",
+        "fax": "+49 6203 9305225",
+        "name": "Polizeirevier Ladenburg",
+        "phone": "+49 6203 93050"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6035861,
+              49.4717132
+            ],
+            [
+              8.6035828,
+              49.4717084
+            ],
+            [
+              8.603709,
+              49.4716715
+            ],
+            [
+              8.6037014,
+              49.4716605
+            ],
+            [
+              8.6038693,
+              49.4716114
+            ],
+            [
+              8.6039479,
+              49.4717249
+            ],
+            [
+              8.6036538,
+              49.4718109
+            ],
+            [
+              8.6035861,
+              49.4717132
+            ]
+          ]
+        ]
+      },
+      "id": "way/176060303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180312558",
+        "amenity": "police",
+        "name": "Polizeipräsidium Mannheim Verkehrsdienst"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4891132,
+              49.507581
+            ],
+            [
+              8.4883726,
+              49.5081489
+            ],
+            [
+              8.4862495,
+              49.5069851
+            ],
+            [
+              8.4860986,
+              49.5068768
+            ],
+            [
+              8.4867716,
+              49.5063686
+            ],
+            [
+              8.4868482,
+              49.5064105
+            ],
+            [
+              8.4869237,
+              49.5064514
+            ],
+            [
+              8.4869677,
+              49.5064172
+            ],
+            [
+              8.4870781,
+              49.5063329
+            ],
+            [
+              8.4870188,
+              49.5062999
+            ],
+            [
+              8.4873054,
+              49.5060853
+            ],
+            [
+              8.4874515,
+              49.5061565
+            ],
+            [
+              8.4876614,
+              49.5059984
+            ],
+            [
+              8.4891312,
+              49.5067934
+            ],
+            [
+              8.4885341,
+              49.5072544
+            ],
+            [
+              8.4891132,
+              49.507581
+            ]
+          ]
+        ]
+      },
+      "id": "way/180312558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182014015",
+        "addr:housenumber": "14",
+        "addr:street": "Bromberger Baumgang",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Polizeiposten Schönau",
+        "source": "Bing;survey",
+        "source:addr": "LGL, www.lgl-bw.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4759073,
+              49.5430679
+            ],
+            [
+              8.4759071,
+              49.5429883
+            ],
+            [
+              8.4759939,
+              49.5429882
+            ],
+            [
+              8.4759937,
+              49.5429145
+            ],
+            [
+              8.4761985,
+              49.5429142
+            ],
+            [
+              8.476199,
+              49.5430675
+            ],
+            [
+              8.4759073,
+              49.5430679
+            ]
+          ]
+        ]
+      },
+      "id": "way/182014015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/214262668",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Wasserschutzpolizeistation Ludwigshafen",
+        "website": "http://www.polizei.rlp.de/internet/nav/b14/b14509c6-071a-9001-be59-2680a525fe06.htm"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4516578,
+              49.4672802
+            ],
+            [
+              8.452039,
+              49.4670812
+            ],
+            [
+              8.4521574,
+              49.467177
+            ],
+            [
+              8.4517762,
+              49.467376
+            ],
+            [
+              8.4516578,
+              49.4672802
+            ]
+          ]
+        ]
+      },
+      "id": "way/214262668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228898596",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "55",
+        "addr:postcode": "67069",
+        "addr:street": "Friesenheimer Straße",
+        "amenity": "police",
+        "building": "public",
+        "contact:email": "piludwigshafen2@polizei.rlp.de",
+        "contact:fax": "+49 621 963-2252",
+        "contact:phone": "+49 621 963-2222",
+        "contact:website": "http://polizei.rlp.de",
+        "name": "Polizeiinspektion Ludwigshafen 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4057185,
+              49.5133724
+            ],
+            [
+              8.4056606,
+              49.5132709
+            ],
+            [
+              8.4056894,
+              49.513264
+            ],
+            [
+              8.406004,
+              49.5131884
+            ],
+            [
+              8.4060618,
+              49.5132899
+            ],
+            [
+              8.4057621,
+              49.5133619
+            ],
+            [
+              8.4057185,
+              49.5133724
+            ]
+          ]
+        ]
+      },
+      "id": "way/228898596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419268880",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "67061",
+        "addr:street": "Beethovenstraße",
+        "amenity": "police",
+        "building": "public",
+        "contact:email": "piludwigshafen1@polizei.rlp.de",
+        "contact:fax": "+49 621 963-2139",
+        "contact:phone": "+49 621 963-2122",
+        "contact:website": "http://polizei.rlp.de",
+        "name": "Polizeiinspektion Ludwigshafen 1",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4519422,
+              49.4709737
+            ],
+            [
+              8.4518539,
+              49.4710159
+            ],
+            [
+              8.451833,
+              49.4710263
+            ],
+            [
+              8.4517744,
+              49.4710546
+            ],
+            [
+              8.4517377,
+              49.4710232
+            ],
+            [
+              8.4512588,
+              49.4706335
+            ],
+            [
+              8.4513999,
+              49.4705585
+            ],
+            [
+              8.4515977,
+              49.4707233
+            ],
+            [
+              8.4516139,
+              49.4707141
+            ],
+            [
+              8.4516485,
+              49.4707432
+            ],
+            [
+              8.4516322,
+              49.4707511
+            ],
+            [
+              8.4518833,
+              49.4709568
+            ],
+            [
+              8.4519087,
+              49.4709466
+            ],
+            [
+              8.4519422,
+              49.4709737
+            ]
+          ]
+        ]
+      },
+      "id": "way/419268880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/419950158",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1-5",
+        "addr:postcode": "68159",
+        "addr:street": "H4",
+        "amenity": "police",
+        "description": "Polizeirevier ist auch für den Stadtteil Jungbusch zuständig",
+        "name": "Mannheim-Innenstadt / Jungbusch",
+        "phone": "+49-0621-1258-0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4656579,
+          49.4910368
+        ]
+      },
+      "id": "node/419950158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/443613363",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.57833,
+          49.538499
+        ]
+      },
+      "id": "node/443613363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/908462041",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "17",
+        "addr:postcode": "68161",
+        "addr:street": "Willy-Brandt-Platz",
+        "amenity": "police",
+        "level": "0",
+        "name": "Bundespolizei",
+        "official_name": "Bundespolizeirevier Mannheim",
+        "operator": "Bundesministerium des Innern",
+        "operator:type": "public",
+        "police:type": "federal",
+        "short_name": "BPOL",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4688921,
+          49.4800348
+        ]
+      },
+      "id": "node/908462041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/990213831",
+        "amenity": "police",
+        "email": "pwoggersheim@polizei.rlp.de",
+        "fax": "+49 621 9632411",
+        "name": "Polizeiwache Oggersheim",
+        "phone": "+49 621 9632400",
+        "website": "http://www.polizei.rlp.de/internet/nav/89c/89c509c6-071a-9001-be59-2680a525fe06.htm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3759402,
+          49.4930655
+        ]
+      },
+      "id": "node/990213831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1353441933",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5771588,
+          49.5133034
+        ]
+      },
+      "id": "node/1353441933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1653998730",
+        "amenity": "police",
+        "name": "Polizeipräsidium Mannheim Kriminalinspektion 2",
+        "office": "software",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4776121,
+          49.4609436
+        ]
+      },
+      "id": "node/1653998730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2282252828",
+        "amenity": "police",
+        "email": "MANNHEIM-FEUDENHEIM.PW@polizei.bwl.de",
+        "fax": "+49 621 79984-225",
+        "level": "0",
+        "name": "Polizeiposten Mannheim-Feudenheim",
+        "phone": "+49 621 79984-0",
+        "website": "http://www.service-bw.de/zfinder-bw-web/authorities.do?beid=101039&letter=P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5316753,
+          49.4866377
+        ]
+      },
+      "id": "node/2282252828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2360743528",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4243542,
+          49.4992768
+        ]
+      },
+      "id": "node/2360743528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2512550103",
+        "amenity": "police",
+        "name": "Polizeirevier Mannheim-Neckarstadt",
+        "operator": "Stadt Mannheim",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4717886,
+          49.4997691
+        ]
+      },
+      "id": "node/2512550103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2725026902",
+        "amenity": "police",
+        "name": "Polizeiinspektion LU 1 Außenstelle",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4394074,
+          49.4880391
+        ]
+      },
+      "id": "node/2725026902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2783094623",
+        "addr:housenumber": "16",
+        "addr:street": "Rüsselsheimer Straße",
+        "amenity": "police",
+        "name": "Polizeiposten Waldhof",
+        "phone": "+49 621 762540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4887956,
+          49.5247703
+        ]
+      },
+      "id": "node/2783094623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2820023278",
+        "amenity": "police",
+        "name": "Polizeirevier Neckarau",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4830115,
+          49.4542974
+        ]
+      },
+      "id": "node/2820023278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2935183597",
+        "addr:city": "Edingen-Neckarhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "68535",
+        "addr:street": "Rathausstraße",
+        "addr:suburb": "Edingen",
+        "amenity": "police",
+        "name": "Polizeiposten Edingen-Neckarhausen",
+        "opening_hours": "Mo-We 7:30-12:00,12:30-16:15;Th 7:30-12:00,12:30-18:00;Fr 7:30-12:00,12:30-16:00",
+        "phone": "+49 6203 892029",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6109901,
+          49.4463476
+        ]
+      },
+      "id": "node/2935183597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807863990",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "68309",
+        "addr:street": "Freiberger Ring",
+        "amenity": "police",
+        "designation": "Polizeiposten Vogelstang",
+        "fax": "+49 621 7026784",
+        "level": "1",
+        "name": "Polizeiposten Vogelstang",
+        "note": "ab 2017-04-11 an dieser Position, davor Geraer Ring 6, level = 0",
+        "opening_hours": "Mo-Tu 07:30-16:00; We 07:30-17:00; Th-Fr 07:30-16:00; PH off",
+        "phone": "+49 621 707700",
+        "start_date": "2017-04-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5397052,
+          49.5098898
+        ]
+      },
+      "id": "node/4807863990"
+    }
+  ]
+}
