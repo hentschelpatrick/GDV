@@ -1,0 +1,5847 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-12T16:45:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37213889",
+        "addr:city": "Viernheim",
+        "addr:housenumber": "14",
+        "addr:postcode": "68519",
+        "addr:street": "Saarlandstraße",
+        "amenity": "kindergarten",
+        "name": "Kindergarten Kleeblatt",
+        "operator": "Christuskirchengemeinde"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5640684,
+              49.535701
+            ],
+            [
+              8.5646197,
+              49.5355656
+            ],
+            [
+              8.5646597,
+              49.5356894
+            ],
+            [
+              8.5646051,
+              49.5356992
+            ],
+            [
+              8.564646,
+              49.5358227
+            ],
+            [
+              8.564675,
+              49.5358195
+            ],
+            [
+              8.5646863,
+              49.5358624
+            ],
+            [
+              8.5646409,
+              49.5358668
+            ],
+            [
+              8.5646107,
+              49.5358697
+            ],
+            [
+              8.5646311,
+              49.5359698
+            ],
+            [
+              8.5644653,
+              49.5359851
+            ],
+            [
+              8.5644636,
+              49.5359779
+            ],
+            [
+              8.5644585,
+              49.5359557
+            ],
+            [
+              8.564418,
+              49.5359596
+            ],
+            [
+              8.5643333,
+              49.5359681
+            ],
+            [
+              8.5643368,
+              49.5359826
+            ],
+            [
+              8.5642456,
+              49.5359918
+            ],
+            [
+              8.5641075,
+              49.5360057
+            ],
+            [
+              8.5640717,
+              49.5360097
+            ],
+            [
+              8.5640684,
+              49.535701
+            ]
+          ]
+        ]
+      },
+      "id": "way/37213889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53277178",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68309",
+        "addr:street": "Fürstenwalder Weg",
+        "amenity": "kindergarten",
+        "denomination": "protestant",
+        "name": "Evangelischer Kindergarten",
+        "operator": "Evangelische Vogelstang-Gemeinde",
+        "religion": "christian",
+        "website": "http://vogelstang.ekma.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5360242,
+              49.5112574
+            ],
+            [
+              8.536002,
+              49.5113246
+            ],
+            [
+              8.5354841,
+              49.5112949
+            ],
+            [
+              8.5355028,
+              49.5110975
+            ],
+            [
+              8.5355096,
+              49.5110086
+            ],
+            [
+              8.5362095,
+              49.5110128
+            ],
+            [
+              8.5360242,
+              49.5112574
+            ]
+          ]
+        ]
+      },
+      "id": "way/53277178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102150974",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "129",
+        "addr:postcode": "68199",
+        "addr:street": "Neckarauer Waldweg",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "fax": "+49 621 8544342",
+        "name": "Waldorfkindergarten Gänsweide",
+        "phone": "+49 621 852788",
+        "website": "http://www.gaensweide.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4739414,
+              49.4488468
+            ],
+            [
+              8.4739291,
+              49.44887
+            ],
+            [
+              8.4738698,
+              49.4489086
+            ],
+            [
+              8.4737003,
+              49.4489377
+            ],
+            [
+              8.4736535,
+              49.4488863
+            ],
+            [
+              8.4736711,
+              49.4488761
+            ],
+            [
+              8.4735827,
+              49.4488362
+            ],
+            [
+              8.4736004,
+              49.4488004
+            ],
+            [
+              8.4737637,
+              49.448703
+            ],
+            [
+              8.4738136,
+              49.4487213
+            ],
+            [
+              8.4738521,
+              49.4486996
+            ],
+            [
+              8.4738385,
+              49.4486789
+            ],
+            [
+              8.4738041,
+              49.4486333
+            ],
+            [
+              8.4738744,
+              49.4485845
+            ],
+            [
+              8.4742351,
+              49.4486022
+            ],
+            [
+              8.4742768,
+              49.4486536
+            ],
+            [
+              8.4742644,
+              49.4487141
+            ],
+            [
+              8.4741666,
+              49.4487107
+            ],
+            [
+              8.4741489,
+              49.448749
+            ],
+            [
+              8.4739866,
+              49.4487442
+            ],
+            [
+              8.4739939,
+              49.4488091
+            ],
+            [
+              8.4739414,
+              49.4488468
+            ]
+          ]
+        ]
+      },
+      "id": "way/102150974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102150980",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "137",
+        "addr:postcode": "68199",
+        "addr:street": "Neckarauer Waldweg",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "hort-freizeitschule@gmx.de",
+        "name": "Freizeitschule-Hort",
+        "phone": "+49 621 84 25 14 57:",
+        "website": "http://www.freizeitschule.de/herbst_winter/html/hort.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4720748,
+              49.4494334
+            ],
+            [
+              8.4719889,
+              49.4493306
+            ],
+            [
+              8.4721092,
+              49.4492882
+            ],
+            [
+              8.4721951,
+              49.4493909
+            ],
+            [
+              8.4720748,
+              49.4494334
+            ]
+          ]
+        ]
+      },
+      "id": "way/102150980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104649969",
+        "addr:city": "Edingen-Neckarhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "68535",
+        "addr:street": "Kolpingstraße",
+        "addr:suburb": "Edingen",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "St. Martin Kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6070119,
+              49.4465592
+            ],
+            [
+              8.6067325,
+              49.4464394
+            ],
+            [
+              8.6069398,
+              49.4462351
+            ],
+            [
+              8.6072192,
+              49.446355
+            ],
+            [
+              8.6070119,
+              49.4465592
+            ]
+          ]
+        ]
+      },
+      "id": "way/104649969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/116111543",
+        "addr:postcode": "68309",
+        "addr:street": "Rudolstadter Weg",
+        "amenity": "kindergarten",
+        "max_age": "6",
+        "min_age": "3",
+        "name": "Waldorfkindergarten Vogelstang",
+        "operator": "Waldorfkindergarten Vogelstang e.V., Mannheim",
+        "phone": "+49 621 706489",
+        "start_date": "1972",
+        "website": "www.waldorfkindergarten-vogelstang.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5426195,
+              49.5139803
+            ],
+            [
+              8.5426138,
+              49.5134606
+            ],
+            [
+              8.5426657,
+              49.5134051
+            ],
+            [
+              8.5433893,
+              49.513682
+            ],
+            [
+              8.5431235,
+              49.5139814
+            ],
+            [
+              8.5428503,
+              49.5139808
+            ],
+            [
+              8.5427024,
+              49.5139805
+            ],
+            [
+              8.5426195,
+              49.5139803
+            ]
+          ]
+        ]
+      },
+      "id": "way/116111543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121997121",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "76",
+        "addr:postcode": "68219",
+        "addr:street": "Wilhelm-Peters-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "fax": "+49 621 892303",
+        "name": "Kinderhaus Gerhart- Hauptmann",
+        "opening_hours": "Mo-Th 07:30-17:00; Fr 07:30-16:00",
+        "phone": "+49 621 892303"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5400008,
+              49.414062
+            ],
+            [
+              8.5398293,
+              49.4142844
+            ],
+            [
+              8.5397141,
+              49.4142468
+            ],
+            [
+              8.5398855,
+              49.4140244
+            ],
+            [
+              8.5400008,
+              49.414062
+            ]
+          ]
+        ]
+      },
+      "id": "way/121997121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127226460",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68309",
+        "addr:street": "Eisenacher Weg",
+        "alt_name": "Pfarrkindergarten",
+        "amenity": "kindergarten",
+        "denomination": "roman_catholic",
+        "max_age": "6",
+        "min_age": "3",
+        "name": "Katholische Kindertagesstätte Zwölf Apostel I",
+        "operator": "Seelsorgeeinheit Maria-Magdalena, Mannheim",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.539264,
+              49.5120162
+            ],
+            [
+              8.5391815,
+              49.5119862
+            ],
+            [
+              8.5392142,
+              49.5119482
+            ],
+            [
+              8.5389158,
+              49.5118374
+            ],
+            [
+              8.5390141,
+              49.51172
+            ],
+            [
+              8.539013,
+              49.5116894
+            ],
+            [
+              8.5390922,
+              49.5116044
+            ],
+            [
+              8.5391332,
+              49.5116037
+            ],
+            [
+              8.5397355,
+              49.5118369
+            ],
+            [
+              8.5394941,
+              49.5121037
+            ],
+            [
+              8.5394715,
+              49.5120951
+            ],
+            [
+              8.539264,
+              49.5120162
+            ]
+          ]
+        ]
+      },
+      "id": "way/127226460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127497366",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "26, 28",
+        "addr:postcode": "68219",
+        "addr:street": "Waldblick",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "KITA Waldblick",
+        "phone": "+49 621 872798",
+        "website": "http://www.immanuelpfingstberg.ekma.de/index.php?seite=KITA_Waldblick"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5310687,
+              49.4434153
+            ],
+            [
+              8.5309137,
+              49.4434649
+            ],
+            [
+              8.5308492,
+              49.4433797
+            ],
+            [
+              8.5308959,
+              49.4433648
+            ],
+            [
+              8.5308263,
+              49.4432729
+            ],
+            [
+              8.530731,
+              49.4433034
+            ],
+            [
+              8.5307015,
+              49.4432643
+            ],
+            [
+              8.530673,
+              49.4432734
+            ],
+            [
+              8.5306256,
+              49.4432109
+            ],
+            [
+              8.5307984,
+              49.4431556
+            ],
+            [
+              8.5307785,
+              49.4431293
+            ],
+            [
+              8.5309221,
+              49.4430833
+            ],
+            [
+              8.5309807,
+              49.4431609
+            ],
+            [
+              8.5310021,
+              49.4431541
+            ],
+            [
+              8.5310755,
+              49.4432512
+            ],
+            [
+              8.530963,
+              49.4432872
+            ],
+            [
+              8.5309841,
+              49.4433151
+            ],
+            [
+              8.5313449,
+              49.4431997
+            ],
+            [
+              8.5314213,
+              49.4433008
+            ],
+            [
+              8.5312752,
+              49.4433475
+            ],
+            [
+              8.531233,
+              49.4432918
+            ],
+            [
+              8.5310255,
+              49.4433582
+            ],
+            [
+              8.5310687,
+              49.4434153
+            ]
+          ]
+        ]
+      },
+      "id": "way/127497366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145226195",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "68165",
+        "addr:street": "Weidenstraße",
+        "amenity": "kindergarten",
+        "building": "residential",
+        "roof:shape": "gabled",
+        "source": "LGL, www.lgl-bw.de; data survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.486649,
+              49.4755697
+            ],
+            [
+              8.4865503,
+              49.475489
+            ],
+            [
+              8.4867922,
+              49.4753639
+            ],
+            [
+              8.486891,
+              49.4754447
+            ],
+            [
+              8.486649,
+              49.4755697
+            ]
+          ]
+        ]
+      },
+      "id": "way/145226195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145944238",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "68309",
+        "addr:street": "Unionstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "ev. Kindertagesstätte"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5170339,
+              49.5121937
+            ],
+            [
+              8.5171188,
+              49.5120829
+            ],
+            [
+              8.5171026,
+              49.5120777
+            ],
+            [
+              8.5171442,
+              49.5120233
+            ],
+            [
+              8.5173488,
+              49.5120894
+            ],
+            [
+              8.5173072,
+              49.5121437
+            ],
+            [
+              8.517293,
+              49.5121391
+            ],
+            [
+              8.5172081,
+              49.51225
+            ],
+            [
+              8.5170339,
+              49.5121937
+            ]
+          ]
+        ]
+      },
+      "id": "way/145944238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146494789",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "31a",
+        "addr:postcode": "68199",
+        "addr:street": "Rheingoldstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Tagheim für Säuglinge und Kleinkinder"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4878278,
+              49.453931
+            ],
+            [
+              8.4876308,
+              49.4539534
+            ],
+            [
+              8.4876036,
+              49.4538426
+            ],
+            [
+              8.4877974,
+              49.4538237
+            ],
+            [
+              8.4878278,
+              49.453931
+            ]
+          ]
+        ]
+      },
+      "id": "way/146494789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146494790",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "68199",
+        "addr:street": "Rheingoldstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "jakobuskiga@st-jakobus-mannheim.de",
+        "name": "Kath. Kindergarten St. Jakobus",
+        "phone": "+49 621 853173",
+        "website": "http://www.kath-ma-suedwest.de/html/kindergarten_st_jakobus609.html?t=98214412588ba7bcb1d961a895fc8e93&tto=9f079033"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.488819,
+              49.4537859
+            ],
+            [
+              8.4887761,
+              49.4536622
+            ],
+            [
+              8.4889917,
+              49.4536306
+            ],
+            [
+              8.4890386,
+              49.4537604
+            ],
+            [
+              8.488819,
+              49.4537859
+            ]
+          ]
+        ]
+      },
+      "id": "way/146494790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147060850",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "68167",
+        "addr:street": "Weylstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Katholischer Kindergarten",
+        "operator": "Kath. Kirchengemeinde St. Bonifatius"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4903626,
+              49.4983922
+            ],
+            [
+              8.4904679,
+              49.4983097
+            ],
+            [
+              8.4905984,
+              49.49838
+            ],
+            [
+              8.490493,
+              49.4984625
+            ],
+            [
+              8.4903626,
+              49.4983922
+            ]
+          ]
+        ]
+      },
+      "id": "way/147060850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147247898",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "68167",
+        "addr:street": "Melanchthonweg",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "ev. Kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4799358,
+              49.4983492
+            ],
+            [
+              8.4799337,
+              49.4983471
+            ],
+            [
+              8.4800432,
+              49.49827
+            ],
+            [
+              8.4802466,
+              49.498392
+            ],
+            [
+              8.4800946,
+              49.4984989
+            ],
+            [
+              8.4799331,
+              49.4984021
+            ],
+            [
+              8.4799358,
+              49.4983492
+            ]
+          ]
+        ]
+      },
+      "id": "way/147247898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147531932",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "68167",
+        "addr:street": "Melchiorstraße",
+        "amenity": "kindergarten",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4773346,
+              49.4985682
+            ],
+            [
+              8.4772096,
+              49.4985817
+            ],
+            [
+              8.4771651,
+              49.4983204
+            ],
+            [
+              8.4772909,
+              49.4983113
+            ],
+            [
+              8.4772996,
+              49.4983627
+            ],
+            [
+              8.4773346,
+              49.4985682
+            ]
+          ]
+        ]
+      },
+      "id": "way/147531932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150913498",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "68199",
+        "addr:street": "Karl-Blind-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Kindergarten Maria Hilf"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4831276,
+              49.4648456
+            ],
+            [
+              8.4832214,
+              49.4647324
+            ],
+            [
+              8.4837141,
+              49.4649052
+            ],
+            [
+              8.4836563,
+              49.4649748
+            ],
+            [
+              8.4836059,
+              49.4649571
+            ],
+            [
+              8.4835469,
+              49.4650282
+            ],
+            [
+              8.4831635,
+              49.4648938
+            ],
+            [
+              8.4831865,
+              49.4648662
+            ],
+            [
+              8.4831276,
+              49.4648456
+            ]
+          ]
+        ]
+      },
+      "id": "way/150913498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151234349",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "19, 21",
+        "addr:postcode": "68199",
+        "addr:street": "Sentastraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kinderhaus Sentapark"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4793893,
+              49.4553258
+            ],
+            [
+              8.4791199,
+              49.4552445
+            ],
+            [
+              8.479219,
+              49.4551058
+            ],
+            [
+              8.4794884,
+              49.4551872
+            ],
+            [
+              8.4793893,
+              49.4553258
+            ]
+          ]
+        ]
+      },
+      "id": "way/151234349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152033891",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "68163",
+        "addr:street": "Tambourweg",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kinderhaus Neuhermsheim",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5084576,
+              49.4666233
+            ],
+            [
+              8.5084037,
+              49.4665131
+            ],
+            [
+              8.5083713,
+              49.4665202
+            ],
+            [
+              8.5083036,
+              49.4663979
+            ],
+            [
+              8.5084884,
+              49.4663521
+            ],
+            [
+              8.5085306,
+              49.4664215
+            ],
+            [
+              8.5086979,
+              49.4663815
+            ],
+            [
+              8.5089292,
+              49.4662943
+            ],
+            [
+              8.5090264,
+              49.4664089
+            ],
+            [
+              8.5084576,
+              49.4666233
+            ]
+          ]
+        ]
+      },
+      "id": "way/152033891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152301190",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "68199",
+        "addr:street": "Wilhelm-Wundt-Platz",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Spielstube Neckarau-Niederfeld e.V.",
+        "website": "www.spielstube-neckarau.de.vu/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4955629,
+              49.4484915
+            ],
+            [
+              8.4955619,
+              49.4486336
+            ],
+            [
+              8.4954257,
+              49.4486325
+            ],
+            [
+              8.4954268,
+              49.4485312
+            ],
+            [
+              8.4953548,
+              49.4485141
+            ],
+            [
+              8.4953876,
+              49.4484503
+            ],
+            [
+              8.4955635,
+              49.4484904
+            ],
+            [
+              8.4955629,
+              49.4484915
+            ]
+          ]
+        ]
+      },
+      "id": "way/152301190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152431967",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "68163",
+        "addr:street": "Speyerer Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:Kindergarten_der_Markuskirche_Mannheim-Almenhof.jpg",
+        "name": "ev. Kindergarten der Markuskirche"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4803329,
+              49.4670936
+            ],
+            [
+              8.4804019,
+              49.4671301
+            ],
+            [
+              8.4802124,
+              49.467281
+            ],
+            [
+              8.4800822,
+              49.467212
+            ],
+            [
+              8.4802155,
+              49.4671059
+            ],
+            [
+              8.4801273,
+              49.4670591
+            ],
+            [
+              8.4801971,
+              49.4670035
+            ],
+            [
+              8.4803465,
+              49.4670827
+            ],
+            [
+              8.4803329,
+              49.4670936
+            ]
+          ]
+        ]
+      },
+      "id": "way/152431967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153523662",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "68199",
+        "addr:street": "Wolframstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "ev. Kindergarten",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4786905,
+              49.4548165
+            ],
+            [
+              8.4786582,
+              49.4546851
+            ],
+            [
+              8.4787257,
+              49.4546781
+            ],
+            [
+              8.4787144,
+              49.4546321
+            ],
+            [
+              8.4787973,
+              49.4546235
+            ],
+            [
+              8.4787902,
+              49.4545946
+            ],
+            [
+              8.4789814,
+              49.4545747
+            ],
+            [
+              8.4790321,
+              49.454781
+            ],
+            [
+              8.4786905,
+              49.4548165
+            ]
+          ]
+        ]
+      },
+      "id": "way/153523662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156425218",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "68239",
+        "addr:street": "Am Sandhang",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Katholischer Kindergarten Don Bosco"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5667847,
+              49.4530331
+            ],
+            [
+              8.5668205,
+              49.4528782
+            ],
+            [
+              8.5670013,
+              49.4529173
+            ],
+            [
+              8.5669529,
+              49.4530007
+            ],
+            [
+              8.5669956,
+              49.4530128
+            ],
+            [
+              8.5669671,
+              49.4530665
+            ],
+            [
+              8.5667847,
+              49.4530331
+            ]
+          ]
+        ]
+      },
+      "id": "way/156425218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157911344",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "71",
+        "addr:postcode": "68239",
+        "addr:street": "Rastatter Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kinderhaus Rastatter Straße"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5511318,
+              49.4661288
+            ],
+            [
+              8.550916,
+              49.4660959
+            ],
+            [
+              8.5509533,
+              49.4659917
+            ],
+            [
+              8.5511043,
+              49.4660092
+            ],
+            [
+              8.5511271,
+              49.4659569
+            ],
+            [
+              8.5512839,
+              49.4659816
+            ],
+            [
+              8.5512858,
+              49.465977
+            ],
+            [
+              8.5512435,
+              49.4660825
+            ],
+            [
+              8.5511318,
+              49.4661288
+            ]
+          ]
+        ]
+      },
+      "id": "way/157911344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159002781",
+        "addr:housenumber": "16, 18",
+        "addr:postcode": "68159",
+        "addr:street": "Schanzenstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Stadt Mannheim Tageseinrichtung für Kinder"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4621481,
+              49.4947044
+            ],
+            [
+              8.4623288,
+              49.4946804
+            ],
+            [
+              8.4623544,
+              49.4947619
+            ],
+            [
+              8.4621737,
+              49.4947859
+            ],
+            [
+              8.4621481,
+              49.4947044
+            ]
+          ]
+        ]
+      },
+      "id": "way/159002781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163258009",
+        "addr:city": "Ilvesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "68549",
+        "addr:street": "Kanzelbachstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Rappelkiste",
+        "phone": "+49 621 4963162",
+        "website": "http://www.ilvesheim.de/php/kindergaerten.php"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.564246,
+              49.4792314
+            ],
+            [
+              8.5642955,
+              49.4791516
+            ],
+            [
+              8.5646018,
+              49.4792328
+            ],
+            [
+              8.5649494,
+              49.4791387
+            ],
+            [
+              8.5649797,
+              49.4791883
+            ],
+            [
+              8.5646899,
+              49.4792849
+            ],
+            [
+              8.5645619,
+              49.4792538
+            ],
+            [
+              8.5645252,
+              49.479316
+            ],
+            [
+              8.564246,
+              49.4792314
+            ]
+          ]
+        ]
+      },
+      "id": "way/163258009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163621988",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "68219",
+        "addr:street": "Plankstadter Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5286298,
+              49.4307404
+            ],
+            [
+              8.528589,
+              49.4306838
+            ],
+            [
+              8.5286001,
+              49.4306743
+            ],
+            [
+              8.528582,
+              49.4306651
+            ],
+            [
+              8.528585,
+              49.43065
+            ],
+            [
+              8.5285175,
+              49.4306464
+            ],
+            [
+              8.5284788,
+              49.4305928
+            ],
+            [
+              8.5285301,
+              49.4305463
+            ],
+            [
+              8.5285472,
+              49.430544
+            ],
+            [
+              8.5285523,
+              49.4305122
+            ],
+            [
+              8.5286237,
+              49.4304982
+            ],
+            [
+              8.5286615,
+              49.4304645
+            ],
+            [
+              8.5287556,
+              49.4304687
+            ],
+            [
+              8.5287808,
+              49.4304569
+            ],
+            [
+              8.5288094,
+              49.4304798
+            ],
+            [
+              8.5288371,
+              49.4304592
+            ],
+            [
+              8.5289237,
+              49.4304596
+            ],
+            [
+              8.5289634,
+              49.4305136
+            ],
+            [
+              8.5289096,
+              49.4305633
+            ],
+            [
+              8.5288603,
+              49.4305613
+            ],
+            [
+              8.528898,
+              49.4306127
+            ],
+            [
+              8.5288442,
+              49.4306651
+            ],
+            [
+              8.5287626,
+              49.4306618
+            ],
+            [
+              8.5287561,
+              49.43067
+            ],
+            [
+              8.5287722,
+              49.4306939
+            ],
+            [
+              8.5287209,
+              49.430744
+            ],
+            [
+              8.5286298,
+              49.4307404
+            ]
+          ]
+        ]
+      },
+      "id": "way/163621988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164296286",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "24",
+        "addr:postcode": "68259",
+        "addr:street": "Spessartstraße",
+        "amenity": "kindergarten",
+        "name": "Kinderhaus Feudenheim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5298691,
+              49.4850953
+            ],
+            [
+              8.5294169,
+              49.4849632
+            ],
+            [
+              8.5293069,
+              49.484369
+            ],
+            [
+              8.5297798,
+              49.4843355
+            ],
+            [
+              8.5305173,
+              49.4843039
+            ],
+            [
+              8.5305157,
+              49.4843376
+            ],
+            [
+              8.5304152,
+              49.4843829
+            ],
+            [
+              8.5302547,
+              49.4844745
+            ],
+            [
+              8.5301299,
+              49.4845714
+            ],
+            [
+              8.5299954,
+              49.4847304
+            ],
+            [
+              8.5299127,
+              49.4848641
+            ],
+            [
+              8.5298851,
+              49.4849705
+            ],
+            [
+              8.5298691,
+              49.4850953
+            ]
+          ]
+        ]
+      },
+      "id": "way/164296286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164858802",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "F7",
+        "addr:postcode": "68159",
+        "addr:street": "F7",
+        "amenity": "kindergarten",
+        "fax": "+49 621 4017794",
+        "name": "Kinderkrippe F7",
+        "phone": "+49 621 10756439",
+        "website": "http://www.mannheim.de/node/25507"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4615467,
+              49.490903
+            ],
+            [
+              8.4610156,
+              49.4911062
+            ],
+            [
+              8.4609412,
+              49.4910173
+            ],
+            [
+              8.4612033,
+              49.4906577
+            ],
+            [
+              8.4615104,
+              49.4905509
+            ],
+            [
+              8.4617621,
+              49.4908204
+            ],
+            [
+              8.4617318,
+              49.4908327
+            ],
+            [
+              8.4615902,
+              49.4908865
+            ],
+            [
+              8.4615467,
+              49.490903
+            ]
+          ]
+        ]
+      },
+      "id": "way/164858802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165636699",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "52",
+        "addr:postcode": "68219",
+        "addr:street": "Rheinauer Ring",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kath. Kindergarten St. Marien"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5308939,
+              49.436756
+            ],
+            [
+              8.5310545,
+              49.4368209
+            ],
+            [
+              8.5309827,
+              49.4368961
+            ],
+            [
+              8.5308227,
+              49.4368314
+            ],
+            [
+              8.5306958,
+              49.4369644
+            ],
+            [
+              8.5304323,
+              49.4368593
+            ],
+            [
+              8.5305164,
+              49.4367701
+            ],
+            [
+              8.5306442,
+              49.4368211
+            ],
+            [
+              8.530832,
+              49.436622
+            ],
+            [
+              8.5309677,
+              49.4366761
+            ],
+            [
+              8.5308939,
+              49.436756
+            ]
+          ]
+        ]
+      },
+      "id": "way/165636699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168965591",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "67061",
+        "addr:street": "Silcherstraße",
+        "amenity": "kindergarten",
+        "building": "kindergarten",
+        "name": "Kindertagesstätte und Kindergarten der Lukaskirche"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4423082,
+              49.472855
+            ],
+            [
+              8.4428361,
+              49.4728617
+            ],
+            [
+              8.4428328,
+              49.4729684
+            ],
+            [
+              8.442305,
+              49.4729616
+            ],
+            [
+              8.4423082,
+              49.472855
+            ]
+          ]
+        ]
+      },
+      "id": "way/168965591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169202814",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "67061",
+        "addr:street": "Von-Weber-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kindertafesstätte"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4391188,
+              49.4707455
+            ],
+            [
+              8.4391725,
+              49.4707216
+            ],
+            [
+              8.4391523,
+              49.4706957
+            ],
+            [
+              8.4391486,
+              49.4706922
+            ],
+            [
+              8.4391818,
+              49.4706776
+            ],
+            [
+              8.4392268,
+              49.4706706
+            ],
+            [
+              8.4392975,
+              49.4706897
+            ],
+            [
+              8.4393057,
+              49.4706957
+            ],
+            [
+              8.4393268,
+              49.4707356
+            ],
+            [
+              8.4392975,
+              49.4707815
+            ],
+            [
+              8.4392928,
+              49.4707844
+            ],
+            [
+              8.4392521,
+              49.4708119
+            ],
+            [
+              8.4392741,
+              49.4708301
+            ],
+            [
+              8.4392449,
+              49.4708444
+            ],
+            [
+              8.4392241,
+              49.470827
+            ],
+            [
+              8.4392072,
+              49.4708374
+            ],
+            [
+              8.4391711,
+              49.4708571
+            ],
+            [
+              8.439142,
+              49.4708704
+            ],
+            [
+              8.4390817,
+              49.470877
+            ],
+            [
+              8.4389953,
+              49.4708543
+            ],
+            [
+              8.438976,
+              49.4708379
+            ],
+            [
+              8.4389605,
+              49.4707997
+            ],
+            [
+              8.43897,
+              49.4707694
+            ],
+            [
+              8.4389953,
+              49.470745
+            ],
+            [
+              8.4390736,
+              49.4707239
+            ],
+            [
+              8.4390984,
+              49.4707274
+            ],
+            [
+              8.4391188,
+              49.4707455
+            ]
+          ]
+        ]
+      },
+      "id": "way/169202814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172211605",
+        "addr:city": "Edingen-Neckarhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "23",
+        "addr:postcode": "68535",
+        "addr:street": "Schloßstraße",
+        "addr:suburb": "Neckarhausen",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Ev. Kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5984192,
+              49.4643248
+            ],
+            [
+              8.598415,
+              49.4642385
+            ],
+            [
+              8.5986759,
+              49.4642331
+            ],
+            [
+              8.5986801,
+              49.4643194
+            ],
+            [
+              8.5984192,
+              49.4643248
+            ]
+          ]
+        ]
+      },
+      "id": "way/172211605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/172976557",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "68229",
+        "addr:street": "Wallonenstraße",
+        "addr:suburb": "Friedrichsfeld",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "3",
+        "email": "kita.wallonenstr@ekma.de",
+        "fax": "+49 621 4816787",
+        "name": "Kindertagesstätte Wallonenstraße",
+        "opening_hours": "Mo-Th 07:00-17:15; Fr 07:00-16:30",
+        "operator": "Johannes Calvin Gemeinde Mannheim-Friedrichsfeld",
+        "phone": "+49 621 471479",
+        "website": "www.johannes-calvin.de/content/gebaeude_einrichtungen/kindertagesstaette/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5743436,
+              49.438929
+            ],
+            [
+              8.5744492,
+              49.4389512
+            ],
+            [
+              8.5744578,
+              49.438953
+            ],
+            [
+              8.5744377,
+              49.4389936
+            ],
+            [
+              8.5745463,
+              49.4390163
+            ],
+            [
+              8.5745214,
+              49.4390667
+            ],
+            [
+              8.5742985,
+              49.43902
+            ],
+            [
+              8.5743436,
+              49.438929
+            ]
+          ]
+        ]
+      },
+      "id": "way/172976557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174833662",
+        "addr:housenumber": "43",
+        "addr:postcode": "68309",
+        "addr:street": "Ida-Dehmel-Ring",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "2",
+        "fax": "+49 621 7185824",
+        "name": "Kinderhaus Rosa Grünbaum",
+        "phone": "+49 621 7185859",
+        "roof:shape": "flat",
+        "website": "https://www.mannheim.de/bildung-staerken/kh-rosa-gruenbaum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.531366,
+              49.5041976
+            ],
+            [
+              8.5313389,
+              49.5041836
+            ],
+            [
+              8.5312532,
+              49.5042533
+            ],
+            [
+              8.5311204,
+              49.5041845
+            ],
+            [
+              8.5313591,
+              49.5039903
+            ],
+            [
+              8.5315317,
+              49.5040798
+            ],
+            [
+              8.531408,
+              49.5042194
+            ],
+            [
+              8.5313857,
+              49.5042078
+            ],
+            [
+              8.5313766,
+              49.5042152
+            ],
+            [
+              8.5313569,
+              49.5042049
+            ],
+            [
+              8.531366,
+              49.5041976
+            ]
+          ]
+        ]
+      },
+      "id": "way/174833662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175017414",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "68219",
+        "addr:street": "Frobeniusstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Katholischer Kindergarten St.Johannes",
+        "opening_hours": "Mo-Fr 07:30-12:00,14:00-16:00",
+        "phone": "+49 621 892355",
+        "website": "http://www.sema-sued.de/index.php?option=com_content&view=article&id=90:st-johannes&catid=51:kindergaerten&Itemid=100"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5350711,
+              49.4168999
+            ],
+            [
+              8.535136,
+              49.4170455
+            ],
+            [
+              8.5349159,
+              49.4170869
+            ],
+            [
+              8.534851,
+              49.4169413
+            ],
+            [
+              8.5350711,
+              49.4168999
+            ]
+          ]
+        ]
+      },
+      "id": "way/175017414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/175757757",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "68219",
+        "addr:street": "Halmhuberstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "ev. Kindergarten"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5252098,
+              49.4174467
+            ],
+            [
+              8.5252489,
+              49.4173625
+            ],
+            [
+              8.5252993,
+              49.4173724
+            ],
+            [
+              8.5253281,
+              49.4173104
+            ],
+            [
+              8.5256603,
+              49.4173756
+            ],
+            [
+              8.5256313,
+              49.4174381
+            ],
+            [
+              8.5256767,
+              49.417447
+            ],
+            [
+              8.5256378,
+              49.4175307
+            ],
+            [
+              8.5252098,
+              49.4174467
+            ]
+          ]
+        ]
+      },
+      "id": "way/175757757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179240005",
+        "addr:city": "Ilvesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "68549",
+        "addr:street": "Wachenheimer Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "Kiga-st.josef@tesionmail.de",
+        "name": "Kindergarten St.Josef",
+        "phone": "+49 621 492673",
+        "source:geometry": "LGL, www.lgl-bw.de",
+        "website": "www.kindergarten-stjosef-ilvesheim.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5674677,
+              49.473819
+            ],
+            [
+              8.5675699,
+              49.4738998
+            ],
+            [
+              8.5676034,
+              49.4738819
+            ],
+            [
+              8.5677478,
+              49.473996
+            ],
+            [
+              8.5676487,
+              49.474049
+            ],
+            [
+              8.5675051,
+              49.4739355
+            ],
+            [
+              8.5675264,
+              49.4739241
+            ],
+            [
+              8.5673964,
+              49.4738214
+            ],
+            [
+              8.567328,
+              49.4738579
+            ],
+            [
+              8.56722,
+              49.4737725
+            ],
+            [
+              8.5675959,
+              49.4735717
+            ],
+            [
+              8.5677039,
+              49.4736571
+            ],
+            [
+              8.5676104,
+              49.4737071
+            ],
+            [
+              8.5676374,
+              49.4737284
+            ],
+            [
+              8.5674677,
+              49.473819
+            ]
+          ]
+        ]
+      },
+      "id": "way/179240005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180604100",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "68526",
+        "addr:street": "Lustgartenstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Haus des Kindes (Schülerhort)",
+        "phone": "+49 6203 70320",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6090112,
+              49.4698612
+            ],
+            [
+              8.6091091,
+              49.4697274
+            ],
+            [
+              8.6093777,
+              49.4698104
+            ],
+            [
+              8.6092797,
+              49.4699442
+            ],
+            [
+              8.6090112,
+              49.4698612
+            ]
+          ]
+        ]
+      },
+      "id": "way/180604100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180604163",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "68526",
+        "addr:street": "Lustgartenstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "roswitha.doering@ladenburg.de",
+        "name": "Städtische Kindertagesstätte Römernest",
+        "phone": "+49 6203 70310",
+        "website": "http://www.ladenburg.de/kinderg%C3%A4rten.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6087682,
+              49.4703068
+            ],
+            [
+              8.6088473,
+              49.4701919
+            ],
+            [
+              8.609098,
+              49.4702648
+            ],
+            [
+              8.609019,
+              49.4703797
+            ],
+            [
+              8.6087682,
+              49.4703068
+            ]
+          ]
+        ]
+      },
+      "id": "way/180604163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180791959",
+        "addr:city": "Ladenburg",
+        "addr:housenumber": "83",
+        "addr:postcode": "68526",
+        "addr:street": "Breslauer Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "St. Johannes",
+        "phone": "+49 6203 2539",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.kindergarten-ladenburg.de/die-kindergaerten/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5933641,
+              49.4808644
+            ],
+            [
+              8.5937369,
+              49.4807654
+            ],
+            [
+              8.5938077,
+              49.480878
+            ],
+            [
+              8.5934349,
+              49.480977
+            ],
+            [
+              8.5933641,
+              49.4808644
+            ]
+          ]
+        ]
+      },
+      "id": "way/180791959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181567323",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "68526",
+        "addr:street": "Rheingaustraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "St. Joseph Kindergarten",
+        "phone": "+49 6203 2239",
+        "source:geometry": "LGL-BW, www.lgl-bw.de)",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.ladenburg.de/kinderg%C3%A4rten.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6092671,
+              49.4737105
+            ],
+            [
+              8.6092008,
+              49.4736922
+            ],
+            [
+              8.6091402,
+              49.4736732
+            ],
+            [
+              8.6092041,
+              49.4735792
+            ],
+            [
+              8.6091897,
+              49.4735747
+            ],
+            [
+              8.6092066,
+              49.4735519
+            ],
+            [
+              8.6092199,
+              49.4735561
+            ],
+            [
+              8.6092321,
+              49.4735382
+            ],
+            [
+              8.6092831,
+              49.4735503
+            ],
+            [
+              8.6093797,
+              49.4735733
+            ],
+            [
+              8.6093624,
+              49.4735972
+            ],
+            [
+              8.6093516,
+              49.473594
+            ],
+            [
+              8.6092671,
+              49.4737105
+            ]
+          ]
+        ]
+      },
+      "id": "way/181567323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/181722097",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "68526",
+        "addr:street": "Vorderer Rindweg",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Anne-Frank-Kindergarten (ev.)",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6163549,
+              49.4738731
+            ],
+            [
+              8.616522,
+              49.4738566
+            ],
+            [
+              8.6165724,
+              49.4740723
+            ],
+            [
+              8.6164053,
+              49.4740888
+            ],
+            [
+              8.6163549,
+              49.4738731
+            ]
+          ]
+        ]
+      },
+      "id": "way/181722097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182071838",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "60",
+        "addr:postcode": "68239",
+        "addr:street": "Sinsheimer Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kath. Kindergarten St. Adalbert",
+        "phone": "+49 621 47 69 69",
+        "roof:shape": "hipped",
+        "website": "http://www.kathma.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5474479,
+              49.4708619
+            ],
+            [
+              8.5478323,
+              49.4708241
+            ],
+            [
+              8.5478654,
+              49.4709658
+            ],
+            [
+              8.547481,
+              49.4710037
+            ],
+            [
+              8.5474479,
+              49.4708619
+            ]
+          ]
+        ]
+      },
+      "id": "way/182071838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182669694",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5, 7, 11",
+        "addr:postcode": "68239",
+        "addr:street": "Oberkircher Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kath. Kindergarten St. Agnes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5561585,
+              49.4643542
+            ],
+            [
+              8.5561368,
+              49.4641772
+            ],
+            [
+              8.5565161,
+              49.4641576
+            ],
+            [
+              8.5565265,
+              49.464242
+            ],
+            [
+              8.5565399,
+              49.4643512
+            ],
+            [
+              8.5565446,
+              49.4643898
+            ],
+            [
+              8.5563778,
+              49.4643984
+            ],
+            [
+              8.556371,
+              49.4643431
+            ],
+            [
+              8.5561585,
+              49.4643542
+            ]
+          ]
+        ]
+      },
+      "id": "way/182669694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/192420328",
+        "addr:city": "Weinheim",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "69469",
+        "addr:street": "Breslauer Straße",
+        "amenity": "kindergarten",
+        "name": "Kindergarten Kindernest",
+        "website": "http://www.ekiwhm.de/kindergaerten/kindernest/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6405387,
+              49.544024
+            ],
+            [
+              8.6405921,
+              49.5442916
+            ],
+            [
+              8.6398694,
+              49.5443475
+            ],
+            [
+              8.6398004,
+              49.5439949
+            ],
+            [
+              8.6405387,
+              49.544024
+            ]
+          ]
+        ]
+      },
+      "id": "way/192420328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194660402",
+        "addr:city": "Weinheim",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "69469",
+        "addr:street": "Kurt-Schumacher-Straße",
+        "amenity": "kindergarten",
+        "name": "Waldorfkindergarten Weinheim",
+        "website": "http://www.waldorfkindergarten-weinheim.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6352114,
+              49.5446308
+            ],
+            [
+              8.6350379,
+              49.5443183
+            ],
+            [
+              8.6352974,
+              49.5442415
+            ],
+            [
+              8.6353103,
+              49.5443392
+            ],
+            [
+              8.6356437,
+              49.5443189
+            ],
+            [
+              8.6356745,
+              49.5445917
+            ],
+            [
+              8.6352114,
+              49.5446308
+            ]
+          ]
+        ]
+      },
+      "id": "way/194660402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209502460",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "68169",
+        "addr:street": "Zehntstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kindertagesstätte St. Michael",
+        "website": "http://www.caritas-mannheim.de/39548.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4651719,
+              49.4994348
+            ],
+            [
+              8.4650829,
+              49.4994846
+            ],
+            [
+              8.4648886,
+              49.499338
+            ],
+            [
+              8.4649776,
+              49.4992883
+            ],
+            [
+              8.4650679,
+              49.4992931
+            ],
+            [
+              8.4651586,
+              49.4993615
+            ],
+            [
+              8.4651286,
+              49.4993784
+            ],
+            [
+              8.46519,
+              49.4994247
+            ],
+            [
+              8.4651719,
+              49.4994348
+            ]
+          ]
+        ]
+      },
+      "id": "way/209502460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/209538291",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "68169",
+        "addr:street": "Elfenstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "zentrum.elfenstrasse@mannheim.de",
+        "fax": "+49 621 3187642",
+        "name": "Eltern-Kind-Zentrum Elfenstraße",
+        "phone": "+49 621 3210201",
+        "website": "http://www.mannheim.de/bildung-staerken/elkiz-elfenstrasse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4649543,
+              49.5001866
+            ],
+            [
+              8.4648751,
+              49.5002309
+            ],
+            [
+              8.4648299,
+              49.5001969
+            ],
+            [
+              8.4647681,
+              49.5002314
+            ],
+            [
+              8.464485,
+              49.5000179
+            ],
+            [
+              8.4645146,
+              49.5000013
+            ],
+            [
+              8.464626,
+              49.499939
+            ],
+            [
+              8.4649543,
+              49.5001866
+            ]
+          ]
+        ]
+      },
+      "id": "way/209538291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211131665",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "68307",
+        "addr:street": "Ausgasse",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kinderhaus Sandhofen",
+        "source:address": "LGL, www.lgl-bw.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4429571,
+              49.5451568
+            ],
+            [
+              8.4430128,
+              49.5450308
+            ],
+            [
+              8.443159,
+              49.545058
+            ],
+            [
+              8.4431032,
+              49.545184
+            ],
+            [
+              8.4429571,
+              49.5451568
+            ]
+          ]
+        ]
+      },
+      "id": "way/211131665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211364849",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "68307",
+        "addr:street": "Kirchgasse",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "kita.abraham@ekma.de",
+        "name": "Kindertagesstätte Abraham",
+        "phone": "+49 621 775579",
+        "website": "http://www.elh.ekma.de/dreifaltigkeitsgemeinde/?seite=39"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.442075,
+              49.5442834
+            ],
+            [
+              8.4422809,
+              49.5443664
+            ],
+            [
+              8.4422279,
+              49.5444217
+            ],
+            [
+              8.4420221,
+              49.5443386
+            ],
+            [
+              8.442075,
+              49.5442834
+            ]
+          ]
+        ]
+      },
+      "id": "way/211364849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215019650",
+        "addr:city": "Schwetzingen",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "68723",
+        "addr:street": "Marktplatz",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "denomination": "protestant",
+        "name": "Bonhoeffer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5532298,
+              49.4075346
+            ],
+            [
+              8.5531464,
+              49.4074861
+            ],
+            [
+              8.5531035,
+              49.4075173
+            ],
+            [
+              8.5529897,
+              49.4074511
+            ],
+            [
+              8.5531423,
+              49.4073402
+            ],
+            [
+              8.5532561,
+              49.4074064
+            ],
+            [
+              8.5531759,
+              49.4074647
+            ],
+            [
+              8.5532575,
+              49.4075122
+            ],
+            [
+              8.553337,
+              49.4074478
+            ],
+            [
+              8.5535718,
+              49.4075707
+            ],
+            [
+              8.5534444,
+              49.4076737
+            ],
+            [
+              8.5534783,
+              49.4076914
+            ],
+            [
+              8.5534003,
+              49.4077545
+            ],
+            [
+              8.5532713,
+              49.4076869
+            ],
+            [
+              8.5534027,
+              49.4075806
+            ],
+            [
+              8.5533573,
+              49.4075569
+            ],
+            [
+              8.5532712,
+              49.4076266
+            ],
+            [
+              8.553177,
+              49.4075773
+            ],
+            [
+              8.5532298,
+              49.4075346
+            ]
+          ]
+        ]
+      },
+      "id": "way/215019650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215470886",
+        "addr:city": "Edingen-Neckarhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "367, 369",
+        "addr:postcode": "68535",
+        "addr:street": "Hauptstraße",
+        "addr:suburb": "Neckarhausen",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "source": "LGL, www:lgl-bw:de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6030563,
+              49.4624126
+            ],
+            [
+              8.6030576,
+              49.4623555
+            ],
+            [
+              8.6031976,
+              49.4623569
+            ],
+            [
+              8.6031984,
+              49.4623233
+            ],
+            [
+              8.603442,
+              49.4623256
+            ],
+            [
+              8.6034426,
+              49.4623029
+            ],
+            [
+              8.6036337,
+              49.4623048
+            ],
+            [
+              8.6036311,
+              49.4624182
+            ],
+            [
+              8.6033563,
+              49.4624157
+            ],
+            [
+              8.6032238,
+              49.4624144
+            ],
+            [
+              8.6031763,
+              49.462414
+            ],
+            [
+              8.6030563,
+              49.4624126
+            ]
+          ]
+        ]
+      },
+      "id": "way/215470886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/216374016",
+        "addr:city": "Ladenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "68526",
+        "addr:street": "Eponastraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Guenther'scher Kindergarten",
+        "phone": "+49 6203 181451"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6130663,
+              49.4693875
+            ],
+            [
+              8.6130933,
+              49.46936
+            ],
+            [
+              8.613192,
+              49.4694008
+            ],
+            [
+              8.6131411,
+              49.4694528
+            ],
+            [
+              8.6130907,
+              49.4694319
+            ],
+            [
+              8.6130514,
+              49.469472
+            ],
+            [
+              8.6130851,
+              49.469486
+            ],
+            [
+              8.6130342,
+              49.469538
+            ],
+            [
+              8.6130005,
+              49.469524
+            ],
+            [
+              8.6129356,
+              49.4695902
+            ],
+            [
+              8.612914,
+              49.4695813
+            ],
+            [
+              8.6128415,
+              49.4696552
+            ],
+            [
+              8.6126587,
+              49.4695795
+            ],
+            [
+              8.612746,
+              49.4694904
+            ],
+            [
+              8.6127192,
+              49.4694793
+            ],
+            [
+              8.6127493,
+              49.4694486
+            ],
+            [
+              8.6127761,
+              49.4694597
+            ],
+            [
+              8.6128142,
+              49.4694208
+            ],
+            [
+              8.6128777,
+              49.4694471
+            ],
+            [
+              8.612924,
+              49.4693999
+            ],
+            [
+              8.6129406,
+              49.4694067
+            ],
+            [
+              8.6129821,
+              49.4693643
+            ],
+            [
+              8.6129609,
+              49.4693556
+            ],
+            [
+              8.6129947,
+              49.4693212
+            ],
+            [
+              8.6130704,
+              49.4693525
+            ],
+            [
+              8.6130448,
+              49.4693786
+            ],
+            [
+              8.6130663,
+              49.4693875
+            ]
+          ]
+        ]
+      },
+      "id": "way/216374016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218053684",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "36",
+        "addr:postcode": "67059",
+        "addr:street": "Maxstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Prot. Kindergarten Arche-Noha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4462547,
+              49.4808927
+            ],
+            [
+              8.4462328,
+              49.4809106
+            ],
+            [
+              8.4461495,
+              49.4808673
+            ],
+            [
+              8.4461714,
+              49.4808495
+            ],
+            [
+              8.4460968,
+              49.4808107
+            ],
+            [
+              8.4463816,
+              49.4805791
+            ],
+            [
+              8.4465396,
+              49.4806611
+            ],
+            [
+              8.4462547,
+              49.4808927
+            ]
+          ]
+        ]
+      },
+      "id": "way/218053684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/218700440",
+        "addr:city": "Heddesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "68542",
+        "addr:street": "Schulstraße",
+        "amenity": "kindergarten",
+        "denomination": "protestant",
+        "email": "ev.kiga-beindstr@kircheinheddesheim.de",
+        "name": "Evangelischer Kindergarten Beindstraße",
+        "opening_hours": "Mo-Fr 07:30-13:30",
+        "operator": "Evangelische Kirchengemeinde",
+        "phone": "+49 6203 43120",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6027195,
+              49.505297
+            ],
+            [
+              8.6026946,
+              49.5051056
+            ],
+            [
+              8.6028139,
+              49.5051037
+            ],
+            [
+              8.6029236,
+              49.5051095
+            ],
+            [
+              8.603036,
+              49.5051045
+            ],
+            [
+              8.6031255,
+              49.5050897
+            ],
+            [
+              8.6031733,
+              49.5052623
+            ],
+            [
+              8.6027195,
+              49.505297
+            ]
+          ]
+        ]
+      },
+      "id": "way/218700440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220879099",
+        "addr:city": "Eppelheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1a",
+        "addr:postcode": "69214",
+        "addr:street": "Otto-Hahn-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kindertagesstätte \"Friedrich Fröbel\""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6306217,
+              49.4088843
+            ],
+            [
+              8.6306626,
+              49.4088397
+            ],
+            [
+              8.6306941,
+              49.4088494
+            ],
+            [
+              8.6307102,
+              49.4088319
+            ],
+            [
+              8.6307907,
+              49.408811
+            ],
+            [
+              8.6308148,
+              49.408825
+            ],
+            [
+              8.630845,
+              49.4088205
+            ],
+            [
+              8.6309442,
+              49.4089147
+            ],
+            [
+              8.631073,
+              49.4089078
+            ],
+            [
+              8.6311099,
+              49.4089524
+            ],
+            [
+              8.6310669,
+              49.4090012
+            ],
+            [
+              8.6310857,
+              49.4090239
+            ],
+            [
+              8.6310377,
+              49.4090778
+            ],
+            [
+              8.6309087,
+              49.4090815
+            ],
+            [
+              8.6308933,
+              49.4090648
+            ],
+            [
+              8.6308685,
+              49.4090693
+            ],
+            [
+              8.6307585,
+              49.4089611
+            ],
+            [
+              8.6306975,
+              49.4089601
+            ],
+            [
+              8.630678,
+              49.4089401
+            ],
+            [
+              8.6306485,
+              49.4089489
+            ],
+            [
+              8.6306351,
+              49.4089297
+            ],
+            [
+              8.6306432,
+              49.4089087
+            ],
+            [
+              8.6306217,
+              49.4088843
+            ]
+          ]
+        ]
+      },
+      "id": "way/220879099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229634219",
+        "addr:city": "Heddesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "43a",
+        "addr:postcode": "68542",
+        "addr:street": "Rheinstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "komkiga.heddesheim@gmx.de",
+        "name": "Kommunaler Kindergarten",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "operator": "Gemeinde Heddesheim",
+        "phone": "+49 6203 46263",
+        "website": "http://www.heddesheim.de/145?view=publish&item=nursery&id=3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6079649,
+              49.5138377
+            ],
+            [
+              8.6078104,
+              49.5137432
+            ],
+            [
+              8.6079033,
+              49.5137067
+            ],
+            [
+              8.6078795,
+              49.5136807
+            ],
+            [
+              8.6081021,
+              49.513627
+            ],
+            [
+              8.6082317,
+              49.5136364
+            ],
+            [
+              8.6082274,
+              49.5136502
+            ],
+            [
+              8.6083477,
+              49.5136607
+            ],
+            [
+              8.6083229,
+              49.5136984
+            ],
+            [
+              8.6083826,
+              49.5137322
+            ],
+            [
+              8.6083725,
+              49.5137492
+            ],
+            [
+              8.6084133,
+              49.5138224
+            ],
+            [
+              8.6079051,
+              49.513942
+            ],
+            [
+              8.6079239,
+              49.5138466
+            ],
+            [
+              8.6079649,
+              49.5138377
+            ]
+          ]
+        ]
+      },
+      "id": "way/229634219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229973312",
+        "addr:city": "Heddesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "68542",
+        "addr:street": "Johann-Philip-Allmang-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "email": "evang.kindergarten@kircheinheddesheim.de",
+        "name": "Evangelischer Kindergarten",
+        "phone": "+49 6203 41134",
+        "website": "http://www.heddesheim.de/145?view=publish&item=nursery&id=5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6045908,
+              49.50305
+            ],
+            [
+              8.6048513,
+              49.5030621
+            ],
+            [
+              8.6048354,
+              49.5032059
+            ],
+            [
+              8.6050464,
+              49.5032157
+            ],
+            [
+              8.6050318,
+              49.5033475
+            ],
+            [
+              8.6048209,
+              49.5033377
+            ],
+            [
+              8.6048162,
+              49.5033803
+            ],
+            [
+              8.6046376,
+              49.503372
+            ],
+            [
+              8.6046592,
+              49.5031766
+            ],
+            [
+              8.6045772,
+              49.5031728
+            ],
+            [
+              8.6045908,
+              49.50305
+            ]
+          ]
+        ]
+      },
+      "id": "way/229973312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229973321",
+        "addr:city": "Heddesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "68542",
+        "addr:street": "Johann-Philip-Allmang-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kinderkrippe Werderstraße"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6046132,
+              49.5029763
+            ],
+            [
+              8.6046309,
+              49.5027904
+            ],
+            [
+              8.6048467,
+              49.5027991
+            ],
+            [
+              8.604829,
+              49.502985
+            ],
+            [
+              8.6046132,
+              49.5029763
+            ]
+          ]
+        ]
+      },
+      "id": "way/229973321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233361228",
+        "addr:city": "Heddesheim",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "68542",
+        "addr:street": "Schulstraße",
+        "amenity": "kindergarten",
+        "email": "kiga-st-remigius@t-online.de",
+        "name": "kath. Kindergarten St. Remigius Heddesheim",
+        "operator": "Katholische Kirchengemeinde",
+        "phone": "+49 6203 41933",
+        "website": "http://www.kath-kindergarten-heddesheim.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.6008585,
+              49.5054507
+            ],
+            [
+              8.6009083,
+              49.505688
+            ],
+            [
+              8.6007232,
+              49.505708
+            ],
+            [
+              8.6007358,
+              49.5058013
+            ],
+            [
+              8.6007508,
+              49.5058868
+            ],
+            [
+              8.6007552,
+              49.5059146
+            ],
+            [
+              8.600782,
+              49.5060694
+            ],
+            [
+              8.600506,
+              49.5060933
+            ],
+            [
+              8.6004989,
+              49.5060529
+            ],
+            [
+              8.6004906,
+              49.5060059
+            ],
+            [
+              8.6004858,
+              49.5059729
+            ],
+            [
+              8.6005264,
+              49.5059697
+            ],
+            [
+              8.6004616,
+              49.5055767
+            ],
+            [
+              8.6004291,
+              49.5054785
+            ],
+            [
+              8.6001146,
+              49.5054866
+            ],
+            [
+              8.6000898,
+              49.5052089
+            ],
+            [
+              8.600505,
+              49.5052119
+            ],
+            [
+              8.6005287,
+              49.5054692
+            ],
+            [
+              8.6008585,
+              49.5054507
+            ]
+          ]
+        ]
+      },
+      "id": "way/233361228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237118445",
+        "addr:city": "Frankenthal (Pfalz)",
+        "addr:postcode": "67227",
+        "amenity": "kindergarten",
+        "name": "Städtische Kindertagesstätte Hauptstraße",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3759918,
+              49.5489396
+            ],
+            [
+              8.3758946,
+              49.5488105
+            ],
+            [
+              8.3758309,
+              49.5487398
+            ],
+            [
+              8.3757549,
+              49.5486633
+            ],
+            [
+              8.3761929,
+              49.5486382
+            ],
+            [
+              8.3766468,
+              49.5486127
+            ],
+            [
+              8.3766711,
+              49.5487912
+            ],
+            [
+              8.3767104,
+              49.5489794
+            ],
+            [
+              8.3767103,
+              49.5489925
+            ],
+            [
+              8.3764341,
+              49.5489849
+            ],
+            [
+              8.3764403,
+              49.5489129
+            ],
+            [
+              8.3759918,
+              49.5489396
+            ]
+          ]
+        ]
+      },
+      "id": "way/237118445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237603110",
+        "addr:city": "Frankenthal (Pfalz)",
+        "addr:postcode": "67227",
+        "amenity": "kindergarten",
+        "name": "Kindertagesstätte Heilig Kreuz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3755262,
+              49.5510602
+            ],
+            [
+              8.3756023,
+              49.5508802
+            ],
+            [
+              8.3756876,
+              49.550894
+            ],
+            [
+              8.3760681,
+              49.5509553
+            ],
+            [
+              8.3761889,
+              49.5509748
+            ],
+            [
+              8.3762487,
+              49.5509844
+            ],
+            [
+              8.3762669,
+              49.5509874
+            ],
+            [
+              8.3764023,
+              49.5510092
+            ],
+            [
+              8.3765371,
+              49.5510309
+            ],
+            [
+              8.3765076,
+              49.5511067
+            ],
+            [
+              8.3764635,
+              49.5512152
+            ],
+            [
+              8.3761967,
+              49.5511711
+            ],
+            [
+              8.3759981,
+              49.5511383
+            ],
+            [
+              8.3756169,
+              49.5510752
+            ],
+            [
+              8.3755262,
+              49.5510602
+            ]
+          ]
+        ]
+      },
+      "id": "way/237603110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258799401",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "68219",
+        "addr:street": "Distelsand",
+        "amenity": "kindergarten",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5331859,
+              49.4290032
+            ],
+            [
+              8.5331529,
+              49.4289051
+            ],
+            [
+              8.5331759,
+              49.4289018
+            ],
+            [
+              8.5331466,
+              49.4288146
+            ],
+            [
+              8.5332242,
+              49.4288036
+            ],
+            [
+              8.5332444,
+              49.4288637
+            ],
+            [
+              8.5333965,
+              49.4288421
+            ],
+            [
+              8.5333761,
+              49.4287813
+            ],
+            [
+              8.5335254,
+              49.42876
+            ],
+            [
+              8.5335467,
+              49.4288232
+            ],
+            [
+              8.5337006,
+              49.4288013
+            ],
+            [
+              8.5336799,
+              49.4287396
+            ],
+            [
+              8.5337614,
+              49.428728
+            ],
+            [
+              8.533791,
+              49.428816
+            ],
+            [
+              8.5338197,
+              49.4288119
+            ],
+            [
+              8.5338522,
+              49.4289085
+            ],
+            [
+              8.5331859,
+              49.4290032
+            ]
+          ]
+        ]
+      },
+      "id": "way/258799401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298127036",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "32",
+        "addr:postcode": "67069",
+        "addr:street": "Georg-Ludwig-Krebs-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "contact:phone": "+49 621 652926",
+        "name": "Kath. Kindergarten St. Martin II"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4055999,
+              49.5159132
+            ],
+            [
+              8.4055812,
+              49.5157932
+            ],
+            [
+              8.4057137,
+              49.5157845
+            ],
+            [
+              8.4057165,
+              49.515802
+            ],
+            [
+              8.4059913,
+              49.5157839
+            ],
+            [
+              8.4060073,
+              49.5158865
+            ],
+            [
+              8.4055999,
+              49.5159132
+            ]
+          ]
+        ]
+      },
+      "id": "way/298127036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298397490",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "50",
+        "addr:postcode": "68307",
+        "addr:street": "Gryphiusweg",
+        "amenity": "kindergarten",
+        "name": "Kindergarten Gryphiusweg",
+        "operator": "Stadt Mannheim"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4729113,
+              49.5451678
+            ],
+            [
+              8.4729528,
+              49.5446177
+            ],
+            [
+              8.4735946,
+              49.5446321
+            ],
+            [
+              8.4736889,
+              49.5450981
+            ],
+            [
+              8.4735158,
+              49.5450974
+            ],
+            [
+              8.4731678,
+              49.5452017
+            ],
+            [
+              8.4731284,
+              49.5452053
+            ],
+            [
+              8.4729642,
+              49.5452002
+            ],
+            [
+              8.4729275,
+              49.5451895
+            ],
+            [
+              8.4729113,
+              49.5451678
+            ]
+          ]
+        ]
+      },
+      "id": "way/298397490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298848631",
+        "addr:city": "Viernheim",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "68519",
+        "addr:street": "Pirmasenser Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "AWO Kindertagesstätte Pirmasenserstraße",
+        "roof:shape": "gabled",
+        "website": "http://www.awo-viernheim.de/0000009b0a136630b/0000009b0a136d717/index.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5607429,
+              49.5291342
+            ],
+            [
+              8.5606657,
+              49.5290004
+            ],
+            [
+              8.5610818,
+              49.5288992
+            ],
+            [
+              8.5611591,
+              49.5290331
+            ],
+            [
+              8.5607429,
+              49.5291342
+            ]
+          ]
+        ]
+      },
+      "id": "way/298848631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299144635",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "47",
+        "addr:postcode": "67059",
+        "addr:street": "Bayreuther Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "SLS Abenteuerland",
+        "source": "http://www.foerdergemeinschaft.de/wb/pages/sls-abenteuerland.php"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4158111,
+              49.4799737
+            ],
+            [
+              8.4157456,
+              49.4799344
+            ],
+            [
+              8.4157204,
+              49.4799508
+            ],
+            [
+              8.4156414,
+              49.479905
+            ],
+            [
+              8.4157321,
+              49.4798373
+            ],
+            [
+              8.4157036,
+              49.4798231
+            ],
+            [
+              8.4158867,
+              49.4796833
+            ],
+            [
+              8.415917,
+              49.4796986
+            ],
+            [
+              8.416006,
+              49.4796287
+            ],
+            [
+              8.416085,
+              49.4796757
+            ],
+            [
+              8.4160665,
+              49.4796932
+            ],
+            [
+              8.4161337,
+              49.4797303
+            ],
+            [
+              8.4158111,
+              49.4799737
+            ]
+          ]
+        ]
+      },
+      "id": "way/299144635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/305512814",
+        "addr:city": "Viernheim",
+        "addr:country": "DE",
+        "addr:housenumber": "79",
+        "addr:postcode": "68519",
+        "addr:street": "Kirschenstraße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kita Kirschenstraße",
+        "operator": "AWO",
+        "source": "geometry Bing, data survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5723739,
+              49.5494138
+            ],
+            [
+              8.5724465,
+              49.5494111
+            ],
+            [
+              8.5724624,
+              49.5495956
+            ],
+            [
+              8.5723555,
+              49.5495995
+            ],
+            [
+              8.5723563,
+              49.5496089
+            ],
+            [
+              8.5721778,
+              49.5496154
+            ],
+            [
+              8.5721762,
+              49.5495965
+            ],
+            [
+              8.5721141,
+              49.5495988
+            ],
+            [
+              8.5721013,
+              49.5494502
+            ],
+            [
+              8.5720933,
+              49.5494505
+            ],
+            [
+              8.5720869,
+              49.5493769
+            ],
+            [
+              8.5723698,
+              49.5493666
+            ],
+            [
+              8.5723739,
+              49.5494138
+            ]
+          ]
+        ]
+      },
+      "id": "way/305512814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311293235",
+        "addr:city": "Viernheim",
+        "addr:housenumber": "3",
+        "addr:postcode": "68519",
+        "addr:street": "Franconvilleplatz",
+        "amenity": "kindergarten",
+        "name": "Arche Noah"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5898734,
+              49.5409458
+            ],
+            [
+              8.5897481,
+              49.5409372
+            ],
+            [
+              8.5897434,
+              49.5409655
+            ],
+            [
+              8.5892564,
+              49.5409318
+            ],
+            [
+              8.5893191,
+              49.5405505
+            ],
+            [
+              8.5899253,
+              49.5405925
+            ],
+            [
+              8.5898734,
+              49.5409458
+            ]
+          ]
+        ]
+      },
+      "id": "way/311293235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/313926989",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "68",
+        "addr:postcode": "68259",
+        "addr:street": "Am Aubuckel",
+        "amenity": "kindergarten",
+        "name": "Städtischer Kindergarten Aubuckel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5213068,
+              49.4936929
+            ],
+            [
+              8.5213675,
+              49.4934022
+            ],
+            [
+              8.5213886,
+              49.4932639
+            ],
+            [
+              8.5218275,
+              49.4932416
+            ],
+            [
+              8.5221055,
+              49.4932142
+            ],
+            [
+              8.5223183,
+              49.4932908
+            ],
+            [
+              8.5218576,
+              49.4937992
+            ],
+            [
+              8.5217034,
+              49.4937341
+            ],
+            [
+              8.5213068,
+              49.4936929
+            ]
+          ]
+        ]
+      },
+      "id": "way/313926989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/313931455",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "30, 32",
+        "addr:postcode": "68167",
+        "addr:street": "Ulmenweg",
+        "amenity": "kindergarten",
+        "email": "kindergarten.ulmenweg@mannheim.de",
+        "fax": "+49 621 300 95 70",
+        "name": "Kindergarten Ulmenweg",
+        "phone": "+49 621 30 27 09",
+        "website": "http://www.mannheim.de/node/25715",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4901382,
+              49.505578
+            ],
+            [
+              8.4902021,
+              49.5055293
+            ],
+            [
+              8.4902147,
+              49.5055193
+            ],
+            [
+              8.4903517,
+              49.5054119
+            ],
+            [
+              8.4903782,
+              49.5053915
+            ],
+            [
+              8.4903138,
+              49.5053562
+            ],
+            [
+              8.4907521,
+              49.5050229
+            ],
+            [
+              8.4908128,
+              49.5050688
+            ],
+            [
+              8.4908511,
+              49.505132
+            ],
+            [
+              8.4909431,
+              49.5055449
+            ],
+            [
+              8.4905989,
+              49.5058271
+            ],
+            [
+              8.4901382,
+              49.505578
+            ]
+          ]
+        ]
+      },
+      "id": "way/313931455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315359422",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "19",
+        "addr:postcode": "68305",
+        "addr:street": "Stiller Weg",
+        "amenity": "kindergarten",
+        "description": "Kindergarten und Kinderkrippe",
+        "name": "Regenbogen",
+        "operator": "Reha-Südwest Regenbogen gGmbH, Mannheim",
+        "phone": "+49 621 741529",
+        "website": "http://www.regenbogen-ggmbh-ma.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5080511,
+              49.5283487
+            ],
+            [
+              8.5072433,
+              49.5277098
+            ],
+            [
+              8.5072493,
+              49.5276826
+            ],
+            [
+              8.5074938,
+              49.5275455
+            ],
+            [
+              8.5082557,
+              49.527655
+            ],
+            [
+              8.5082839,
+              49.5276717
+            ],
+            [
+              8.5082896,
+              49.5276948
+            ],
+            [
+              8.5080628,
+              49.5283476
+            ],
+            [
+              8.5080511,
+              49.5283487
+            ]
+          ]
+        ]
+      },
+      "id": "way/315359422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316659828",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "77-79",
+        "addr:postcode": "68309",
+        "addr:street": "Ida-Dehmel-Ring",
+        "amenity": "kindergarten",
+        "name": "ElKiZ Ida-Dehmel",
+        "phone": "+49 621 72643",
+        "website": "https://www.mannheim.de/bildung-staerken/elkiz-ida-dehmel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5248356,
+              49.5048127
+            ],
+            [
+              8.5248298,
+              49.5047951
+            ],
+            [
+              8.5248918,
+              49.5047853
+            ],
+            [
+              8.5249394,
+              49.5047401
+            ],
+            [
+              8.5249159,
+              49.5046752
+            ],
+            [
+              8.5249495,
+              49.5046685
+            ],
+            [
+              8.5249297,
+              49.5046153
+            ],
+            [
+              8.5257489,
+              49.5044793
+            ],
+            [
+              8.5258304,
+              49.5045064
+            ],
+            [
+              8.5260057,
+              49.504988
+            ],
+            [
+              8.5252356,
+              49.5051129
+            ],
+            [
+              8.5248356,
+              49.5048127
+            ]
+          ]
+        ]
+      },
+      "id": "way/316659828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/339493368",
+        "addr:city": "Ilvesheim",
+        "addr:housenumber": "33C",
+        "addr:postcode": "68549",
+        "addr:street": "Heddesheimer Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Kinderkrippe \"Kinderkiste\"",
+        "source:address": "survey",
+        "source:geometry": "LGL, www.lgl-bw.de",
+        "website": "http://www.kinderkiste-hd.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5668224,
+              49.4796024
+            ],
+            [
+              8.5668432,
+              49.479612
+            ],
+            [
+              8.5666911,
+              49.4797521
+            ],
+            [
+              8.5665749,
+              49.4796989
+            ],
+            [
+              8.5666217,
+              49.4796558
+            ],
+            [
+              8.5665864,
+              49.4796397
+            ],
+            [
+              8.5666697,
+              49.479563
+            ],
+            [
+              8.566705,
+              49.4795791
+            ],
+            [
+              8.566727,
+              49.4795588
+            ],
+            [
+              8.5667455,
+              49.4795672
+            ],
+            [
+              8.5667722,
+              49.4795427
+            ],
+            [
+              8.5667414,
+              49.4795252
+            ],
+            [
+              8.566755,
+              49.4795151
+            ],
+            [
+              8.5667313,
+              49.4795016
+            ],
+            [
+              8.5668568,
+              49.4794088
+            ],
+            [
+              8.5668804,
+              49.4794223
+            ],
+            [
+              8.566904,
+              49.4794049
+            ],
+            [
+              8.5670058,
+              49.4794629
+            ],
+            [
+              8.5668432,
+              49.4795832
+            ],
+            [
+              8.5668224,
+              49.4796024
+            ]
+          ]
+        ]
+      },
+      "id": "way/339493368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359668592",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "41",
+        "addr:postcode": "67067",
+        "addr:street": "Brückweg",
+        "amenity": "kindergarten",
+        "building:levels": "2",
+        "name": "KTS Brückweg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4279145,
+              49.4468841
+            ],
+            [
+              8.4280501,
+              49.4464975
+            ],
+            [
+              8.4283443,
+              49.4465405
+            ],
+            [
+              8.4282088,
+              49.4469271
+            ],
+            [
+              8.4280563,
+              49.4469061
+            ],
+            [
+              8.4279145,
+              49.4468841
+            ]
+          ]
+        ]
+      },
+      "id": "way/359668592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/359670993",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "41",
+        "addr:postcode": "67067",
+        "addr:street": "Brückweg",
+        "amenity": "kindergarten",
+        "name": "KTS Brückweg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4279225,
+              49.4470605
+            ],
+            [
+              8.4279949,
+              49.4469093
+            ],
+            [
+              8.4282491,
+              49.4469663
+            ],
+            [
+              8.428169,
+              49.4471146
+            ],
+            [
+              8.4279225,
+              49.4470605
+            ]
+          ]
+        ]
+      },
+      "id": "way/359670993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381537682",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "24",
+        "addr:postcode": "68307",
+        "addr:street": "Marienburger Straße",
+        "amenity": "kindergarten",
+        "name": "ElKiZ Marienburger Straße",
+        "note": "Eltern-Kind-Zentrum",
+        "operator": "Stadt Mannheim",
+        "short_name": "ElKiZ",
+        "website": "https://www.mannheim.de/bildung-staerken/elkiz-marienburger-strasse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4710722,
+              49.5474673
+            ],
+            [
+              8.4710621,
+              49.547726
+            ],
+            [
+              8.4710517,
+              49.5478744
+            ],
+            [
+              8.4710508,
+              49.5478951
+            ],
+            [
+              8.4703487,
+              49.5478742
+            ],
+            [
+              8.4702772,
+              49.5478587
+            ],
+            [
+              8.4702583,
+              49.547833
+            ],
+            [
+              8.4702688,
+              49.5478005
+            ],
+            [
+              8.4705577,
+              49.5475161
+            ],
+            [
+              8.4705728,
+              49.5476135
+            ],
+            [
+              8.4708461,
+              49.547621
+            ],
+            [
+              8.4709591,
+              49.5474648
+            ],
+            [
+              8.4710722,
+              49.5474673
+            ]
+          ]
+        ]
+      },
+      "id": "way/381537682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383739222",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "8-10",
+        "addr:postcode": "68167",
+        "addr:street": "Cheliusstraße",
+        "amenity": "kindergarten",
+        "capacity": "20",
+        "email": "medi-kids-leitung@medma.uni-heidelberg.de",
+        "fax": "+49 621 3836808",
+        "max_age": "6",
+        "min_age": "2",
+        "name": "MEDI-KIDS",
+        "operator": "Medizinische Fakultät Mannheim der Uni Heidelberg",
+        "phone": "+49 621 3836807",
+        "website": "http://www.umm.uni-heidelberg.de/medi-kids/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4913233,
+              49.4936583
+            ],
+            [
+              8.4917066,
+              49.4933274
+            ],
+            [
+              8.4920156,
+              49.4934836
+            ],
+            [
+              8.4916186,
+              49.4938183
+            ],
+            [
+              8.4913233,
+              49.4936583
+            ]
+          ]
+        ]
+      },
+      "id": "way/383739222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390488858",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "77",
+        "addr:postcode": "67069",
+        "addr:street": "August-Bebel-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "contact:email": "kts-oppau@ludwigshafen.de",
+        "contact:phone": "+49 621 5042822",
+        "name": "KTS Oppau"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.3949987,
+              49.5198163
+            ],
+            [
+              8.3944249,
+              49.5197448
+            ],
+            [
+              8.3944747,
+              49.5195764
+            ],
+            [
+              8.3946732,
+              49.5196011
+            ],
+            [
+              8.3946923,
+              49.5195365
+            ],
+            [
+              8.394857,
+              49.519557
+            ],
+            [
+              8.3948386,
+              49.5196191
+            ],
+            [
+              8.3950493,
+              49.5196453
+            ],
+            [
+              8.3949987,
+              49.5198163
+            ]
+          ]
+        ]
+      },
+      "id": "way/390488858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406668831",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "100",
+        "addr:postcode": "68305",
+        "addr:street": "Waldpforte",
+        "alt_name": "Kindertagesstätte Waldpforte",
+        "amenity": "kindergarten",
+        "name": "Evangelische Kindertagesstätte Himmelsstern",
+        "operator": "Gnadengemeinde",
+        "phone": "+49 621 7189791",
+        "website": "http://www.gnadengemeinde.ekma.de/kindertagesstaette"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4935733,
+              49.5339922
+            ],
+            [
+              8.4932943,
+              49.5336643
+            ],
+            [
+              8.4935456,
+              49.5335747
+            ],
+            [
+              8.4937976,
+              49.5334848
+            ],
+            [
+              8.4940783,
+              49.533813
+            ],
+            [
+              8.4935733,
+              49.5339922
+            ]
+          ]
+        ]
+      },
+      "id": "way/406668831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/414760685",
+        "addr:city": "Viernheim",
+        "addr:housenumber": "60-62",
+        "addr:postcode": "68519",
+        "addr:street": "Mannheimer Straße",
+        "amenity": "kindergarten",
+        "description": "Kindertagesstätte",
+        "name": "Kapellenberg",
+        "operator": "AWO",
+        "website": "http://www.awo-viernheim.de/krippen-kindertagesstaetten-horte/am-kapellenberg/index.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.5741726,
+              49.5304117
+            ],
+            [
+              8.5733887,
+              49.5301127
+            ],
+            [
+              8.5738447,
+              49.52966
+            ],
+            [
+              8.5749297,
+              49.5298524
+            ],
+            [
+              8.5745412,
+              49.5302113
+            ],
+            [
+              8.5744932,
+              49.5301934
+            ],
+            [
+              8.5744309,
+              49.530249
+            ],
+            [
+              8.5743704,
+              49.5302245
+            ],
+            [
+              8.5741726,
+              49.5304117
+            ]
+          ]
+        ]
+      },
+      "id": "way/414760685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426855983",
+        "addr:city": "Neuhofen",
+        "addr:housenumber": "6",
+        "addr:postcode": "67141",
+        "addr:street": "Max-Slevogt-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Katholischer Kindergarten \"St. Nikolaus\""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4225497,
+              49.418829
+            ],
+            [
+              8.4224919,
+              49.4187437
+            ],
+            [
+              8.4224769,
+              49.4187456
+            ],
+            [
+              8.4224383,
+              49.4186886
+            ],
+            [
+              8.422565,
+              49.4186522
+            ],
+            [
+              8.4225758,
+              49.4186682
+            ],
+            [
+              8.4226671,
+              49.4186421
+            ],
+            [
+              8.4226317,
+              49.4185897
+            ],
+            [
+              8.4227046,
+              49.4185688
+            ],
+            [
+              8.422827,
+              49.4187495
+            ],
+            [
+              8.4225497,
+              49.418829
+            ]
+          ]
+        ]
+      },
+      "id": "way/426855983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482795671",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1-5",
+        "addr:postcode": "68305",
+        "addr:street": "Oberlinweg",
+        "amenity": "kindergarten",
+        "email": "kita-st.marien@kathma-nord.de",
+        "name": "Kindergarten St. Marien",
+        "opening_hours": "Mo-Fr 07:30-13:30",
+        "operator": "Katholische Kirchengemeinde Mannheim Nord",
+        "phone": "+49 621 30085750"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4916291,
+              49.5329271
+            ],
+            [
+              8.4912988,
+              49.5325365
+            ],
+            [
+              8.4918184,
+              49.5323514
+            ],
+            [
+              8.4920538,
+              49.5326297
+            ],
+            [
+              8.4921488,
+              49.532742
+            ],
+            [
+              8.4916291,
+              49.5329271
+            ]
+          ]
+        ]
+      },
+      "id": "way/482795671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/510911583",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "67059",
+        "addr:street": "Ernst-Boehe-Straße",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "fixme": "ungenau, gezeichnet nach Augenschein",
+        "name": "Kindertagesstätte LUfanten",
+        "operator": "Studierendenwerk Vorderpfalz",
+        "website": "https://www.studierendenwerk-vorderpfalz.de/home/studieren-mit-kind/kita-lufanten-ludwigshafen.html"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4254752,
+              49.4734233
+            ],
+            [
+              8.4248743,
+              49.4733978
+            ],
+            [
+              8.4248806,
+              49.4733351
+            ],
+            [
+              8.4254815,
+              49.4733606
+            ],
+            [
+              8.4254752,
+              49.4734233
+            ]
+          ]
+        ]
+      },
+      "id": "way/510911583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308507079",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "11",
+        "addr:postcode": "68259",
+        "amenity": "kindergarten",
+        "name": "Evangelischer Kindergarten Kunterbunt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5497415,
+          49.4952399
+        ]
+      },
+      "id": "node/308507079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/365762558",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "23",
+        "addr:postcode": "68259",
+        "addr:street": "Wertheimer Straße",
+        "amenity": "kindergarten",
+        "name": "Städtisches Kinderhaus Wallstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5516182,
+          49.4991472
+        ]
+      },
+      "id": "node/365762558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/392001837",
+        "addr:city": "Limburgerhof",
+        "addr:housenumber": "19",
+        "addr:postcode": "67117",
+        "addr:street": "Carl-Bosch-Straße",
+        "amenity": "kindergarten",
+        "name": "Haus des Kindes",
+        "website": "http://www.haus-des-kindes-limburgerhof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3913047,
+          49.415546
+        ]
+      },
+      "id": "node/392001837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410143773",
+        "addr:city": "Altrip",
+        "addr:country": "DE",
+        "addr:housenumber": "65a",
+        "addr:postcode": "67122",
+        "addr:street": "Rheingönheimer Straße",
+        "amenity": "kindergarten",
+        "name": "Geschwister-Scholl-Kindergarten, Gemeinde Altrip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.489705,
+          49.4319756
+        ]
+      },
+      "id": "node/410143773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/672990738",
+        "addr:housenumber": "67",
+        "addr:postcode": "68305",
+        "addr:street": "Waldpforte",
+        "amenity": "kindergarten",
+        "name": "Jugendhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4927673,
+          49.5341277
+        ]
+      },
+      "id": "node/672990738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/990213824",
+        "addr:city": "Oggersheim",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "67071",
+        "addr:street": "Orangeriestraße",
+        "amenity": "kindergarten",
+        "name": "Evangelischer Kindergarten Oggersheim Orangerie",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.379182,
+          49.4921564
+        ]
+      },
+      "id": "node/990213824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1459290533",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "36",
+        "addr:postcode": "67059",
+        "addr:street": "Waltraudenstraße",
+        "amenity": "kindergarten",
+        "name": "Lummerland",
+        "source": "http://www.ludwigshafen.de/leben_in_ludwigshafen/familien/kindertagesstaetten/nord_hemshof_friesenheim_west/kts_lummerland/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4257772,
+          49.481162
+        ]
+      },
+      "id": "node/1459290533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1485636600",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "67059",
+        "addr:street": "Burgundenstraße",
+        "amenity": "kindergarten",
+        "name": "Katholischer Kindergarten Heilig Kreuz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4291339,
+          49.4820234
+        ]
+      },
+      "id": "node/1485636600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692100848",
+        "addr:country": "DE",
+        "addr:housenumber": "109",
+        "addr:postcode": "67063",
+        "addr:street": "Erzbergerstraße",
+        "amenity": "kindergarten",
+        "name": "KTS Kinderhaus am Ebertpark",
+        "phone": "+49 621 5043497",
+        "website": "http://www.ludwigshafen.de/lebenswert/bildung/kindertagesstaetten/nord-hemshof-friesenheim-west/kts-kinderhaus-am-ebertpark/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4119649,
+          49.4930634
+        ]
+      },
+      "id": "node/1692100848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932210294",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "187",
+        "addr:postcode": "68167",
+        "addr:street": "Käfertaler Straße",
+        "amenity": "kindergarten",
+        "name": "Panama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4920995,
+          49.4974079
+        ]
+      },
+      "id": "node/1932210294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051623194",
+        "addr:city": "Weinheim",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "69469",
+        "addr:street": "Konrad-Adenauer-Straße",
+        "amenity": "kindergarten",
+        "contact:email": "kita-kuhweid@weinheim.de",
+        "name": "Kindertagesstätte \"Kuhweid\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6347951,
+          49.5440952
+        ]
+      },
+      "id": "node/2051623194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2191133589",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "68165",
+        "addr:street": "Weidenstraße",
+        "amenity": "kindergarten",
+        "name": "städtische Kinderkrippe",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4862124,
+          49.4753724
+        ]
+      },
+      "id": "node/2191133589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2264975426",
+        "addr:postcode": "67065",
+        "addr:street": "Niederfeldstraße",
+        "amenity": "kindergarten",
+        "name": "St. Hildegard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4027681,
+          49.4744741
+        ]
+      },
+      "id": "node/2264975426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2602972197",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "15",
+        "addr:postcode": "67067",
+        "addr:street": "Silgestraße",
+        "amenity": "kindergarten",
+        "name": "St. Michael Kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3739239,
+          49.4564887
+        ]
+      },
+      "id": "node/2602972197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3870544203",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68167",
+        "addr:street": "Cheliusstraße",
+        "amenity": "kindergarten",
+        "email": "kinderhaus.cheliusstrasse@mannheim.de",
+        "fax": "+49 621 3365895",
+        "name": "KH Cheliusstraße",
+        "operator": "Stadt Mannheim",
+        "phone": "+49 621 3365894",
+        "website": "http://www.mannheim.de/bildung-staerken/kh-cheliusstrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49073,
+          49.4936155
+        ]
+      },
+      "id": "node/3870544203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4152163432",
+        "addr:city": "Heddesheim",
+        "addr:housenumber": "72a",
+        "addr:postcode": "68542",
+        "addr:street": "Ahornstraße",
+        "amenity": "kindergarten",
+        "capacity": "20",
+        "denomination": "none",
+        "email": "krippe.heddesheim@postillion.org",
+        "max_age": "3",
+        "min_age": "0.167",
+        "name": "Postillion e.V.",
+        "operator": "Postillion e.V.",
+        "phone": "+49 6203 4048644",
+        "religion": "none",
+        "website": "http://www.postillion.org/heddesheim/index.shtml"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6149791,
+          49.5139677
+        ]
+      },
+      "id": "node/4152163432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853165921",
+        "addr:city": "Ladenburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "68526",
+        "addr:street": "Kurzgewannstraße",
+        "amenity": "kindergarten",
+        "name": "Bärenstarke Kinder - Private Kinderkrippe",
+        "toilets:wheelchair": "yes",
+        "website": "http://kindertagespflege-ladenburg.de",
+        "wheelchair": "no",
+        "wheelchair:description": "+49 6203 8405346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6122745,
+          49.4747216
+        ]
+      },
+      "id": "node/4853165921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853952122",
+        "addr:city": "Ladenburg",
+        "addr:housenumber": "19",
+        "addr:postcode": "68526",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "kindergarten",
+        "name": "AWO Kindervilla",
+        "phone": "+49 6203 1079229",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.awo-rhein-neckar.de/kinderbetreuung/kinderkrippe-ladenburg-awo%C2%B4s-kindervilla",
+        "wheelchair": "yes",
+        "wheelchair:description": "http://www.awo-rhein-neckar.de/kinderbetreuung/kinderkrippe-ladenburg-awo%C2%B4s-kindervilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6041598,
+          49.4720063
+        ]
+      },
+      "id": "node/4853952122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5121431075",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "36",
+        "addr:postcode": "68259",
+        "addr:street": "Andreas-Hofer-Straße",
+        "amenity": "kindergarten",
+        "contact:email": "info@kinderladen-rappelkiste.de",
+        "contact:phone": "+49 621 7900264",
+        "contact:website": "http://kinderladen-rappelkiste.de",
+        "lunch": "yes",
+        "name": "Kinderladen Rappelkiste",
+        "opening_hours": "Mo-Fr 08:00-14:00; Tu,Th 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5260357,
+          49.4907363
+        ]
+      },
+      "id": "node/5121431075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142663322",
+        "addr:city": "Ilvesheim",
+        "addr:housenumber": "13",
+        "addr:postcode": "68549",
+        "addr:street": "Deidesheimer Straße",
+        "amenity": "kindergarten",
+        "capacity": "9",
+        "contact:email": "info@entdeckeruniversum.de",
+        "contact:phone": "+49 621 43748834",
+        "contact:website": "http://entdeckeruniversum.de",
+        "max_age": "3",
+        "min_age": "0",
+        "name": "Private Kinderbetreuung D(H)EIN Entdeckeruniversum",
+        "opening_hours": "Mo-Fr 07:00-18:00",
+        "operator": "Dr. Anja Dhein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5646411,
+          49.4739012
+        ]
+      },
+      "id": "node/5142663322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5151701122",
+        "addr:housenumber": "21",
+        "addr:postcode": "68239",
+        "addr:street": "Wasengrund",
+        "amenity": "kindergarten",
+        "name": "Katholischer Kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5395482,
+          49.4551649
+        ]
+      },
+      "id": "node/5151701122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5870762663",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "45a",
+        "addr:postcode": "67063",
+        "addr:street": "Luitpoldstraße",
+        "amenity": "kindergarten",
+        "email": "kita.paulus@evkitalu.de",
+        "name": "Protestantischer Pauluskindergarten",
+        "phone": "0621/ 631740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.411172,
+          49.4978264
+        ]
+      },
+      "id": "node/5870762663"
+    }
+  ]
+}

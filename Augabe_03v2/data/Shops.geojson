@@ -1,0 +1,3708 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-11-12T16:48:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/75688799",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "47",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "building": "yes",
+        "name": "Hilti Deutschland GmbH",
+        "opening_hours": "Mo -Th 07:00 - 17:00; Fr 07:00 - 15:00",
+        "shop": "doityourself",
+        "website": "http://www.hilti.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4571341,
+              49.4980784
+            ],
+            [
+              8.4571009,
+              49.4978997
+            ],
+            [
+              8.4573875,
+              49.4978772
+            ],
+            [
+              8.4574208,
+              49.4980559
+            ],
+            [
+              8.4571341,
+              49.4980784
+            ]
+          ]
+        ]
+      },
+      "id": "way/75688799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85653055",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "68169",
+        "addr:street": "Maybachstraße",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "Kaufland Mannheim",
+        "opening_hours": "Mo-Sa 07:00-21:00",
+        "operator": "Kaufland Warenhandel GmbH & Co. KG",
+        "shop": "supermarket",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4747183,
+              49.5032364
+            ],
+            [
+              8.4745,
+              49.5032608
+            ],
+            [
+              8.4744497,
+              49.5030716
+            ],
+            [
+              8.4755678,
+              49.5029462
+            ],
+            [
+              8.476206,
+              49.5028746
+            ],
+            [
+              8.4762946,
+              49.503208
+            ],
+            [
+              8.4763371,
+              49.5033677
+            ],
+            [
+              8.4747991,
+              49.5035402
+            ],
+            [
+              8.4747183,
+              49.5032364
+            ]
+          ]
+        ]
+      },
+      "id": "way/85653055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/103150760",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "P1",
+        "addr:postcode": "68161",
+        "addr:street": "P1",
+        "branch": "Mannheim Paradeplatz",
+        "brand": "Galeria Kaufhof",
+        "building": "retail",
+        "building:levels": "6",
+        "height": "23",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Galeria Kaufhof",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su,Ph off",
+        "operator": "Galeria Kaufhof GmbH",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "no",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:telephone_cards": "no",
+        "payment:visa": "yes",
+        "phone": "+49 621 38045 0",
+        "roof:shape": "flat",
+        "shop": "department_store",
+        "surveillance": "indoor",
+        "toilets": "yes",
+        "toilets:fee": "yes",
+        "website": "http://www.galeria-kaufhof.de/filialen/mannheim-paradeplatz/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4668847,
+              49.4882621
+            ],
+            [
+              8.4668641,
+              49.4882395
+            ],
+            [
+              8.4664763,
+              49.4878147
+            ],
+            [
+              8.4670793,
+              49.4875825
+            ],
+            [
+              8.4671103,
+              49.4875705
+            ],
+            [
+              8.4675186,
+              49.488018
+            ],
+            [
+              8.4674249,
+              49.4880541
+            ],
+            [
+              8.4668847,
+              49.4882621
+            ]
+          ]
+        ]
+      },
+      "id": "way/103150760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104697833",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "68167",
+        "addr:street": "Eichendorffstraße",
+        "building": "yes",
+        "name": "Welsch Antike Bauernmöbel",
+        "opening_hours": "\"Terminvereinbarung\"",
+        "shop": "antiques"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4812343,
+              49.4955804
+            ],
+            [
+              8.4811972,
+              49.4954678
+            ],
+            [
+              8.4813778,
+              49.495443
+            ],
+            [
+              8.4814141,
+              49.4955562
+            ],
+            [
+              8.4812343,
+              49.4955804
+            ]
+          ]
+        ]
+      },
+      "id": "way/104697833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104825427",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "68167",
+        "addr:street": "Uhlandstraße",
+        "building": "yes",
+        "name": "Altig Radsport",
+        "shop": "bicycle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4800075,
+              49.4963814
+            ],
+            [
+              8.4798629,
+              49.4963997
+            ],
+            [
+              8.4798087,
+              49.4962197
+            ],
+            [
+              8.4799481,
+              49.4962021
+            ],
+            [
+              8.4799663,
+              49.496264
+            ],
+            [
+              8.4799291,
+              49.4962686
+            ],
+            [
+              8.4799452,
+              49.496322
+            ],
+            [
+              8.4799885,
+              49.4963166
+            ],
+            [
+              8.4800075,
+              49.4963814
+            ]
+          ]
+        ]
+      },
+      "id": "way/104825427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/105171939",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "68159",
+        "addr:street": "Schleusenweg",
+        "building": "yes",
+        "name": "Luxury Loft",
+        "shop": "clothes",
+        "website": "http://www.luxuryloft.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4550718,
+              49.4864632
+            ],
+            [
+              8.4551291,
+              49.4867802
+            ],
+            [
+              8.4549474,
+              49.4867943
+            ],
+            [
+              8.4549237,
+              49.4866659
+            ],
+            [
+              8.4548895,
+              49.4864799
+            ],
+            [
+              8.4548832,
+              49.4864456
+            ],
+            [
+              8.4550649,
+              49.4864315
+            ],
+            [
+              8.4550718,
+              49.4864632
+            ]
+          ]
+        ]
+      },
+      "id": "way/105171939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113004901",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "15, 17, 19",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "building": "yes",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4567272,
+              49.4935085
+            ],
+            [
+              8.4566888,
+              49.4933161
+            ],
+            [
+              8.4566661,
+              49.4933179
+            ],
+            [
+              8.4566401,
+              49.4931595
+            ],
+            [
+              8.456824,
+              49.4931462
+            ],
+            [
+              8.4568495,
+              49.4933314
+            ],
+            [
+              8.4568817,
+              49.4935056
+            ],
+            [
+              8.4569581,
+              49.4938527
+            ],
+            [
+              8.4569327,
+              49.493854
+            ],
+            [
+              8.4568048,
+              49.4938627
+            ],
+            [
+              8.4568005,
+              49.4938359
+            ],
+            [
+              8.4567937,
+              49.4937757
+            ],
+            [
+              8.4564795,
+              49.4937989
+            ],
+            [
+              8.4564207,
+              49.4935295
+            ],
+            [
+              8.4567272,
+              49.4935085
+            ]
+          ]
+        ]
+      },
+      "id": "way/113004901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113048635",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "brand": "Kawasaki",
+        "building": "yes",
+        "name": "Kawasaki Nicolai GmbH",
+        "shop": "motorcycle",
+        "website": "http://www.kawasakinicolai.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4562552,
+              49.4926468
+            ],
+            [
+              8.4567088,
+              49.4926227
+            ],
+            [
+              8.4567383,
+              49.4927793
+            ],
+            [
+              8.4562866,
+              49.4928073
+            ],
+            [
+              8.4562552,
+              49.4926468
+            ]
+          ]
+        ]
+      },
+      "id": "way/113048635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113054943",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "90",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "building": "yes",
+        "name": "Bosch Service",
+        "roof:shape": "flat",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4585626,
+              49.4977643
+            ],
+            [
+              8.4583407,
+              49.4977817
+            ],
+            [
+              8.458357,
+              49.4978706
+            ],
+            [
+              8.4580962,
+              49.4978896
+            ],
+            [
+              8.4580721,
+              49.4978764
+            ],
+            [
+              8.457997,
+              49.497544
+            ],
+            [
+              8.4580598,
+              49.4975153
+            ],
+            [
+              8.4580552,
+              49.4974923
+            ],
+            [
+              8.4581344,
+              49.4974868
+            ],
+            [
+              8.458142,
+              49.4975305
+            ],
+            [
+              8.4581705,
+              49.4975291
+            ],
+            [
+              8.4581874,
+              49.4976088
+            ],
+            [
+              8.4585264,
+              49.4975841
+            ],
+            [
+              8.4585626,
+              49.4977643
+            ]
+          ]
+        ]
+      },
+      "id": "way/113054943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114808712",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "45",
+        "addr:postcode": "68159",
+        "addr:street": "Parkring",
+        "building": "yes",
+        "name": "Cascadeur Modevertrieb e.K",
+        "shop": "clothes",
+        "source": "HiRes aerial imagery"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4559237,
+              49.488316
+            ],
+            [
+              8.4557995,
+              49.4883252
+            ],
+            [
+              8.4557259,
+              49.4879066
+            ],
+            [
+              8.4558501,
+              49.4878974
+            ],
+            [
+              8.4559237,
+              49.488316
+            ]
+          ]
+        ]
+      },
+      "id": "way/114808712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/142035420",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "6",
+        "addr:place": "S2",
+        "addr:postcode": "68161",
+        "building": "yes",
+        "note": "eh. Cafe-Casino Bar",
+        "shop": "vacant",
+        "source": "LGL, www:lgl-bw:de, data: survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4696184,
+              49.4901011
+            ],
+            [
+              8.4695791,
+              49.4900579
+            ],
+            [
+              8.4697099,
+              49.4900076
+            ],
+            [
+              8.469733,
+              49.4899988
+            ],
+            [
+              8.4697723,
+              49.4900419
+            ],
+            [
+              8.4696184,
+              49.4901011
+            ]
+          ]
+        ]
+      },
+      "id": "way/142035420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/142173856",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "5-6",
+        "addr:place": "N7",
+        "addr:postcode": "68161",
+        "addr:street": "N7",
+        "brand": "Saturn",
+        "building": "yes",
+        "email": "mannheim@saturn.de",
+        "fax": "+49 621 18153-101",
+        "name": "Saturn",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "phone": "+49 621 18153-0",
+        "shop": "electronics",
+        "website": "http://www.saturn.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4721739,
+              49.4842673
+            ],
+            [
+              8.4714698,
+              49.4845443
+            ],
+            [
+              8.4711236,
+              49.484169
+            ],
+            [
+              8.4710971,
+              49.4841402
+            ],
+            [
+              8.4718122,
+              49.4838751
+            ],
+            [
+              8.4721739,
+              49.4842673
+            ]
+          ]
+        ]
+      },
+      "id": "way/142173856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147393276",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "81",
+        "addr:postcode": "68167",
+        "addr:street": "Käfertaler Straße",
+        "building": "yes",
+        "shop": "vacant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4829044,
+              49.4947109
+            ],
+            [
+              8.4831516,
+              49.4946543
+            ],
+            [
+              8.4832059,
+              49.4947594
+            ],
+            [
+              8.4831711,
+              49.4947663
+            ],
+            [
+              8.4832039,
+              49.4948224
+            ],
+            [
+              8.4830907,
+              49.4948501
+            ],
+            [
+              8.483053,
+              49.4947908
+            ],
+            [
+              8.482995,
+              49.4948049
+            ],
+            [
+              8.4829044,
+              49.4947109
+            ]
+          ]
+        ]
+      },
+      "id": "way/147393276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147722375",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "68167",
+        "addr:street": "Schimperstraße",
+        "building": "apartments",
+        "building:levels": "5",
+        "name": "Chr. Geordiadis",
+        "roof:shape": "gabled",
+        "shop": "electronics"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4724209,
+              49.4999032
+            ],
+            [
+              8.4722315,
+              49.499874
+            ],
+            [
+              8.4722783,
+              49.4997461
+            ],
+            [
+              8.4724676,
+              49.4997753
+            ],
+            [
+              8.4724209,
+              49.4999032
+            ]
+          ]
+        ]
+      },
+      "id": "way/147722375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/148242082",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "97",
+        "addr:postcode": "68169",
+        "addr:street": "Riedfeldstraße",
+        "building": "yes",
+        "note": "eh. Metzgerei Frank",
+        "shop": "vacant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4639576,
+              49.5027379
+            ],
+            [
+              8.4640553,
+              49.5028021
+            ],
+            [
+              8.4640886,
+              49.502824
+            ],
+            [
+              8.4638648,
+              49.5029675
+            ],
+            [
+              8.4637712,
+              49.502906
+            ],
+            [
+              8.4638451,
+              49.5028586
+            ],
+            [
+              8.4638653,
+              49.502872
+            ],
+            [
+              8.4639349,
+              49.5028273
+            ],
+            [
+              8.4638773,
+              49.5027895
+            ],
+            [
+              8.4639576,
+              49.5027379
+            ]
+          ]
+        ]
+      },
+      "id": "way/148242082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/148290930",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "39",
+        "addr:postcode": "68169",
+        "addr:street": "Bürgermeister-Fuchs-Straße",
+        "building": "yes",
+        "note": "eh. Pizzaria Mamma Mia",
+        "shop": "vacant"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4645541,
+              49.5018783
+            ],
+            [
+              8.4644545,
+              49.5019422
+            ],
+            [
+              8.4643326,
+              49.5020204
+            ],
+            [
+              8.4643231,
+              49.5020265
+            ],
+            [
+              8.4642769,
+              49.5019961
+            ],
+            [
+              8.4644164,
+              49.5019066
+            ],
+            [
+              8.4643664,
+              49.5018738
+            ],
+            [
+              8.464374,
+              49.5018689
+            ],
+            [
+              8.4644578,
+              49.5018151
+            ],
+            [
+              8.4645541,
+              49.5018783
+            ]
+          ]
+        ]
+      },
+      "id": "way/148290930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/148290945",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "87",
+        "addr:postcode": "68169",
+        "addr:street": "Riedfeldstraße",
+        "building": "yes",
+        "note": "eh. Cafe terri",
+        "shop": "vacant",
+        "source:geometry": "LGL, www.lgl-bw.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4644898,
+              49.502382
+            ],
+            [
+              8.4645826,
+              49.5023224
+            ],
+            [
+              8.4646371,
+              49.5023583
+            ],
+            [
+              8.4646793,
+              49.5023312
+            ],
+            [
+              8.4647694,
+              49.5023905
+            ],
+            [
+              8.4646447,
+              49.5024706
+            ],
+            [
+              8.4646345,
+              49.5024771
+            ],
+            [
+              8.4644898,
+              49.502382
+            ]
+          ]
+        ]
+      },
+      "id": "way/148290945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158187038",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "building": "yes",
+        "name": "ESBEK-Teppiche e.K.",
+        "roof:shape": "hipped",
+        "shop": "carpet"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4563115,
+              49.491169
+            ],
+            [
+              8.456334,
+              49.4912787
+            ],
+            [
+              8.4560539,
+              49.491303
+            ],
+            [
+              8.4560314,
+              49.4911933
+            ],
+            [
+              8.4560406,
+              49.4911925
+            ],
+            [
+              8.4563115,
+              49.491169
+            ]
+          ]
+        ]
+      },
+      "id": "way/158187038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158828701",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "68159",
+        "addr:street": "Schanzenstraße",
+        "building": "yes",
+        "name": "Reggae Corner",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.461159,
+              49.4951507
+            ],
+            [
+              8.4611783,
+              49.4952325
+            ],
+            [
+              8.4610301,
+              49.4952473
+            ],
+            [
+              8.4609981,
+              49.4951124
+            ],
+            [
+              8.4609976,
+              49.4951119
+            ],
+            [
+              8.4611554,
+              49.4950581
+            ],
+            [
+              8.4612126,
+              49.4951313
+            ],
+            [
+              8.461159,
+              49.4951507
+            ]
+          ]
+        ]
+      },
+      "id": "way/158828701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158828709",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "27",
+        "addr:postcode": "68159",
+        "addr:street": "Seilerstraße",
+        "building": "yes",
+        "name": "BCM GmbH",
+        "shop": "computer",
+        "website": "http://www.bcmcom.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.461608,
+              49.4956434
+            ],
+            [
+              8.4618089,
+              49.4956178
+            ],
+            [
+              8.462032,
+              49.49559
+            ],
+            [
+              8.4620844,
+              49.4957588
+            ],
+            [
+              8.4618175,
+              49.495793
+            ],
+            [
+              8.4616598,
+              49.4958132
+            ],
+            [
+              8.4616449,
+              49.4957636
+            ],
+            [
+              8.4616112,
+              49.4956563
+            ],
+            [
+              8.461608,
+              49.4956434
+            ]
+          ]
+        ]
+      },
+      "id": "way/158828709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158983304",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "68159",
+        "addr:street": "Luisenring",
+        "building": "apartments",
+        "building:levels": "6",
+        "name": "UYAN GmbH Druckerei und Verlag",
+        "roof:shape": "gabled",
+        "shop": "copyshop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4628051,
+              49.4940438
+            ],
+            [
+              8.4627819,
+              49.4941527
+            ],
+            [
+              8.4625767,
+              49.4941343
+            ],
+            [
+              8.4625999,
+              49.4940254
+            ],
+            [
+              8.4628051,
+              49.4940438
+            ]
+          ]
+        ]
+      },
+      "id": "way/158983304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/180438025",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2-8",
+        "addr:place": "O3",
+        "addr:postcode": "68161",
+        "addr:street": "O3",
+        "building": "retail",
+        "name": "Peek & Cloppenburg",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "phone": "+49 (0) 621 12530",
+        "roof:shape": "flat",
+        "shop": "clothes",
+        "surveillance": "indoor",
+        "website": "http://www.peek-cloppenburg.de/stores/20/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.467544,
+              49.4865795
+            ],
+            [
+              8.4677715,
+              49.4864906
+            ],
+            [
+              8.4678802,
+              49.4864481
+            ],
+            [
+              8.4678723,
+              49.486437
+            ],
+            [
+              8.4682086,
+              49.4863056
+            ],
+            [
+              8.4685797,
+              49.4867065
+            ],
+            [
+              8.4684397,
+              49.4867806
+            ],
+            [
+              8.4684226,
+              49.4867622
+            ],
+            [
+              8.4683941,
+              49.4867733
+            ],
+            [
+              8.4684074,
+              49.4867876
+            ],
+            [
+              8.4680513,
+              49.4869267
+            ],
+            [
+              8.4680437,
+              49.4869185
+            ],
+            [
+              8.4679072,
+              49.4869718
+            ],
+            [
+              8.467544,
+              49.4865795
+            ]
+          ]
+        ]
+      },
+      "id": "way/180438025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197146175",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5c",
+        "addr:place": "F1",
+        "addr:postcode": "68159",
+        "addr:street": "F1",
+        "building": "yes",
+        "building:levels": "1",
+        "email": "info@emilys-finest.de",
+        "height": "3",
+        "name": "Emilys Finest",
+        "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-15:00",
+        "phone": "+49 621 1565784",
+        "shop": "beauty",
+        "website": "http://www.emilys-finest.de/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4669734,
+              49.4892841
+            ],
+            [
+              8.4669812,
+              49.4892925
+            ],
+            [
+              8.4668996,
+              49.4893246
+            ],
+            [
+              8.4668919,
+              49.4893163
+            ],
+            [
+              8.466948,
+              49.4892942
+            ],
+            [
+              8.4669734,
+              49.4892841
+            ]
+          ]
+        ]
+      },
+      "id": "way/197146175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/197146181",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5e",
+        "addr:place": "F1",
+        "addr:postcode": "68159",
+        "addr:street": "F1",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "3",
+        "name": "Schneiderei am Markt",
+        "opening_hours": "Tu,Th 09:30-13:00,14:30-17:30; Sa 09:30-13:00",
+        "phone": "+49 621 3750179",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4667424,
+              49.4893749
+            ],
+            [
+              8.4667501,
+              49.4893832
+            ],
+            [
+              8.466666,
+              49.4894161
+            ],
+            [
+              8.4666583,
+              49.4894079
+            ],
+            [
+              8.4667424,
+              49.4893749
+            ]
+          ]
+        ]
+      },
+      "id": "way/197146181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269791656",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1-5",
+        "addr:postcode": "68161",
+        "addr:street": "R5",
+        "building": "retail",
+        "building:levels": "6",
+        "name": "Bauhaus",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "operator": "Bauhaus GmbH & Co. KG Rhein-Main-Neckar, Mannheim",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:debit_cards": "yes",
+        "payment:notes": "yes",
+        "phone": "+49 621 480282 0",
+        "roof:shape": "flat",
+        "shop": "doityourself",
+        "start_date": "2014-03",
+        "website": "https://www.bauhaus.info/fachcentren/fachcentrum-mannheim/fc/655",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4713474,
+              49.4883233
+            ],
+            [
+              8.4709446,
+              49.4878872
+            ],
+            [
+              8.4716272,
+              49.4876211
+            ],
+            [
+              8.4717738,
+              49.4877799
+            ],
+            [
+              8.4718625,
+              49.4878756
+            ],
+            [
+              8.4720306,
+              49.4880568
+            ],
+            [
+              8.4719015,
+              49.4881073
+            ],
+            [
+              8.4713474,
+              49.4883233
+            ]
+          ]
+        ]
+      },
+      "id": "way/269791656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/314810674",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "6-7",
+        "addr:place": "N5",
+        "addr:postcode": "68161",
+        "addr:street": "N5",
+        "building": "yes",
+        "building:levels": "6",
+        "email": "webshop@engelhorn.de",
+        "fax": "+49 (0)621 167-1404",
+        "name": "engelhorn sports",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "phone": "+49 (0)621 1670-100",
+        "shop": "sports",
+        "source": "LGL, www.lgl-bw.de",
+        "surveillance": "indoor",
+        "website": "http://www.engelhorn.de/sports",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4685668,
+              49.4853218
+            ],
+            [
+              8.4688365,
+              49.4852195
+            ],
+            [
+              8.4688955,
+              49.4852852
+            ],
+            [
+              8.4693308,
+              49.4851202
+            ],
+            [
+              8.4695414,
+              49.4853547
+            ],
+            [
+              8.4688364,
+              49.4856219
+            ],
+            [
+              8.4685668,
+              49.4853218
+            ]
+          ]
+        ]
+      },
+      "id": "way/314810674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319367500",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "35",
+        "addr:place": "S6",
+        "addr:postcode": "68161",
+        "addr:street": "S6",
+        "building": "yes",
+        "roof:shape": "gabled",
+        "shop": "vacant",
+        "source": "LGL, www.lgl-bw.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.473837,
+              49.4877581
+            ],
+            [
+              8.4740009,
+              49.4876941
+            ],
+            [
+              8.4740837,
+              49.4877837
+            ],
+            [
+              8.4740424,
+              49.4877998
+            ],
+            [
+              8.4739198,
+              49.4878476
+            ],
+            [
+              8.473837,
+              49.4877581
+            ]
+          ]
+        ]
+      },
+      "id": "way/319367500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/320580997",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1-2",
+        "addr:place": "T1",
+        "addr:postcode": "68161",
+        "building": "retail",
+        "note": "Decathlon closed 2016-10-15; start_date was 2014-10-30",
+        "old_name": "Decathlon",
+        "old_operator": "Decathlon Sportspezialvertriebs GmbH, Plochingen",
+        "old_shop": "sports",
+        "shop": "vacant",
+        "source": "LGL, www.lgl-bw.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4697354,
+              49.4905285
+            ],
+            [
+              8.4698208,
+              49.4906205
+            ],
+            [
+              8.4696968,
+              49.4906691
+            ],
+            [
+              8.4696931,
+              49.4906651
+            ],
+            [
+              8.4695521,
+              49.4907204
+            ],
+            [
+              8.4695558,
+              49.4907243
+            ],
+            [
+              8.4692574,
+              49.4908413
+            ],
+            [
+              8.4690706,
+              49.4906401
+            ],
+            [
+              8.469634,
+              49.4904193
+            ],
+            [
+              8.4696904,
+              49.49048
+            ],
+            [
+              8.4696969,
+              49.4904775
+            ],
+            [
+              8.4697419,
+              49.4905259
+            ],
+            [
+              8.4697354,
+              49.4905285
+            ]
+          ]
+        ]
+      },
+      "id": "way/320580997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/343605271",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "68167",
+        "addr:street": "Lenaustraße",
+        "building": "apartments",
+        "note": "eh. Lenau-Klause",
+        "shop": "vacant",
+        "source:address": "survey",
+        "source:geometry": "LGL, www.lgl-bw.de"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4789966,
+              49.4972893
+            ],
+            [
+              8.4790144,
+              49.4973754
+            ],
+            [
+              8.478969,
+              49.4973793
+            ],
+            [
+              8.478907,
+              49.4974532
+            ],
+            [
+              8.4788922,
+              49.4974708
+            ],
+            [
+              8.4787597,
+              49.4974239
+            ],
+            [
+              8.4788654,
+              49.497298
+            ],
+            [
+              8.4789906,
+              49.4972871
+            ],
+            [
+              8.4789961,
+              49.4972866
+            ],
+            [
+              8.4789966,
+              49.4972893
+            ]
+          ]
+        ]
+      },
+      "id": "way/343605271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398942392",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2a-4",
+        "addr:place": "N7",
+        "addr:postcode": "68161",
+        "addr:street": "N7",
+        "branch": "Mannheim N7",
+        "brand": "Galeria Kaufhof",
+        "contact:phone": "+49 621 1508 0",
+        "contact:website": "http://www.galeria-kaufhof.de/filialen/mannheim-kunststrasse/",
+        "level": "-1;0;1;2;3;4",
+        "name": "Galeria Kaufhof",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su,PH off",
+        "operator": "Galeria Kaufhof GmbH",
+        "payment:coins": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "shop": "department_store",
+        "surveillance": "indoor",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.4705809,
+              49.4848956
+            ],
+            [
+              8.4702105,
+              49.4845867
+            ],
+            [
+              8.4708908,
+              49.4843178
+            ],
+            [
+              8.471202,
+              49.4846501
+            ],
+            [
+              8.4710836,
+              49.4846969
+            ],
+            [
+              8.4705809,
+              49.4848956
+            ]
+          ]
+        ]
+      },
+      "id": "way/398942392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282053292",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "51",
+        "addr:postcode": "68169",
+        "addr:street": "Waldhofstraße",
+        "name": "Treffpunkt Ciko",
+        "shop": "kiosk",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4704722,
+          49.502048
+        ]
+      },
+      "id": "node/282053292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303550876",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "4-8",
+        "addr:place": "D1",
+        "addr:postcode": "68159",
+        "addr:street": "D1",
+        "branch": "Mannheim",
+        "brand": "C&A",
+        "contact:phone": "+49 621 18030",
+        "contact:website": "http://www.canda.de",
+        "name": "C&A",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su,PH off",
+        "organic": "no",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "no",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:telephone_cards": "no",
+        "payment:visa": "yes",
+        "second_hand": "no",
+        "shop": "clothes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4657346,
+          49.4877002
+        ]
+      },
+      "id": "node/303550876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303633072",
+        "addr:country": "DE",
+        "addr:housenumber": "4-6",
+        "addr:postcode": "68161",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "is_in": "Mannheim",
+        "last_check": "2018-04",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "payment:contactless": "yes",
+        "shop": "supermarket",
+        "source:payment:contactless": "https://www.lidl.de/de/kontaktlos-bezahlen/s7374162",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4681511,
+          49.4894621
+        ]
+      },
+      "id": "node/303633072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/419950160",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "5",
+        "addr:place": "H5",
+        "addr:postcode": "68159",
+        "name": "Norma",
+        "opening_hours": "Mo-Sa 08:00-21:00",
+        "shop": "supermarket",
+        "website": "http://www.norma-online.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4643082,
+          49.4915378
+        ]
+      },
+      "id": "node/419950160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674110636",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:place": "U5",
+        "addr:postcode": "68161",
+        "addr:street": "U5",
+        "name": "Prima Vera",
+        "shop": "kiosk",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4731318,
+          49.4902512
+        ]
+      },
+      "id": "node/674110636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/689929859",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "68161",
+        "addr:street": "Friedrichsring",
+        "contact:phone": "+49 621 1225055",
+        "contact:website": "http://www.schneideraum-mannheim.de",
+        "image": "https://commons.wikimedia.org/wiki/File:Schneideraum_Mannheim_Friedrichsplatz.jpg",
+        "last_check": "2016-06-03",
+        "name": "Schneideraum",
+        "opening_hours": "Tu,We,Fr 9:00-18:00;Th 11:00-20:00;Sa 8:00-13:00",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.475842,
+          49.4854424
+        ]
+      },
+      "id": "node/689929859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/872544046",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "53",
+        "addr:postcode": "68169",
+        "addr:street": "Waldhofstraße",
+        "name": "Speed Automobile",
+        "phone": "+496213391818",
+        "shop": "car",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4701414,
+          49.5021051
+        ]
+      },
+      "id": "node/872544046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/946956074",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:place": "N1",
+        "addr:postcode": "68161",
+        "addr:street": "N1",
+        "addr:suburb": "Innenstadt",
+        "brand": "Rewe City",
+        "contact:phone": "+49 621 12508635",
+        "contact:website": "http://www.rewe.de/meinkaufsbox/markt/marktsuche.html",
+        "name": "REWE City",
+        "opening_hours": "Mo-Sa 07:00-24:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:telephone_cards": "no",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "surveillance": "indoor",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4659606,
+          49.4865593
+        ]
+      },
+      "id": "node/946956074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1191041678",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68161",
+        "addr:street": "T1",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "image": "https://commons.wikimedia.org/wiki/File:Tchibo_Filiale_Mannheim_P2.jpg",
+        "name": "Tchibo Filiale",
+        "opening_hours": "Mo-Sa 08:30-20:00",
+        "phone": "+49 1805 829000",
+        "shop": "deli",
+        "smoking": "no",
+        "website": "http://www.tchibo.de/filialfinder/lat/49.4874592/lon/8.4660395/page/1/zip/25704/city/Mannheim",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4672776,
+          49.4875177
+        ]
+      },
+      "id": "node/1191041678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1191041683",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68161",
+        "addr:street": "T1",
+        "amenity": "cafe",
+        "cuisine": "bagel;breakfast;cake;coffee_shop",
+        "delivery": "no",
+        "image": "https://commons.wikimedia.org/wiki/File:Kamps_Mannheim_P2.jpg",
+        "internet_access": "no",
+        "name": "Bäckerei Kamps",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "shop": "bakery",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.467558,
+          49.4874104
+        ]
+      },
+      "id": "node/1191041683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1450992657",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "68159",
+        "addr:street": "H3",
+        "level": "0",
+        "name": "Taksim Baklava",
+        "opening_hours": "Mo-Su 06:30-22:00; PH unknown",
+        "phone": "+49 621 27939",
+        "shop": "bakery",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4664324,
+          49.4906905
+        ]
+      },
+      "id": "node/1450992657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1547831828",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68161",
+        "addr:street": "T1",
+        "image": "https://commons.wikimedia.org/wiki/File:Bijou_Brigitte_Mannheim_P2.jpg",
+        "name": "Bijou Brigitte Mode Accessoires",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "shop": "clothes",
+        "surveillance": "indoor",
+        "website": "http://www.bijou-brigitte.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4674263,
+          49.4874608
+        ]
+      },
+      "id": "node/1547831828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1548647604",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "5-8",
+        "addr:postcode": "68159",
+        "addr:street": "D2",
+        "contact:phone": "+49 621 12506560",
+        "contact:website": "https://baby-walz.de/filiale-mannheim/",
+        "name": "Baby-Walz",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "shop": "baby_goods"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.464635,
+          49.4882006
+        ]
+      },
+      "id": "node/1548647604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1553608130",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "68161",
+        "addr:street": "Fressgasse",
+        "lastcheck": "2018-4",
+        "name": "Martex",
+        "opening_hours": "Mo-Fr 10:00-19:00;Sa 10:00-18:00",
+        "shop": "furniture",
+        "website": "http://www.wohnen.de/martex-moebel.html",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.47414,
+          49.4857062
+        ]
+      },
+      "id": "node/1553608130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1554516026",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "3",
+        "addr:postcode": "68161",
+        "addr:street": "s2",
+        "beauty": "non_profit,_kulturbüro",
+        "image": "https://commons.wikimedia.org/wiki/File:Schick_%26_sch%C3%B6n_Mannheim_S2.jpg",
+        "name": "Kulturbrücken e.V.",
+        "opening_hours": "Tu, Th 10:00-16:00; We, Fr 10:00-19:00; Sa 10:00-16:00",
+        "phone": "+49 151 56930805",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.469406,
+          49.4898421
+        ]
+      },
+      "id": "node/1554516026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1557288343",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "15a",
+        "addr:postcode": "68161",
+        "addr:street": "M2",
+        "image": "https://commons.wikimedia.org/wiki/File:Emotion_Provence_Mannheim_M2.jpg",
+        "name": "umgekrempelt",
+        "opening_hours": "We-Fr 11:00-14:00,15:00-19:00; Sa 12:00-18:00",
+        "shop": "clothes",
+        "website": "http://www.umgekrempelt-mannheim.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4659406,
+          49.4850669
+        ]
+      },
+      "id": "node/1557288343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1557321152",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "7",
+        "addr:postcode": "68161",
+        "addr:street": "M3",
+        "description": "Bio Bäcker",
+        "name": "Bio Bäcker Bihn",
+        "opening_hours": "Mo-Fr 07:00-16:00, Sa 08:00-16:00",
+        "shop": "bakery",
+        "wheelchair": "limited",
+        "wheelchair:description": "Stufe am Eingang 13 cm hoch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4669263,
+          49.4849223
+        ]
+      },
+      "id": "node/1557321152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1558423913",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "8",
+        "addr:postcode": "68165",
+        "addr:street": "Stresemannstraße",
+        "image": "https://commons.wikimedia.org/wiki/File:LoonyShop_Mannheim_Friedrichsplatz.jpg",
+        "name": "LoonyShop",
+        "opening_hours": "Mo-Fr 9:00-12:00; Mo-Sa 14:00-18:00",
+        "phone": "+49 621 4264717",
+        "shop": "gift",
+        "website": "http://www.loony-design.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4782349,
+          49.484756
+        ]
+      },
+      "id": "node/1558423913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1607341833",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "68167",
+        "addr:street": "Uhlandstraße",
+        "name": "Bücherladen Neckarstadt",
+        "opening_hours": "Mo-Fr 10:00-13:00, 15:00-18:30; Sa 10:00-13:00",
+        "shop": "books",
+        "website": "http://www.buecherladen-neckarstadt.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4805703,
+          49.4962761
+        ]
+      },
+      "id": "node/1607341833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1611570008",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "68169",
+        "addr:street": "Mittelstraße",
+        "image": "https://commons.wikimedia.org/wiki/File:Erciyes_Mannheim-Neckarstadt.jpg",
+        "name": "Erciyes",
+        "shop": "bicycle",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4733258,
+          49.4970841
+        ]
+      },
+      "id": "node/1611570008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1634558431",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:place": "N1",
+        "addr:postcode": "68161",
+        "addr:street": "N1",
+        "addr:suburb": "Innenstadt",
+        "email": "store.mannheim@gravis.de",
+        "fax": "+49 621 4185585",
+        "internet_access": "wlan",
+        "name": "Gravis",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00",
+        "phone": "+49 621 414441",
+        "shop": "computer",
+        "website": "http://www.gravis.de/filialen/mannheim/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4653936,
+          49.4866184
+        ]
+      },
+      "id": "node/1634558431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1651952565",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "68169",
+        "addr:street": "Am Messplatz",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/Ediths-Stadthofladen-1553961214832401/",
+        "email": "service@ediths.eu",
+        "lunch": "yes",
+        "lunch:menu": "Tu-Fr 12:00-14:30",
+        "name": "Edith's Stadthofladen",
+        "opening_hours": "Tu,Fr 10:00-19:00; We,Th,Sa 10:00-15:00",
+        "operator": "Peter Derks",
+        "phone": "+49 621 97607118",
+        "shop": "farm",
+        "start_date": "2014-10",
+        "vending": "bread;vegetables;food;drinks",
+        "website": "http://www.ediths.eu",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.471895,
+          49.4967746
+        ]
+      },
+      "id": "node/1651952565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1920865887",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:place": "N1",
+        "addr:postcode": "68161",
+        "addr:street": "N1",
+        "addr:suburb": "Innenstadt",
+        "fax": "+49 621 97665138",
+        "name": "Sharazat",
+        "phone": "+49 621 97665139",
+        "shop": "jewelry",
+        "website": "http://urbanday.de/index.31.de.html?udb/business_handle=SharazatJuweli-1&sid="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4653315,
+          49.4865479
+        ]
+      },
+      "id": "node/1920865887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1999591867",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:place": "N1",
+        "addr:postcode": "68161",
+        "addr:street": "N1",
+        "addr:suburb": "Innenstadt",
+        "contact:phone": "+49 6207 2720",
+        "contact:website": "http://www.baeckerei-bihn.de",
+        "name": "Bio Bäcker Bihn",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "organic": "only",
+        "payment:cash": "yes",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4656854,
+          49.4866246
+        ]
+      },
+      "id": "node/1999591867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1999591873",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:place": "N1",
+        "addr:postcode": "68161",
+        "addr:street": "N1",
+        "addr:suburb": "Innenstadt",
+        "name": "Unitymedia Partner Store",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "phone": "+49 621 43743301",
+        "shop": "phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4657942,
+          49.4863593
+        ]
+      },
+      "id": "node/1999591873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1999591874",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:place": "N1",
+        "addr:postcode": "68161",
+        "addr:street": "N1",
+        "addr:suburb": "Innenstadt",
+        "name": "Presse und Mehr",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4652576,
+          49.4864588
+        ]
+      },
+      "id": "node/1999591874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1999591878",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:place": "N1",
+        "addr:postcode": "68161",
+        "addr:street": "N1",
+        "addr:suburb": "Innenstadt",
+        "name": "TINTEN -& TONER-SHOP",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-17:00",
+        "phone": "+49 621 7615661",
+        "shop": "computer",
+        "website": "http://www.urbanday.de/index.31.de.html?udb/business_handle=TINTENTONERSHO-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4652154,
+          49.486401
+        ]
+      },
+      "id": "node/1999591878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2010268186",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "68161",
+        "addr:street": "O3",
+        "dog": "no",
+        "email": "teegschwendner-mannheim-berger@t-online.de",
+        "image": "https://commons.wikimedia.org/wiki/File:Tee_Gschwendner_Mannheim_O3.jpg",
+        "name": "Tee Gschwendner",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-18:00",
+        "operator": "Eugen Berger",
+        "phone": "+49 621 291419",
+        "shop": "tea",
+        "update": "Dez 2014",
+        "website": "https://stores.teegschwendner.de/mannheim/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4674525,
+          49.4863512
+        ]
+      },
+      "id": "node/2010268186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027756410",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "26",
+        "addr:place": "P6",
+        "addr:postcode": "68161",
+        "addr:street": "P6",
+        "contact:website": "https://www5.unitymedia.de/privatkunden/shops/Mannheim-P6",
+        "name": "Unitymedia",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-20:00",
+        "opening_hours:lastcheck": "2017-03-28",
+        "shop": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4707591,
+          49.4861395
+        ]
+      },
+      "id": "node/2027756410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2027756413",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68161",
+        "addr:street": "Plankenhofpassage",
+        "email": "info@kosmetik-mannheim.de",
+        "name": "Kosmetik-Institut Wachenheim",
+        "opening_hours": "Mo-Fr 9:00-18:00; Sa 10:00-12:30",
+        "operator": "Radjeka Wachenheim",
+        "phone": "+49 621 1567214",
+        "shop": "beauty",
+        "website": "http://www.kosmetik-mannheim.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4711547,
+          49.4861559
+        ]
+      },
+      "id": "node/2027756413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2054041787",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68161",
+        "addr:street": "T3",
+        "name": "United Electronics",
+        "shop": "electronics",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4719246,
+          49.4904108
+        ]
+      },
+      "id": "node/2054041787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2061273848",
+        "addr:housenumber": "11",
+        "addr:postcode": "68161",
+        "addr:street": "U4",
+        "image": "https://commons.wikimedia.org/wiki/File:SELREISEN_%26_mehr_Mannheim_U4.jpg",
+        "name": "SELREISEN & mehr",
+        "old_name": "Günayline Abendmode",
+        "phone": "+49 621 39158695",
+        "shop": "travel_agency",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4731717,
+          49.4914748
+        ]
+      },
+      "id": "node/2061273848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2062658281",
+        "addr:postcode": "68161",
+        "addr:street": "U3",
+        "fax": "+49 621 153505",
+        "last_check": "2016-05",
+        "name": "Druckerei Hentschel",
+        "phone": "+49 621 21876",
+        "shop": "copyshop",
+        "website": "http://www.druckerei-hentschel.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4728153,
+          49.4914104
+        ]
+      },
+      "id": "node/2062658281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2074232559",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "14",
+        "addr:postcode": "68161",
+        "addr:street": "Q1",
+        "fax": "+49 621 122125-2",
+        "name": "Schuh Kauffmann",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00",
+        "phone": "+49 621 122125-0",
+        "shop": "shoes",
+        "website": "https://www.schuh-kauffmann.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4679536,
+          49.4885015
+        ]
+      },
+      "id": "node/2074232559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2082988387",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "24",
+        "addr:postcode": "68159",
+        "addr:street": "K4",
+        "name": "Toto Lotto Senguel",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa 13:00-22:00; Su 10:00-22:00",
+        "shop": "kiosk",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4664418,
+          49.4927208
+        ]
+      },
+      "id": "node/2082988387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2189758552",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "14",
+        "addr:postcode": "68165",
+        "addr:street": "Lameystraße",
+        "amenity": "cafe",
+        "email": "baecker@kundu.de",
+        "image": "https://commons.wikimedia.org/wiki/File:K%26U_B%C3%A4ckerei_Mannheim-Oststadt.jpg",
+        "name": "K&U Bäckerei",
+        "opening_hours": "Mo-Fr 06:30-18:30; Sa 07:00-13:00; Su 08:00-11:00",
+        "operator": "K&U Bäckerei GmbH",
+        "phone": "+49 621 413192",
+        "shop": "bakery",
+        "source": "http://k-und-u.com",
+        "website": "http://k-und-u.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4782472,
+          49.4866911
+        ]
+      },
+      "id": "node/2189758552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2195437202",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "11",
+        "addr:postcode": "68169",
+        "addr:street": "Mittelstraße",
+        "amenity": "cafe",
+        "cuisine": "Kuchen_und_Torten,_klassische_Konditorei",
+        "internet_access": "no",
+        "name": "Café Mohrenköpfle Konditorei",
+        "opening_hours": "Tu-Su 11:00-18:00",
+        "phone": "+49 621 333886",
+        "shop": "confectionery",
+        "website": "http://www.neckarstadt-west.de/kunst-kultur-und-gastronomie/gastronomie/cafe-mohrenkoepfle-konditorei"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4713117,
+          49.4975204
+        ]
+      },
+      "id": "node/2195437202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197077921",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "55",
+        "addr:postcode": "68169",
+        "addr:street": "Mittelstraße",
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "email": "info@konditorei-cafe-wissenbach.de",
+        "fax": "+49 0621-321230",
+        "internet_access": "no",
+        "name": "Konditorei Café Wissenbach",
+        "opening_hours": "Tu-Fr 9:00-18:30, Sa 9:00-18:00, So 10:00-18:00",
+        "operator": "Horst Wissenbach",
+        "outdoor_seating": "no",
+        "phone": "+49 0621-312181",
+        "shop": "confectionery",
+        "smoking": "no",
+        "website": "http://www.konditorei-cafe-wissenbach.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4661732,
+          49.4995701
+        ]
+      },
+      "id": "node/2197077921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201373738",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "92",
+        "addr:postcode": "68167",
+        "addr:street": "Lange Rötterstraße",
+        "contact:facebook": "https://www.facebook.com/unicati.TinaBergmann",
+        "image": "https://commons.wikimedia.org/wiki/File:Unicati_Mannheim-Neckarstadt.jpg",
+        "name": "unicati",
+        "old_name": "Erik Gröbe Schlüsseldienst",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "phone": "+49 621 44595729",
+        "shop": "gift",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4847949,
+          49.4968958
+        ]
+      },
+      "id": "node/2201373738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201390750",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "27",
+        "addr:postcode": "68167",
+        "addr:street": "Käfertaler Straße",
+        "contact:mobile": "+49 172 6203259",
+        "email": "info@roetzel-raumausstattung.de",
+        "fax": "+49 621 34583",
+        "name": "Roetzel-Raumausstattung",
+        "phone": "+49 621 36021",
+        "shop": "interior_decoration",
+        "website": "http://roetzel-raumausstattung.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4779986,
+          49.4954916
+        ]
+      },
+      "id": "node/2201390750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2512496099",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "22",
+        "addr:postcode": "68169",
+        "addr:street": "Mittelstraße",
+        "name": "Wasch- und Bügelstube Kurt",
+        "opening_hours": "Mo-Fr 7:00-20:00; Sa 9:00-12:00",
+        "operator": "Margitta Kurt",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "payment:maestro": "no",
+        "payment:mastercard": "no",
+        "payment:notes": "yes",
+        "payment:telephone_cards": "no",
+        "payment:visa": "no",
+        "phone": "+49 621 22348",
+        "shop": "laundry",
+        "website": "http://www.waescherei-kurt.regionale-onlinepräsenz.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4713322,
+          49.4977685
+        ]
+      },
+      "id": "node/2512496099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2512528228",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "18",
+        "addr:postcode": "68169",
+        "addr:street": "Waldhofstraße",
+        "disused:shop": "hairdresser",
+        "name": "Haartistic",
+        "shop": "hairdresser",
+        "website": "http://www.haartistic-mannheim.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4721199,
+          49.4986104
+        ]
+      },
+      "id": "node/2512528228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2536038032",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "3",
+        "addr:postcode": "68161",
+        "addr:street": "T1",
+        "image": "https://commons.wikimedia.org/wiki/File:Dm-drogerie_markt_Mannheim_P2.jpg",
+        "name": "dm-drogerie markt",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "payment:cash": "yes",
+        "phone": "+49 621 12508793",
+        "shop": "chemist",
+        "website": "http://www.dm.de/de_homepage/268/filialfinder.html?view=asMarketfinder&address=Mannheim",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4676599,
+          49.4873714
+        ]
+      },
+      "id": "node/2536038032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2537544191",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "68159",
+        "addr:street": "E1",
+        "brand": "Rossmann",
+        "contact:phone": "+49 621 1247979",
+        "contact:website": "https://www.rossmann.de",
+        "last_check": "2018-4",
+        "level": "2",
+        "name": "Rossmann",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off",
+        "operator": "Dirk Rossmann GmbH",
+        "ref:shop:num": "1557",
+        "ref:vatin": "DE115055186",
+        "shop": "chemist",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4663922,
+          49.4882676
+        ]
+      },
+      "id": "node/2537544191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714552761",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "58",
+        "addr:postcode": "68159",
+        "addr:street": "Hafenstraße",
+        "amenity": "cafe",
+        "level": "0",
+        "name": "Mannheimer Backshop",
+        "opening_hours": "Mo-Fr 6:00-18:00;Sa 06:00-15:00",
+        "shop": "bakery",
+        "website": "https://www.facebook.com/MannheimerBackshop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4573701,
+          49.494494
+        ]
+      },
+      "id": "node/2714552761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716767466",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "68159",
+        "addr:street": "Böckstraße",
+        "name": "IEME Supermarkt",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.458986,
+          49.4944107
+        ]
+      },
+      "id": "node/2716767466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3272392752",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "23",
+        "addr:postcode": "68161",
+        "addr:street": "S4",
+        "image": "https://commons.wikimedia.org/wiki/File:Eh._Sine_Mannheim_S4.jpg",
+        "name": "Quagliata's Barbershop",
+        "shop": "hairdresser",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4708212,
+          49.4889294
+        ]
+      },
+      "id": "node/3272392752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3274139074",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "8",
+        "addr:postcode": "68161",
+        "addr:street": "S3",
+        "image": "https://commons.wikimedia.org/wiki/File:Videocenter_Mannheim_S3.jpg",
+        "old_name": "Isbir Bedding",
+        "shop": "vacant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4710637,
+          49.4894409
+        ]
+      },
+      "id": "node/3274139074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3467797040",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "8",
+        "addr:postcode": "68161",
+        "addr:street": "U4",
+        "name": "ENOUGH MERCH",
+        "opening_hours": "Mo-Fr 10:00-17:00; PH off",
+        "operator": "Enough Merchandise Co",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4728518,
+          49.4911335
+        ]
+      },
+      "id": "node/3467797040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3802427257",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "2a-4",
+        "addr:place": "N7",
+        "addr:postcode": "68161",
+        "addr:street": "N7",
+        "alt_name": "CAP ...der Lebensmittelpunkt",
+        "branch": "Mannheim",
+        "brand": "CAP-Markt",
+        "level": "-1",
+        "name": "CAP-Markt",
+        "opening_hours": "Mo-Sa 09:30-20:00;Su,Ph off",
+        "operator": "Sozialunternehmen Neue Arbeit gGmbH",
+        "operator:type": "charity",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4708504,
+          49.4845641
+        ]
+      },
+      "id": "node/3802427257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844507135",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "9",
+        "addr:postcode": "68159",
+        "addr:street": "K2",
+        "name": "offeo - Private Musikschule",
+        "operator": "Wolfram Ernst Blank",
+        "shop": "music",
+        "website": "http://www.orffeo.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4693722,
+          49.492614
+        ]
+      },
+      "id": "node/3844507135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3854030216",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "6",
+        "addr:postcode": "68165",
+        "addr:street": "Stresemannstraße",
+        "clothes": "maternity;babies",
+        "email": "post@mame-mannheim.de",
+        "name": "Mame",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 10:00-16:00",
+        "operator": "Sonja Volz",
+        "phone": "+49 621 44588448",
+        "shop": "clothes",
+        "website": "http://mame-mannheim.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4781031,
+          49.484612
+        ]
+      },
+      "id": "node/3854030216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903537483",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:place": "O4",
+        "addr:postcode": "68161",
+        "addr:street": "O4",
+        "brand": "Reserved",
+        "contact:website": "http://www.reserved.com",
+        "name": "Reserved",
+        "shop": "clothes",
+        "start_date": "2015-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.468682,
+          49.4864877
+        ]
+      },
+      "id": "node/3903537483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032507597",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "29",
+        "addr:postcode": "68159",
+        "addr:street": "K2",
+        "name": "AMR Friseur",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4683381,
+          49.4924027
+        ]
+      },
+      "id": "node/4032507597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4036599075",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "17a",
+        "addr:postcode": "68159",
+        "addr:street": "Neckarvorlandstraße",
+        "email": "sailers-barbershop@gmx.de",
+        "name": "Sailer's Barber Shop",
+        "opening_hours": "Tu-We 10:00-19:00; Th 10:00-20:00; Fr 10:00-19:00; Sa 09:00-15:00",
+        "phone": "+49 621 44598997",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4642255,
+          49.4954594
+        ]
+      },
+      "id": "node/4036599075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4067902399",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "36",
+        "addr:postcode": "68169",
+        "addr:street": "Riedfeldstraße",
+        "name": "Sasas Vintage",
+        "phone": "+49 1577 1356768",
+        "second_hand": "yes",
+        "shop": "clothes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4682197,
+          49.500464
+        ]
+      },
+      "id": "node/4067902399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4133067025",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "4a",
+        "addr:place": "F1",
+        "addr:postcode": "68159",
+        "addr:street": "F1",
+        "brand": "WMF",
+        "name": "WMF",
+        "shop": "houseware",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4670586,
+          49.4888977
+        ]
+      },
+      "id": "node/4133067025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144440489",
+        "addr:city": "Mannheim",
+        "addr:housename": "CAROKISSEN",
+        "addr:housenumber": "8",
+        "addr:postcode": "68167",
+        "addr:street": "Pozzistraße",
+        "name": "CAROKISSEN",
+        "shop": "gift",
+        "website": "carokissen.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4757885,
+          49.4974197
+        ]
+      },
+      "id": "node/4144440489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4163146600",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "41",
+        "addr:postcode": "68169",
+        "addr:street": "Waldhofstraße",
+        "craft": "cleaning_service",
+        "level": "0",
+        "man_made": "works",
+        "name": "Gebäudereinigung",
+        "opening_hours": "Mo-Fr 07:30-12:30,13:30-17:00",
+        "operator": "ASS Gebäudereinigung UG Meisterbetrieb",
+        "phone": "+49 621 861893282",
+        "shop": "craft",
+        "website": "http://www.saubere-fenster-ab-69cent.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4708069,
+          49.5011931
+        ]
+      },
+      "id": "node/4163146600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4221700896",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "6",
+        "addr:postcode": "68161",
+        "addr:street": "R6",
+        "email": "info@upperglass-craftbeer.de",
+        "fax": "+49 6221 65155-94",
+        "name": "upperglass – craftbeer shop & warehouse",
+        "opening_hours": "Mo-Fr 12:00-20:00; Sa 11:00-20:00",
+        "operator": "Ben Herrmann",
+        "phone": "+49 6221 65155-95",
+        "shop": "alcohol",
+        "website": "http://www.upperglass-craftbeer.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4723636,
+          49.4881241
+        ]
+      },
+      "id": "node/4221700896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4317619345",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "4",
+        "addr:postcode": "68169",
+        "addr:street": "Pettenkoferstraße",
+        "name": "Barbershop Neckarstadt",
+        "operator": "Kamil und Erol Karaman",
+        "phone": "+49621-3369984",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4722353,
+          49.5024297
+        ]
+      },
+      "id": "node/4317619345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4399155520",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "38",
+        "addr:postcode": "68169",
+        "addr:street": "Riedfeldstraße",
+        "name": "Jasmin Haarstudio",
+        "opening_hours": "09:00-19:00",
+        "phone": "+49621 30683630",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.468038,
+          49.5005671
+        ]
+      },
+      "id": "node/4399155520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4406847489",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68161",
+        "addr:street": "Q6",
+        "layer": "-1",
+        "level": "-1",
+        "name": "REWE Viering",
+        "opening_hours": "Mo-Sa 08:00-22:00",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:telephone_cards": "no",
+        "payment:visa": "yes",
+        "shop": "supermarket",
+        "website": "https://www.rewe.de/marktseite/rewe-markt-mannheim-q6-q7/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4715362,
+          49.4869238
+        ]
+      },
+      "id": "node/4406847489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4444720291",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "35",
+        "addr:postcode": "68169",
+        "addr:street": "Riedfeldstraße",
+        "level": "0",
+        "name": "Lottoengel",
+        "opening_hours": "07:30-18:00, Su off",
+        "shop": "kiosk",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4680555,
+          49.5003265
+        ]
+      },
+      "id": "node/4444720291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4834454100",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "46",
+        "addr:postcode": "68161",
+        "addr:street": "Friedrichsring",
+        "name": "Fish Spa Mannheim",
+        "phone": "+49 621-44589661",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4757423,
+          49.4905991
+        ]
+      },
+      "id": "node/4834454100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4966696075",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "18",
+        "addr:postcode": "68159",
+        "addr:street": "J1",
+        "name": "GiGi Damenmoden",
+        "old_name": "Cafe Mado",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.468374,
+          49.4909436
+        ]
+      },
+      "id": "node/4966696075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4996304029",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "13",
+        "addr:postcode": "68159",
+        "addr:street": "I3",
+        "name": "Tannios Änderungsschneiderei",
+        "shop": "tailor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4668676,
+          49.4915495
+        ]
+      },
+      "id": "node/4996304029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5070221652",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "47",
+        "addr:postcode": "68169",
+        "addr:street": "Alphornstraße",
+        "description": "Seit 2013 versendet Kuchen im Glas eingeweckte Kuchen von Mannheim aus in die ganze Welt.",
+        "email": "info@kuchen-im-glas.com",
+        "name": "Kuchen im Glas",
+        "operator": "Linda Dröge, Alexandra Bald & Stephanie Becker GbR",
+        "phone": "+49 621 319 76 029",
+        "shop": "gift",
+        "website": "https://www.kuchen-im-glas.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4697657,
+          49.500822
+        ]
+      },
+      "id": "node/5070221652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5235224125",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1-2",
+        "addr:place": "T1",
+        "addr:postcode": "68161",
+        "addr:street": "T1",
+        "name": "Woolworth",
+        "note": "2017-11-17 Neueröffnung. Shop war vorher in T1, 5-10",
+        "opening_hours": "Mo-Sa 9:00-20:00",
+        "shop": "department_store",
+        "start_date": "2017-11-17",
+        "website": "http://www.woolworth.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.469353,
+          49.4906584
+        ]
+      },
+      "id": "node/5235224125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5505159094",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "68161",
+        "addr:street": "Berliner Straße",
+        "name": "piaf&ponti",
+        "phone": "+49 62117027600",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4776238,
+          49.486441
+        ]
+      },
+      "id": "node/5505159094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5541128564",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "25",
+        "addr:postcode": "68161",
+        "addr:street": "P6, Plankenhofpassage",
+        "email": "info@brotundsalz-ma.de",
+        "name": "Brot & Salz",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "operator": "Gastro-Plan GmbH",
+        "phone": "+49 621 71 89 89 43",
+        "shop": "bakery",
+        "website": "https://www.brotundsalz-ma.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4711795,
+          49.4861912
+        ]
+      },
+      "id": "node/5541128564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5541230505",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "25",
+        "addr:postcode": "68161",
+        "addr:street": "Plankenhofpassage P6",
+        "email": "info@fleischboutique-ma.de",
+        "name": "Fleischboutique Mannheim",
+        "opening_hours": "Tu-Fr 12:00-18:30,Sa 10:00-18:30",
+        "operator": "Gastro Plan GmbH",
+        "phone": "+49 (621) 71898946",
+        "shop": "deli",
+        "website": "http://www.fleischboutique-mannheim.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4712085,
+          49.4862214
+        ]
+      },
+      "id": "node/5541230505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5565813425",
+        "addr:city": "Mannheim",
+        "addr:postcode": "68159",
+        "addr:street": "I2",
+        "last_check": "2018-4",
+        "male": "yes",
+        "name": "Enzo u. Franco Per Uomo",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4676294,
+          49.4916345
+        ]
+      },
+      "id": "node/5565813425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5841634146",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "3",
+        "addr:postcode": "68161",
+        "addr:street": "R1",
+        "name": "Backwerk",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4679666,
+          49.4893077
+        ]
+      },
+      "id": "node/5841634146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5841653382",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "68161",
+        "addr:street": "S4",
+        "name": "Teppichreinigung Ryan",
+        "shop": "dry_cleaning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4708584,
+          49.4889767
+        ]
+      },
+      "id": "node/5841653382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5841654919",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "8",
+        "addr:postcode": "68161",
+        "addr:street": "U4",
+        "name": "Formula 1 Dienstleistungen",
+        "phone": "+49 621 86254225",
+        "shop": "dry_cleaning",
+        "website": "http://www.f1dienstleistungen.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4729307,
+          49.4912286
+        ]
+      },
+      "id": "node/5841654919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5906417342",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "8",
+        "addr:postcode": "68161",
+        "addr:street": "T2",
+        "name": "Khatil Hair Lounge",
+        "payment:cash": "yes",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.470468,
+          49.4909865
+        ]
+      },
+      "id": "node/5906417342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6027632115",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "11",
+        "addr:postcode": "68161",
+        "addr:street": "U4",
+        "image": "https://commons.wikimedia.org/wiki/File:SELREISEN_%26_mehr_Mannheim_U4.jpg",
+        "old_name": "SELREISEN & mehr",
+        "shop": "vacant",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4731717,
+          49.4914748
+        ]
+      },
+      "id": "node/6027632115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6033876948",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "68161",
+        "addr:street": "R4",
+        "name": "MAevent",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4708396,
+          49.4887642
+        ]
+      },
+      "id": "node/6033876948"
+    }
+  ]
+}
